@@ -85,6 +85,12 @@ const data=
               "level": "normal"
             },
             {
+              "titulo": "Web de Replit Agent",
+              "url": "https://replit.com/",
+              "descripcion": "Permite crear webs completas",
+              "level": "normal"
+            },
+            {
               "titulo": "Google studio",
               "url": "https://aistudio.google.com/live",
               "descripcion": "",
@@ -264,6 +270,17 @@ const data=
               "level": "normal"
             }
           ]
+        },
+        {
+          "nombre": "CSS",
+          "enlaces": [
+            {
+              "titulo": "Lenguaje CSS",
+              "url": "https://lenguajecss.com/",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
         }
       ]
     },
@@ -282,6 +299,30 @@ const data=
             {
               "titulo": "IBM SkillsBuild",
               "url": "https://sb-auth.skillsbuild.org/login?client_id=yl-internal-adopter&learning_path=https:%2F%2Fskills.yourlearning.ibm.com%2Factivity%2FPLAN-01FB8819682C&redirect_uri=https:%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&response_type=code&scope=openid%20email",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Edx",
+              "url": "https://www.edx.org/es",
+              "descripcion": "Cursos en Harvard, Barkley, ...",
+              "level": "normal"
+            },
+            {
+              "titulo": "Fundación Carlos Slim",
+              "url": "https://aprende.org/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Fundae",
+              "url": "https://www.fundae.es/trabajadores",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Facialix",
+              "url": "https://facialix.com/",
               "descripcion": "",
               "level": "normal"
             }
@@ -313,7 +354,110 @@ const data=
       ]
     },
     {
-      "nombre": "Youtube",
+      "nombre": "Herramientas",
+      "subtemas": [
+        {
+          "nombre": "Generadores ",
+          "enlaces": [
+            {
+              "titulo": "Generador de DNIs, IBAN, ...",
+              "url": "https://generadordni.es/#home",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Generador de DNIs, IBAN, ...",
+              "url": "https://www.generador-de-dni.com/generador-de-dni",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Generador de NIFs Pt",
+              "url": "https://nif.marcosantos.me/?i=2",
+              "descripcion": "",
+              "level": "normal"
+            }
+            
+          ]
+        },
+        {
+          "nombre": "Conversores",
+          "enlaces": [
+            {
+              "titulo": "HTML String encode",
+              "url": "https://onlinestringtools.com/html-encode-string",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "RBG to HEX",
+              "url": "https://www.rgbtohex.net/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "HEX to RBG",
+              "url": "https://www.rgbtohex.net/hex-to-rgb/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "JSON to YML",
+              "url": "https://codebeautify.org/json-to-yaml",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Expresiones regulares",
+              "url": "https://regexr.com/",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
+        },
+        {
+          "nombre": "Imagenes, iconos, ...",
+          "enlaces": [
+            {
+              "titulo": "Iconos",
+              "url": "https://icons8.com/icons/",
+              "descripcion": "Buscar y modificar iconos",
+              "level": "normal"
+            },
+            {
+              "titulo": "Loadings, barras de progreso",
+              "url": "https://loading.io/#",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Loadings y animaciones",
+              "url": "https://lottiefiles.com/free-animations/loading-bar",
+              "descripcion": "",
+              "level": "normal"
+            }            
+          ]
+        }            
+      ]
+    },
+    {
+      "nombre": "ToDo",
+      "subtemas": [
+        {
+          "nombre": "Revisando ",
+          "enlaces": [
+            {
+              "titulo": "Titulo1",
+              "url": "https://www.google.es/",
+              "descripcion": "Bla, bla",
+              "level": "normal"
+            }
+          ]
+        }        
+      ]
+    },
+    {
+      "nombre": "Youtube - Pending",
       "subtemas": [
         {
           "nombre": "IA",
