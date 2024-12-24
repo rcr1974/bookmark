@@ -436,7 +436,75 @@
               "level": "normal"
             }            
           ]
-        }            
+        },
+        {
+          "nombre": "Otros",
+          "enlaces": [
+            {
+              "titulo": "Json viewer",
+              "url": "https://jsonviewer.stack.hu/",
+              "descripcion": "",
+              "level": "normal"
+            }          
+          ]
+        }           
+      ]
+    },
+    {
+      "nombre": "Inglés",
+      "subtemas": [
+        {
+          "nombre": "Traductores",
+          "enlaces": [
+            {
+              "titulo": "Deepl",
+              "url": "https://www.deepl.com/translator",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Linguee",
+              "url": "https://www.linguee.es/",
+              "descripcion": "Bla, bla",
+              "level": "normal"
+            },
+            {
+              "titulo": "Traductor Cambridge",
+              "url": "https://dictionary.cambridge.org/es/translate/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Google Translator",
+              "url": "https://translate.google.es/?hl=es",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Bing Translator",
+              "url": "https://www.bing.com/translator",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
+        },
+        {
+          "nombre": "Material",
+          "enlaces": [
+            {
+              "titulo": "Academia EnglishOn",
+              "url": "https://www.englishon.es/Vocabularios-temario-ingles-cambridge-gratis",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Mª Carmen's blog",
+              "url": "https://mcarmenblogingles.blogspot.com/p/libros-de.html?m=1",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
+        }        
       ]
     },
     {
