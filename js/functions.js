@@ -7,7 +7,7 @@ const mainContent = document.querySelector('.main-content');
 const temasList = document.getElementById('temas-list');
 const enlacesAccordion = document.getElementById('enlaces-accordion');
 const temaActualTitle = document.getElementById('tema-actual');
-const data;
+let data = {};
 
 // Toggle sidebar
 hamburger.addEventListener('click', () => {
