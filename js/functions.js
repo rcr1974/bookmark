@@ -90,11 +90,9 @@ function handleResize() {
 window.addEventListener('resize', handleResize);
 
 async function loadDataFromFile() {
-	debugger;
       try {
         const response = await fetch('./data/data.json');
         const jsonData = await response.text();
-	      debugger;
 	data = JSON.parse(jsonData);
 	cargarTemas();
       } catch (error) {
@@ -103,17 +101,6 @@ async function loadDataFromFile() {
       }
 }
 
-// Cargar datos
-async function cargarDatos() {
-	try {
-		loadDataFromFile();
-		cargarTemas();
-		mostrarTema(0);
-		handleResize();
-	} catch (error) {
-		console.error('Error al cargar los datos:', error);
-	}
-}
-document.addEventListener("DOMContentLoaded", loadDataFromFile);
 // Iniciar la aplicación
-//cargarDatos();
+document.addEventListener("DOMContentLoaded", loadDataFromFile);
+
