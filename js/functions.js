@@ -90,7 +90,7 @@ window.addEventListener('resize', handleResize);
 async function loadDataFromFile() {
 	debugger;
       try {
-        const response = await fetch('./../data/data.json');
+        const response = await fetch('../data/data.json');
         const jsonData = await response.text();
 	      debugger;
         procesarDatos(jsonData);
