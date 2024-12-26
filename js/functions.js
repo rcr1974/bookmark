@@ -24,6 +24,7 @@ function cargarTemas() {
 			${tema.nombre}
 		</button>
 	`).join('');
+	mostrarTema(0);
 }
 
 // Mostrar tema y sus subtemas
@@ -72,6 +73,7 @@ function mostrarTema(temaIndex) {
 			</div>
 		</div>
 	`).join('');
+	handleResize();
 }
 
 // Responsive behavior
@@ -94,6 +96,7 @@ async function loadDataFromFile() {
         const jsonData = await response.text();
 	      debugger;
 	data = JSON.parse(jsonData);
+	cargarTemas();
       } catch (error) {
         console.error('Error al cargar el archivo JSON:', error);
         alert('No se pudo cargar el archivo JSON. Asegúrate de que el archivo esté en la misma carpeta que el HTML.');
@@ -111,6 +114,6 @@ async function cargarDatos() {
 		console.error('Error al cargar los datos:', error);
 	}
 }
-
+document.addEventListener("DOMContentLoaded", loadDataFromFile);
 // Iniciar la aplicación
-cargarDatos();
+//cargarDatos();
