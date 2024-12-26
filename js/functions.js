@@ -93,21 +93,11 @@ async function loadDataFromFile() {
         const response = await fetch('./data/data.json');
         const jsonData = await response.text();
 	      debugger;
-        procesarDatos(jsonData);
+	data = JSON.parse(jsonData);
       } catch (error) {
         console.error('Error al cargar el archivo JSON:', error);
         alert('No se pudo cargar el archivo JSON. Asegúrate de que el archivo esté en la misma carpeta que el HTML.');
       }
-}
-
-function procesarDatos(jsonData) {
-  try {
-	data = JSON.parse(jsonData);
-	  console(data);
-  } catch (error) {
-	console.error('Error al procesar el archivo JSON:', error);
-	alert('El archivo JSON no es válido.');
-  }
 }
 
 // Cargar datos
