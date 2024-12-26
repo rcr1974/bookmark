@@ -7,7 +7,7 @@ const mainContent = document.querySelector('.main-content');
 const temasList = document.getElementById('temas-list');
 const enlacesAccordion = document.getElementById('enlaces-accordion');
 const temaActualTitle = document.getElementById('tema-actual');
-let data = {};
+var data = "";
 
 // Toggle sidebar
 hamburger.addEventListener('click', () => {
@@ -87,22 +87,23 @@ function handleResize() {
 
 window.addEventListener('resize', handleResize);
 
-function loadDataFromFile() {
-	async function cargarArchivo() {
+async function loadDataFromFile() {
+	debugger;
       try {
         const response = await fetch('./../data/data.json');
         const jsonData = await response.text();
+	      debugger;
         procesarDatos(jsonData);
       } catch (error) {
         console.error('Error al cargar el archivo JSON:', error);
         alert('No se pudo cargar el archivo JSON. Asegúrate de que el archivo esté en la misma carpeta que el HTML.');
       }
-    }
 }
 
 function procesarDatos(jsonData) {
   try {
 	data = JSON.parse(jsonData);
+	  console(data);
   } catch (error) {
 	console.error('Error al procesar el archivo JSON:', error);
 	alert('El archivo JSON no es válido.');
