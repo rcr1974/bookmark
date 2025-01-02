@@ -53,6 +53,12 @@
               "url": "https://www.phind.com/",
               "descripcion": "",
               "level": "normal"
+            },
+            {
+              "titulo": "Perplexity",
+              "url": "https://www.perplexity.ai/",
+              "descripcion": "Buscador con IA",
+              "level": "normal"
             }
           ]
         },
@@ -221,12 +227,6 @@
               "titulo": "Giz",
               "url": "https://www.giz.ai/",
               "descripcion": "Puedes ejecutar el modelo que selecciones",
-              "level": "normal"
-            },
-            {
-              "titulo": "Perplexity",
-              "url": "https://www.perplexity.ai/",
-              "descripcion": "Buscador con IA",
               "level": "normal"
             }
           ]
