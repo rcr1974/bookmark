@@ -59,6 +59,12 @@
               "url": "https://www.perplexity.ai/",
               "descripcion": "Buscador con IA",
               "level": "normal"
+            },
+            {
+              "titulo": "Fal",
+              "url": "https://fal.ai/",
+              "descripcion": "Generative media platform for developers",
+              "level": "normal"
             }
           ]
         },
