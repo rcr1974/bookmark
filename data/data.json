@@ -27,7 +27,7 @@
             {
               "titulo": "Gemini",
               "url": "https://gemini.google.com/app",
-              "descripcion": "De Google",
+              "descripcion": "De Google. https://aistudio.google.com/",
               "level": "normal"
             },
             {
@@ -234,7 +234,14 @@
               "url": "https://www.giz.ai/",
               "descripcion": "Puedes ejecutar el modelo que selecciones",
               "level": "normal"
+            },
+            {
+              "titulo": "Gemini studio",
+              "url": "https://aistudio.google.com/",
+              "descripcion": "Sdudio de Gemini, Api Keys, promps, developers, ....",
+              "level": "normal"
             }
+            
           ]
         }
       ]
@@ -353,7 +360,21 @@
               "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
               "descripcion": "Formacion deep learning, llms, ...",
               "level": "normal"
+            },
+            {
+              "titulo": "AI for Beginners",
+              "url": "https://microsoft.github.io/AI-For-Beginners/",
+              "descripcion": "Curso de iniciación de IA desarrollado por Microsoft",
+              "level": "normal"
+            },
+            {
+              "titulo": "Zero to Mastery TensorFlow for Deep Learning",
+              "url": "https://dev.mrdbourke.com/tensorflow-deep-learning/",
+              "descripcion": "Curso de TensorFlow",
+              "level": "normal"
             }
+            
+            
           ]
         }        
       ]
@@ -444,6 +465,17 @@
           ]
         },
         {
+          "nombre": "APIs",
+          "enlaces": [
+            {
+              "titulo": "Free Public Apis",
+              "url": "https://www.freepublicapis.com/",
+              "descripcion": "Coleccion de apis públicas para realizar pruebas",
+              "level": "normal"
+            }          
+          ]
+        },
+        {
           "nombre": "Otros",
           "enlaces": [
             {
@@ -517,12 +549,24 @@
       "nombre": "ToDo",
       "subtemas": [
         {
-          "nombre": "Revisando ",
+          "nombre": "Pendiente de revisar",
           "enlaces": [
             {
-              "titulo": "Titulo1",
-              "url": "https://www.google.es/",
-              "descripcion": "Bla, bla",
+              "titulo": "YouTube - ChatGPT",
+              "url": "https://youtu.be/D2b-b-gQyzg?si=Xd8sjtCKjI3v2u2N",
+              "descripcion": "Tutorial: Cómo usar CHATGPT paso a paso en 2025!, Curso COMPLETO ChatGPT",
+              "level": "normal"
+            },
+            {
+              "titulo": "YouTube - Gemini coder",
+              "url": "https://www.youtube.com/watch?v=5-cFSXztfsM",
+              "descripcion": "Esta IA Crea Apps Completas en SEGUNDOS",
+              "level": "normal"
+            },
+            {
+              "titulo": "YouTube - Curso Pandas",
+              "url": "https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ",
+              "descripcion": "Curso de Pandas",
               "level": "normal"
             }
           ]
