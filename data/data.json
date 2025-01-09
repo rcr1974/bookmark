@@ -602,6 +602,84 @@
               "url": "https://www.skfk-ethical-fashion.com",
               "descripcion": "Mujer",
               "level": "normal"
+            },
+            {
+              "titulo": "Xantik",
+              "url": "https://xantik.net/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Verdedoncella",
+              "url": "https://verdedoncella.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Lolina Shop",
+              "url": "https://lolinashop.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Singular Barcelona",
+              "url": "https://singularbarcelona.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "La gata loca",
+              "url": "https://lagatalocaonline.com/es/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Waipai",
+              "url": "http://www.waipai.com",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Smile",
+              "url": "https://lawebdesmile.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Visto luego existo",
+              "url": "https://www.vistoluegoexisto.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Padana",
+              "url": "https://padana.es/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Desigual",
+              "url": "https://www.desigual.com/es_ES/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Ipanima",
+              "url": "https://www.ipanima.fr/es/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Singular",
+              "url": "https://corseteriasingular.com/",
+              "descripcion": "Mujer",
+              "level": "normal"
+            },
+            {
+              "titulo": "Pedro del hierro",
+              "url": "https://pedrodelhierro.com",
+              "descripcion": "Ambos",
+              "level": "normal"
             }
           ]
         },
