@@ -170,7 +170,20 @@
               "url": "https://www.freepik.com/pikaso/ai-image-generator",
               "descripcion": "",
               "level": "normal"
+            },
+            {
+              "titulo": "Imagen 3",
+              "url": "https://labs.google/fx/es/tools/image-fx",
+              "descripcion": "De Google, de momento no accesible desde España, pero hay truco para acceder.",
+              "level": "high"
+            },
+            {
+              "titulo": "Hailou AI",
+              "url": "https://hailuoaifree.com/es",
+              "descripcion": "",
+              "level": "high"
             }
+            
           ]
         },
         {
@@ -221,6 +234,29 @@
           ]
         },
         {
+          "nombre": "Voz & Música",
+          "enlaces": [
+            {
+              "titulo": "Evenlabs",
+              "url": "https://try.elevenlabs.io/shmdm7umt6gg",
+              "descripcion": "Generador de voces",
+              "level": "normal"
+            },
+            {
+              "titulo": "Suno",
+              "url": "https://suno.com/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "Google music",
+              "url": "https://labs.google/fx/es/tools/music-fx",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
+        },
+        {
           "nombre": "Otros",
           "enlaces": [
             {
@@ -240,8 +276,31 @@
               "url": "https://aistudio.google.com/",
               "descripcion": "Sdudio de Gemini, Api Keys, promps, developers, ....",
               "level": "normal"
+            },
+            {
+              "titulo": "Pinokio",
+              "url": "https://pinokio.computer/",
+              "descripcion": "Ejecutar en local modelo",
+              "level": "normal"
+            },
+            {
+              "titulo": "Websim",
+              "url": "https://websim.ai/",
+              "descripcion": "Permite crear juegos, webs, programas... con el modelo que escojas",
+              "level": "hight"
+            },
+            {
+              "titulo": "Websim",
+              "url": " https://bolt.new/",
+              "descripcion": "Permite crear juegos, webs, programas..., desplegarlo en github, ... con el modelo que escojas",
+              "level": "hight"
+            },            
+            {
+              "titulo": "Notebooklm",
+              "url": "https://notebooklm.google/",
+              "descripcion": "Permite hacer tus apuntes, completarlos, podcasts, ...",
+              "level": "hight"
             }
-            
           ]
         }
       ]
