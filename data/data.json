@@ -812,6 +812,94 @@
       ]
     },
     {
+      "nombre": "Ofertas de trabajo",
+      "subtemas": [
+        {
+          "nombre": "Ofertas de trabajo",
+          "enlaces": [
+            {
+              "titulo": "Sepe",
+              "url": "https://www.empleate.gob.es/empleo/#/",
+              "descripcion": "Servicio público estatal aglutina numerosas ofertas de diferentes portales",
+              "level": "normal"
+            },
+            {
+              "titulo": "Infojobs",
+              "url": "https://www.infojobs.net/",
+              "descripcion": "",
+              "level": "normal"
+            },
+            {
+              "titulo": "RemoteOk",
+              "url": "https://remoteok.com",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Remotive",
+              "url": "https://remotive.com",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Wellfound",
+              "url": "https://wellfound.com",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Flex jobs",
+              "url": "https://www.flexjobs.com/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "We work remotely",
+              "url": "https://weworkremotely.com/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Vacantes remotas",
+              "url": "https://www.vacantesremotas.com",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Getonbrd",
+              "url": "https://www.getonbrd.com/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Malt",
+              "url": "https://www.malt.es/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Prosmarketplace",
+              "url": "https://prosmarketplace.com/es",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Manfred",
+              "url": "https://www.getmanfred.com/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            },
+            {
+              "titulo": "Arc",
+              "url": "https://arc.dev/",
+              "descripcion": "Ofertas de trabajo remoto",
+              "level": "normal"
+            }            
+          ]
+        }  
+      ]
+    },
+    {
       "nombre": "Plantilla",
       "subtemas": [
         {
