@@ -65,7 +65,15 @@
               "url": "https://fal.ai/",
               "descripcion": "Generative media platform for developers",
               "level": "normal"
+            },
+            {
+              "titulo": "Qwen Chat",
+              "url": "https://qwenlm.ai/",
+              "descripcion": "similar a Chatgpt con modelos de Alibaba open source",
+              "level": "high"
             }
+
+              
           ]
         },
         {
@@ -290,7 +298,7 @@
               "level": "hight"
             },
             {
-              "titulo": "Websim",
+              "titulo": "Bolt",
               "url": " https://bolt.new/",
               "descripcion": "Permite crear juegos, webs, programas..., desplegarlo en github, ... con el modelo que escojas",
               "level": "hight"
@@ -300,6 +308,12 @@
               "url": "https://notebooklm.google/",
               "descripcion": "Permite hacer tus apuntes, completarlos, podcasts, ...",
               "level": "hight"
+            },            
+            {
+              "titulo": "LobeChat",
+              "url": "https://lobechat.com/",
+              "descripcion": "Permite ejecutar diferentes modelos",
+              "level": "normal"
             }
           ]
         }
