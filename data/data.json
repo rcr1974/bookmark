@@ -69,7 +69,13 @@
             {
               "titulo": "Qwen Chat",
               "url": "https://qwenlm.ai/",
-              "descripcion": "similar a Chatgpt con modelos de Alibaba open source",
+              "descripcion": "Similar a Chatgpt con modelos de Alibaba open source",
+              "level": "high"
+            },
+            {
+              "titulo": "Hailuo",
+              "url": "https://www.hailuo.ai/",
+              "descripcion": "China potente con grandes empresas detras",
               "level": "high"
             }
 
