@@ -339,7 +339,14 @@
               "url": "https://huggingface.co/",
               "descripcion": "Modelos, permite descargar diferentes modelos, datasets y aplicaciones para deep learnig e IA en general.",
               "level": "hight"
+            },
+            {
+              "titulo": "IA Comunia",
+              "url": "https://iacomunia.com/",
+              "descripcion": "Muestra diferentes modelos, ias, herramientas explicando su uso ",
+              "level": "hight"
             }
+            
           ]
         }
       ]
