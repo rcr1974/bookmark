@@ -126,7 +126,14 @@
               "url": "https://websim.ai/",
               "descripcion": "",
               "level": "normal"
+            },
+            {
+              "titulo": "LlamaCoder",
+              "url": "https://llamacoder.together.ai/",
+              "descripcion": "Contiene diferentes modelos, el modelo Qwen está pensado para codificar, tb está deepseek, ...",
+              "level": "high"
             }
+            
           ]
         },
         {
@@ -320,6 +327,18 @@
               "url": "https://lobechat.com/",
               "descripcion": "Permite ejecutar diferentes modelos",
               "level": "normal"
+            },
+            {
+              "titulo": "Ollama",
+              "url": "https://ollama.com/",
+              "descripcion": "Modelos, permite descargar diferentes modelos y ejecutarlos en local. Parecido a Hugging Face",
+              "level": "hight"
+            },
+            {
+              "titulo": "Hugging Face",
+              "url": "https://huggingface.co/",
+              "descripcion": "Modelos, permite descargar diferentes modelos, datasets y aplicaciones para deep learnig e IA en general.",
+              "level": "hight"
             }
           ]
         }
