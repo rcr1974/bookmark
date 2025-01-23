@@ -345,8 +345,14 @@
               "url": "https://iacomunia.com/",
               "descripcion": "Muestra diferentes modelos, ias, herramientas explicando su uso ",
               "level": "hight"
+            },
+            {
+              "titulo": "AIPure",
+              "url": "https://aipure.ai/category",
+              "descripcion": "Listado de AIs por tematica que existen actualmente.",
+              "level": "hight"
             }
-            
+            https://aipure.ai/category?utm_source=tg&utm_campaign=APKPure_Official&utm_medium=content&utm_term=6430
           ]
         }
       ]
@@ -458,6 +464,12 @@
               "titulo": "Ciencia de Datos y Analítica de Negocio con Python y ChatGPT",
               "url": "https://skills.yourlearning.ibm.com/activity/UDEMY-5320790",
               "descripcion": "Udemy curso de SkillsBuild",
+              "level": "high"
+            },
+            {
+              "titulo": "Prompting Essential",
+              "url": "https://www.coursera.org/programs/becas-google-fundae-prompting-essential-vptz3",
+              "descripcion": "Becas Google Fundae. Prompting Essential",
               "level": "high"
             },
             {
