@@ -302,6 +302,12 @@
               "titulo": "Gemini studio",
               "url": "https://aistudio.google.com/",
               "descripcion": "Sdudio de Gemini, Api Keys, promps, developers, ....",
+              "level": "hight"
+            },
+            {
+              "titulo": "Gamma",
+              "url": "https://gamma.app/es",
+              "descripcion": "Permite crear presentaciones",
               "level": "normal"
             },
             {
