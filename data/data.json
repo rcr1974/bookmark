@@ -293,6 +293,12 @@
               "level": "normal"
             },
             {
+              "titulo": "Ai Detecto",
+              "url": "https://aidetector.pro/",
+              "descripcion": "Detecta que partes de un documento pueden haber sido escritas por una IA",
+              "level": "hight"
+            },            
+            {
               "titulo": "Gemini studio",
               "url": "https://aistudio.google.com/",
               "descripcion": "Sdudio de Gemini, Api Keys, promps, developers, ....",
