@@ -517,7 +517,14 @@
               "url": "https://dev.mrdbourke.com/tensorflow-deep-learning/",
               "descripcion": "Curso de TensorFlow",
               "level": "normal"
+            },
+            {
+              "titulo": "Certificación oficial de Python",
+              "url": "https://edube.org/study",
+              "descripcion": "La formación es gratuita para la certificación, para todos los niveles.",
+              "level": "hight"
             }
+            
             
             
           ]
