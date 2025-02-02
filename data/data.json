@@ -415,6 +415,17 @@
               "level": "normal"
             }
           ]
+        },
+        {
+          "nombre": "Documentación general",
+          "enlaces": [
+            {
+              "titulo": "Programming Notes for Professionals books",
+              "url": "https://books.goalkicker.com/",
+              "descripcion": "",
+              "level": "normal"
+            }
+          ]
         }
       ]
     },
