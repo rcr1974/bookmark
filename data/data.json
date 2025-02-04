@@ -77,9 +77,14 @@
               "url": "https://www.hailuo.ai/",
               "descripcion": "China potente con grandes empresas detras, buenos resultado tipo ChatGpt",
               "level": "high"
+            },
+            {
+              "titulo": "Tulu",
+              "url": "https://playground.allenai.org/",
+              "descripcion": "Modelo Open Source bastante bueno, un poco por debajo de DeepSeek",
+              "level": "high"
             }
-
-              
+             
           ]
         },
         {
