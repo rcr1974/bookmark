@@ -83,8 +83,19 @@
               "url": "https://playground.allenai.org/",
               "descripcion": "Modelo Open Source bastante bueno, un poco por debajo de DeepSeek",
               "level": "high"
+            },
+            {
+              "titulo": "Groq",
+              "url": "https://chat.groq.com/",
+              "descripcion": "Permite ejecutar diferentes modelos en la nube, DeepSeek, Ollama, ...",
+              "level": "high"
+            },
+            {
+              "titulo": "Kimi",
+              "url": "https://chat.groq.com/",
+              "descripcion": "Modelo chino inferior a DeepSeek",
+              "level": "normal"
             }
-             
           ]
         },
         {
@@ -148,8 +159,15 @@
               "titulo": "Justicio",
               "url": "https://justicio.es/",
               "descripcion": "",
+              "level": "hight"
+            },
+            {
+              "titulo": "Asesor Legal",
+              "url": "https://asesor.legal/",
+              "descripcion": "Da respuestas pero si quieres profucdizar hay que pagar",
               "level": "normal"
             }
+            
           ]
         },
         {
@@ -367,6 +385,12 @@
               "titulo": "AIPure",
               "url": "https://aipure.ai/category",
               "descripcion": "Listado de AIs por tematica que existen actualmente.",
+              "level": "hight"
+            },
+            {
+              "titulo": "LM Studio",
+              "url": "https://lmstudio.ai/",
+              "descripcion": "Permite ejecutar en local diferentes tipo de modelos.",
               "level": "hight"
             }
           ]
