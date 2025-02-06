@@ -95,7 +95,15 @@
               "url": "https://chat.groq.com/",
               "descripcion": "Modelo chino inferior a DeepSeek",
               "level": "normal"
+            },
+            {
+              "titulo": "Qwem",
+              "url": https://chat.qwenlm.ai/",
+              "descripcion": "Moldelo de Alibaba (Aliexpress), igal de potente o mas que DeepSeek",
+              "level": "normal"
             }
+
+            
           ]
         },
         {
