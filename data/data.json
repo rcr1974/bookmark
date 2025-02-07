@@ -231,9 +231,15 @@
             },
             {
               "titulo": "Hailou AI",
-              "url": "https://hailuoaifree.com/es",
+              "url": "https://hailuoai.video",
               "descripcion": "",
               "level": "high"
+            },
+            {
+              "titulo": "Leonardo",
+              "url": " https://app.leonardo.ai/",
+              "descripcion": "",
+              "level": "normal"
             }
             
           ]
@@ -399,6 +405,12 @@
               "titulo": "LM Studio",
               "url": "https://lmstudio.ai/",
               "descripcion": "Permite ejecutar en local diferentes tipo de modelos.",
+              "level": "hight"
+            },
+            {
+              "titulo": "Open Router",
+              "url": "https://openrouter.ai/",
+              "descripcion": "Permite ejecutar diferentes modelos en la web, desde aqui podemos ejecutar modelos de deepseek, google, ... Tenemos un limite de creditos, tras terminarse hay que esperar",
               "level": "hight"
             }
           ]
