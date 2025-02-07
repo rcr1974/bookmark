@@ -101,9 +101,13 @@
               "url": https://chat.qwenlm.ai/",
               "descripcion": "Moldelo de Alibaba (Aliexpress), igal de potente o mas que DeepSeek",
               "level": "normal"
-            }
-
-            
+            },
+            {
+              "titulo": "Cohere",
+              "url": https://coral.cohere.com/",
+              "descripcion": "Moldelo canadiense",
+              "level": "normal"
+            }            
           ]
         },
         {
