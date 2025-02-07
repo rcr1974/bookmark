@@ -414,9 +414,22 @@
             {
               "titulo": "Open Router",
               "url": "https://openrouter.ai/",
-              "descripcion": "Permite ejecutar diferentes modelos en la web, desde aqui podemos ejecutar modelos de deepseek, google, ... Tenemos un limite de creditos, tras terminarse hay que esperar",
+              "descripcion": "Permite generar API Keys para diferentes modelos y ejecutarlos en el chat de su web, desde aqui podemos ejecutar modelos de deepseek, google, ... Tenemos un limite de creditos, tras terminarse hay que esperar. https://www.youtube.com/watch?v=jCpn9JOP8Xg&ab_channel=ConcienciaArtificial",
               "level": "hight"
-            }
+            },
+            {
+              "titulo": "Cerebras",
+              "url": "https://cloud.cerebras.ai/",
+              "descripcion": "Similar a Open Router, permite generar API Keys para diferentes modelos. Esta tiene menos modelos que Open Router",
+              "level": "normal"
+            },
+            {
+              "titulo": "Groq",
+              "url": "https://chat.groq.com/",
+              "descripcion": "Permite generar Api Keys y ejecutar diferentes modelos en la nube, DeepSeek, Ollama, ...",
+              "level": "high"
+            },
+            
           ]
         }
       ]
