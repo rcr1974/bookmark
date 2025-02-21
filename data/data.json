@@ -428,7 +428,7 @@
               "url": "https://chat.groq.com/",
               "descripcion": "Permite generar Api Keys y ejecutar diferentes modelos en la nube, DeepSeek, Ollama, ...",
               "level": "high"
-            },
+            }
             
           ]
         }
