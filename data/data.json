@@ -113,7 +113,13 @@
               "url": "https://coral.cohere.com/",
               "descripcion": "Moldelo canadiense",
               "level": "normal"
-            }            
+            },
+            {
+              "titulo": "Duck.ai",
+              "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+              "descripcion": "Se supone que mejor que perplexity. Permite seleccionar models de pago gratis.",
+              "level": "hight"
+            }           
           ]
         },
         {
