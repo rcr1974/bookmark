@@ -172,6 +172,12 @@
               "url": "https://llamacoder.together.ai/",
               "descripcion": "Contiene diferentes modelos, el modelo Qwen está pensado para codificar, tb está deepseek, ...",
               "level": "high"
+            },
+            {
+              "titulo": "LlamaCoder",
+              "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+              "descripcion": "Permite hacer programas en html funcionales con un simple prompt",
+              "level": "high"
             }
             
           ]
