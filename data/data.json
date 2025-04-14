@@ -178,6 +178,12 @@
               "url": "https://huggingface.co/spaces/enzostvs/deepsite",
               "descripcion": "Permite hacer programas en html funcionales con un simple prompt",
               "level": "high"
+            },
+            {
+              "titulo": "Firebase studio",
+              "url": https://studio.firebase.google.com/,
+              "descripcion": "Permite crear programas con editor online",
+              "level": "normal"
             }
             
           ]
