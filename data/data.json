@@ -181,7 +181,7 @@
             },
             {
               "titulo": "Firebase studio",
-              "url": https://studio.firebase.google.com/,
+              "url": "https://studio.firebase.google.com/",
               "descripcion": "Permite crear programas con editor online",
               "level": "normal"
             }
