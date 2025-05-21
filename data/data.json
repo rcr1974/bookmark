@@ -346,6 +346,12 @@
           "nombre": "Otros",
           "enlaces": [
             {
+              "titulo": "Futurepedia",
+              "url": "https://www.futurepedia.io/",
+              "descripcion": "Listado de las diferentes IAs existentes agrupadas por ambito y funcionalidad",
+              "level": "hight"
+            },
+            {
               "titulo": "IAPerfecta",
               "url": "https://iaperfecta.com/ ",
               "descripcion": "Buscador de IAs",
