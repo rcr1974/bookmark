@@ -138,6 +138,12 @@
               "level": "high"
             },
             {
+              "titulo": "Stitch",
+              "url": "https://stitch.withgoogle.com",
+              "descripcion": "Herramienta de Google para hacer interfaces web",
+              "level": "hight"
+            },
+            {
               "titulo": "v0",
               "url": "https://v0.dev/",
               "descripcion": "",
