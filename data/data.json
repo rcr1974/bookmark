@@ -125,6 +125,18 @@
         {
           "nombre": "Programación",
           "enlaces": [
+             {
+              "titulo": "Minimax",
+              "url": "https://agent.minimax.io/",
+              "descripcion": "Similar a Manus, permite crear lo que sea con agentes",
+              "level": "high"
+            },
+            {
+              "titulo": "Manus",
+              "url": "https://manus.im/",
+              "descripcion": "Similar a Minimax, permite crear lo que sea con agentes",
+              "level": "high"
+            },
             {
               "titulo": "ClaudeAI",
               "url": "https://claude.ai/",
