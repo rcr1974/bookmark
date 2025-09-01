@@ -138,6 +138,12 @@
               "level": "high"
             },
             {
+              "titulo": "RoboNeo",
+              "url": "https://www.roboneo.com/home",
+              "descripcion": "Similar a Manus, tambien es china",
+              "level": "high"
+            },
+            {
               "titulo": "ClaudeAI",
               "url": "https://claude.ai/",
               "descripcion": "",
