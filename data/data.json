@@ -49,6 +49,12 @@
               "level": "high"
             },
             {
+              "titulo": "LMArena",
+              "url": "https://lmarena.ai/",
+              "descripcion": "Permite ejecutar cualquier LLM de forma gratuita.",
+              "level": "high"
+            },
+            {
               "titulo": "Phind",
               "url": "https://www.phind.com/",
               "descripcion": "",
