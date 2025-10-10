@@ -375,6 +375,12 @@
         {
           "nombre": "Otros",
           "enlaces": [
+           {
+              "titulo": "Gemini 2.5 Computer Use",
+              "url": "https://gemini.browserbase.com/",
+              "descripcion": "Le das un instrucción y navega por la web para buscar la respuesta",
+              "level": "hight"
+            },           
             {
               "titulo": "Futurepedia",
               "url": "https://www.futurepedia.io/",
