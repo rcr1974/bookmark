@@ -1,120 +1,1307 @@
-
 [
   {
     "id": 1,
-    "nombre_web": "Boxiz - The Gamified Marketplace",
-    "empresa": "BOXZ.COM",
-    "url": "https://boxz.com",
-    "descripcion": "Elemen 3D nya luar biasa, efek glowing nya menambah kesan wah. Pokoknya website ini bagus pake banget.",
-    "categoria": "Inspirasi",
-    "tags": ["3d", "marketplace", "gamified", "inspirasi", "web design"]
+    "nombre_web": "Mistral",
+    "empresa": "Mistral AI",
+    "url": "https://mistral.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. LLM Europeo gratuito",
+    "categoria": "IA",
+    "tags": ["ia","ai","herramientas","mistral","mistral ai"]
   },
   {
     "id": 2,
-    "nombre_web": "Clain - Bringing Transparency to Blockchain",
-    "empresa": "CLAIN.IO",
-    "url": "https://clain.io",
-    "descripcion": "Ruang kosong yang digunakan sangat banyak tetapi malah terlihat sangat bagus. Perpaduan typography, whitespace dan penggunaan warna yang pas.",
-    "categoria": "Inspirasi",
-    "tags": ["blockchain", "typography", "minimalist", "fintech"]
+    "nombre_web": "DeepSeek",
+    "empresa": "DeepSeek",
+    "url": "https://chat.deepseek.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Mejor que el modelo 0 de ChatGPT.",
+    "categoria": "IA",
+    "tags": ["ia","ai","herramientas","deepseek","chatbot"]
   },
   {
     "id": 3,
-    "nombre_web": "Natural AI",
-    "empresa": "NATURAL.AI",
-    "url": "https://natural.ai",
-    "descripcion": "Landing page aplikasi bernama Natural. Design nya futuristik, minimalis dan elegan.",
-    "categoria": "Inteligencia Artificial",
-    "tags": ["ai", "landing page", "futuristic", "design"]
+    "nombre_web": "Claude",
+    "empresa": "Anthropic",
+    "url": "https://claude.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "categoria": "IA",
+    "tags": ["ia","asistente","anthropic","razonamiento","claude"]
   },
   {
     "id": 4,
-    "nombre_web": "5 Lessons We Learned Adding Dark Mode to WorkOS",
-    "empresa": "WORKOS.COM",
-    "url": "https://workos.com/blog/lessons-learned-adding-dark-mode",
-    "descripcion": "An insightful article on implementing dark mode in web applications, covering challenges and best practices.",
-    "categoria": "Artikel",
-    "tags": ["dark mode", "frontend", "development", "ux"]
+    "nombre_web": "Gemini",
+    "empresa": "Google",
+    "url": "https://gemini.google.com/app",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. De Google. https://aistudio.google.com/",
+    "categoria": "IA",
+    "tags": ["ia","asistente","google","multimodal","gemini"]
   },
   {
     "id": 5,
-    "nombre_web": "React Docs (New)",
-    "empresa": "REACT.DEV",
-    "url": "https://react.dev",
-    "descripcion": "The new official documentation for React, with interactive examples and a focus on modern React with hooks.",
-    "categoria": "Programación",
-    "tags": ["react", "javascript", "frontend", "documentation"]
+    "nombre_web": "Copilot",
+    "empresa": "Microsoft",
+    "url": "https://copilot.microsoft.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Microsoft",
+    "categoria": "IA",
+    "tags": ["ia","asistente","microsoft","productividad","copilot"]
   },
   {
     "id": 6,
-    "nombre_web": "Tailwind CSS - Rapidly build modern websites",
-    "empresa": "TAILWINDCSS.COM",
-    "url": "https://tailwindcss.com",
-    "descripcion": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
-    "categoria": "Herramientas Web",
-    "tags": ["css", "frontend", "framework", "utility-first"]
+    "nombre_web": "Grok",
+    "empresa": "xAI",
+    "url": "https://grok.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. IA con capacidades de búsqueda en tiempo real.",
+    "categoria": "IA",
+    "tags": ["ia","búsqueda","tiempo real","xai","grok"]
   },
   {
     "id": 7,
-    "nombre_web": "Fireship.io",
-    "empresa": "FIRESHIP.IO",
-    "url": "https://fireship.io",
-    "descripcion": "High-intensity code tutorials to help you build & ship apps fast. Videos and guides on a wide variety of modern web technologies.",
-    "categoria": "Formación",
-    "tags": ["video", "tutorial", "programming", "development"]
+    "nombre_web": "ChatGPT",
+    "empresa": "OpenAI",
+    "url": "https://chatgpt.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "categoria": "IA",
+    "tags": ["ia","asistente","openai","chatbot","razonamiento"]
   },
   {
     "id": 8,
-    "nombre_web": "Smashing Magazine",
-    "empresa": "SMASHINGMAGAZINE.COM",
-    "url": "https://www.smashingmagazine.com/",
-    "descripcion": "An online magazine for professional web designers and developers, with a focus on design, UX, and frontend development.",
-    "categoria": "Resources",
-    "tags": ["web design", "ux", "frontend", "artikel"]
+    "nombre_web": "LMArena",
+    "empresa": "LMArena",
+    "url": "https://lmarena.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Permite ejecutar cualquier LLM de forma gratuita.",
+    "categoria": "IA",
+    "tags": ["ia","llm","ejecución","gratuito","lmarena"]
   },
   {
     "id": 9,
-    "nombre_web": "Dribbble - Discover the World’s Top Designers",
-    "empresa": "DRIBBBLE.COM",
-    "url": "https://dribbble.com",
-    "descripcion": "A community of designers sharing screenshots of their work, process, and projects.",
-    "categoria": "Portfolio",
-    "tags": ["design", "portfolio", "inspiration", "ui", "ux"]
+    "nombre_web": "Phind",
+    "empresa": "Phind",
+    "url": "https://www.phind.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "categoria": "IA",
+    "tags": ["ia","búsqueda","desarrolladores","phind","respuestas"]
   },
   {
     "id": 10,
-    "nombre_web": "Awwwards - Website Awards",
-    "empresa": "AWWWARDS.COM",
-    "url": "https://www.awwwards.com",
-    "descripcion": "The awards that recognize the talent and effort of the best web designers, developers, and agencies in the world.",
-    "categoria": "Inspirasi",
-    "tags": ["web design", "awards", "inspiration", "ui"]
+    "nombre_web": "Perplexity",
+    "empresa": "Perplexity AI, Inc.",
+    "url": "https://www.perplexity.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Buscador con IA",
+    "categoria": "IA",
+    "tags": ["ia","answer engine","búsqueda","citas","perplexity"]
   },
   {
     "id": 11,
-    "nombre_web": "FreeCodeCamp",
-    "empresa": "FREECODECAMP.ORG",
-    "url": "https://www.freecodecamp.org/",
-    "descripcion": "Learn to code for free. Build projects. Earn certifications.",
-    "categoria": "Formación",
-    "tags": ["programming", "learning", "free", "certification"]
+    "nombre_web": "fal",
+    "empresa": "fal",
+    "url": "https://fal.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Generative media platform for developers",
+    "categoria": "IA",
+    "tags": ["ia","generación de imágenes","vídeo","apis","fal"]
   },
   {
     "id": 12,
-    "nombre_web": "The Net Ninja - YouTube",
-    "empresa": "YOUTUBE.COM",
-    "url": "https://www.youtube.com/c/TheNetNinja",
-    "descripcion": "Black-belt training for web developers. Over 1000 free programming tutorials about Modern JavaScript, Node.js, React, Vue.js, Firebase and more.",
-    "categoria": "Video",
-    "tags": ["video", "tutorial", "javascript", "frontend"]
+    "nombre_web": "Qwen",
+    "empresa": "Alibaba Cloud",
+    "url": "https://qwen.ai/home",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Similar a ChatGPT con modelos open source de Alibaba.",
+    "categoria": "IA",
+    "tags": ["ia","asistente","alibaba","qwen","open source"]
   },
   {
     "id": 13,
-    "nombre_web": "BrainyQuote",
-    "empresa": "BRAINYQUOTE.COM",
-    "url": "https://www.brainyquote.com",
-    "descripcion": "Find and share famous quotes by your favorite authors.",
-    "categoria": "Quotes",
-    "tags": ["quotes", "inspiration", "wisdom"]
+    "nombre_web": "Hailuo",
+    "empresa": "Hailuo AI",
+    "url": "https://www.hailuo.ai/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat tipo ChatGPT con buenos resultados.",
+    "categoria": "IA",
+    "tags": ["ia","asistente","hailuo","multimodal","chatbot"]
+  },
+  {
+    "id": 14,
+    "nombre_web": "Allen AI Playground",
+    "empresa": "Allen Institute for AI",
+    "url": "https://playground.allenai.org/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelos open source (p.ej., Tulu) para probar.",
+    "categoria": "IA",
+    "tags": ["ia","open source","playground","allen ai","modelos"]
+  },
+  {
+    "id": 15,
+    "nombre_web": "Groq",
+    "empresa": "Groq, Inc.",
+    "url": "https://chat.groq.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Ejecuta modelos en la nube (DeepSeek, etc.).",
+    "categoria": "IA",
+    "tags": ["ia","inferencias","groq","velocidad","modelos"]
+  },
+  {
+    "id": 16,
+    "nombre_web": "Kimi",
+    "empresa": "Moonshot AI",
+    "url": "https://www.kimi.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelo chino con gran contexto.",
+    "categoria": "IA",
+    "tags": ["ia","asistente","kimi","moonshot","razonamiento"]
+  },
+  {
+    "id": 17,
+    "nombre_web": "Cohere Coral",
+    "empresa": "Cohere",
+    "url": "https://coral.cohere.com/",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Portal/espacio de modelos Cohere.",
+    "categoria": "IA",
+    "tags": ["ia","cohere","nlp","apis","modelos"]
+  },
+  {
+    "id": 18,
+    "nombre_web": "DuckDuckGo AI Chat",
+    "empresa": "DuckDuckGo",
+    "url": "https://duckduckgo.com/?ia=chat&duckai=1",
+    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat de IA privado con modelos de terceros.",
+    "categoria": "IA",
+    "tags": ["ia","privacidad","chat","duckduckgo","multimodelo"]
+  },
+  {
+    "id": 19,
+    "nombre_web": "MiniMax Agent",
+    "empresa": "MiniMax",
+    "url": "https://agent.minimax.io/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente general para crear apps, análisis, etc.",
+    "categoria": "Programación",
+    "tags": ["agentes","mcp","productividad","minimax","ia"]
+  },
+  {
+    "id": 20,
+    "nombre_web": "Manus",
+    "empresa": "Manus",
+    "url": "https://manus.im/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente autónomo para ejecutar tareas complejas.",
+    "categoria": "Programación",
+    "tags": ["agentes","autónomo","workflow","productividad","manus"]
+  },
+  {
+    "id": 21,
+    "nombre_web": "RoboNeo",
+    "empresa": "Meitu",
+    "url": "https://www.roboneo.com/home",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente creativo para generar/editar imágenes y vídeos mediante conversación.",
+    "categoria": "Programación",
+    "tags": ["agentes","diseño","imagen","vídeo","roboneo"]
+  },
+  {
+    "id": 22,
+    "nombre_web": "GitHub Copilot",
+    "empresa": "GitHub",
+    "url": "https://github.com/copilot",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Asistente de código integrado en el ecosistema GitHub/VS Code.",
+    "categoria": "Programación",
+    "tags": ["programación","código","github","pair programming","copilot"]
+  },
+  {
+    "id": 23,
+    "nombre_web": "Stitch",
+    "empresa": "Google",
+    "url": "https://stitch.withgoogle.com",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera interfaces (UI) para web/móvil a partir de prompts.",
+    "categoria": "Programación",
+    "tags": ["diseño","ui","prototipado","google","front-end"]
+  },
+  {
+    "id": 24,
+    "nombre_web": "v0",
+    "empresa": "Vercel",
+    "url": "https://v0.app/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Builder agent para pasar de idea a app desplegada con un prompt.",
+    "categoria": "Programación",
+    "tags": ["programación","prototipado","vercel","full‑stack","v0"]
+  },
+  {
+    "id": 25,
+    "nombre_web": "Bolt",
+    "empresa": "StackBlitz",
+    "url": "https://bolt.new/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Construye proyectos completos y los publica desde el propio editor.",
+    "categoria": "Programación",
+    "tags": ["programación","full‑stack","deploy","stackblitz","bolt"]
+  },
+  {
+    "id": 26,
+    "nombre_web": "Replit",
+    "empresa": "Replit",
+    "url": "https://replit.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor en la nube con agentes para crear apps y páginas web.",
+    "categoria": "Programación",
+    "tags": ["programación","cloud ide","agentes","replit","deploy"]
+  },
+  {
+    "id": 27,
+    "nombre_web": "Google AI Studio",
+    "empresa": "Google",
+    "url": "https://aistudio.google.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Consola de Gemini para claves API, pruebas y desarrollo.",
+    "categoria": "Programación",
+    "tags": ["ia","apis","gemini","google","desarrollo"]
+  },
+  {
+    "id": 28,
+    "nombre_web": "Websim",
+    "empresa": "Websim",
+    "url": "https://websim.ai/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera webs, juegos y prototipos con modelos seleccionables.",
+    "categoria": "Programación",
+    "tags": ["prototipado","web","juegos","genai","websim"]
+  },
+  {
+    "id": 29,
+    "nombre_web": "LlamaCoder",
+    "empresa": "Together AI",
+    "url": "https://llamacoder.together.ai/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Portal con varios modelos (Qwen, DeepSeek, etc.) enfocados en código.",
+    "categoria": "Programación",
+    "tags": ["programación","models","together","code","llama"]
+  },
+  {
+    "id": 30,
+    "nombre_web": "DeepSite",
+    "empresa": "Hugging Face",
+    "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Crea páginas HTML funcionales con un prompt.",
+    "categoria": "Programación",
+    "tags": ["prototipado","html","hugging face","prompt‑to‑app","frontend"]
+  },
+  {
+    "id": 31,
+    "nombre_web": "Firebase Studio",
+    "empresa": "Google",
+    "url": "https://studio.firebase.google.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor/console para crear y probar apps con Firebase.",
+    "categoria": "Programación",
+    "tags": ["firebase","google","backend","prototipado","apps"]
+  },
+  {
+    "id": 32,
+    "nombre_web": "Justicio",
+    "empresa": "Justicio",
+    "url": "https://justicio.es/",
+    "descripcion": "Recurso en la categoría Legal. Subcategoría: . Herramienta legal online.",
+    "categoria": "Legal",
+    "tags": ["legal","asesoría","justicia","documentos","online"]
+  },
+  {
+    "id": 33,
+    "nombre_web": "Asesor Legal",
+    "empresa": "Asesor.legal",
+    "url": "https://asesor.legal/",
+    "descripcion": "Recurso en la categoría Legal. Subcategoría: . Respuestas legales básicas; para profundizar requiere pago.",
+    "categoria": "Legal",
+    "tags": ["legal","asesoría","consultas","derecho","online"]
+  },
+  {
+    "id": 34,
+    "nombre_web": "Fliki",
+    "empresa": "Fliki",
+    "url": "https://fliki.ai/",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo y voz a partir de texto.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["vídeo","voz","tts","marketing","fliki"]
+  },
+  {
+    "id": 35,
+    "nombre_web": "Piclumen",
+    "empresa": "Piclumen",
+    "url": "https://piclumen.com/app/",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación/edición de imágenes.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["generación de imágenes","edición","diseño","piclumen","ai"]
+  },
+  {
+    "id": 36,
+    "nombre_web": "Lexica",
+    "empresa": "Lexica",
+    "url": "https://lexica.art",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Buscador de prompts/imágenes y generador.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["prompts","banco de imágenes","diseño","lexica","genai"]
+  },
+  {
+    "id": 37,
+    "nombre_web": "Redpanda AI",
+    "empresa": "Redpanda AI",
+    "url": "https://redpandaai.com",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Herramientas de imagen/vídeo con IA.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["imagen","vídeo","genai","redpanda","diseño"]
+  },
+  {
+    "id": 38,
+    "nombre_web": "Blinkshot",
+    "empresa": "Blinkshot",
+    "url": "https://www.blinkshot.io/",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Capturas y renders mejorados con IA.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["capturas","renders","diseño","imagen","blinkshot"]
+  },
+  {
+    "id": 39,
+    "nombre_web": "Krita AI Diffusion",
+    "empresa": "Krita AI Diffusion",
+    "url": "https://kritaaidiffusion.com/es",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Difusión/estilo para imágenes.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["generación de imágenes","difusión","arte","krita","ai"]
+  },
+  {
+    "id": 40,
+    "nombre_web": "Pikaso AI (Freepik)",
+    "empresa": "Freepik",
+    "url": "https://www.freepik.com/pikaso/ai-image-generator",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes integrado en Freepik.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["generación de imágenes","diseño","freepik","pikaso","ai"]
+  },
+  {
+    "id": 41,
+    "nombre_web": "Image FX",
+    "empresa": "Google",
+    "url": "https://labs.google/fx/es/tools/image-fx",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes de Google (acceso limitado por región).",
+    "categoria": "Imágenes & Videos",
+    "tags": ["generación de imágenes","google","image fx","diseño","genai"]
+  },
+  {
+    "id": 42,
+    "nombre_web": "Hailuo AI Video",
+    "empresa": "Hailuo AI",
+    "url": "https://hailuoai.video",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo con IA.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["vídeo","generación","hailuo","genai","creatividad"]
+  },
+  {
+    "id": 43,
+    "nombre_web": "Leonardo",
+    "empresa": "Leonardo AI",
+    "url": "https://app.leonardo.ai/",
+    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de imágenes con controles avanzados.",
+    "categoria": "Imágenes & Videos",
+    "tags": ["generación de imágenes","diseño","leonardo","modelos","ai"]
+  },
+  {
+    "id": 44,
+    "nombre_web": "ForoPrompt",
+    "empresa": "ForoPrompt",
+    "url": "https://foroprompt.com/",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Comunidad de prompts.",
+    "categoria": "Prompts",
+    "tags": ["prompts","comunidad","genai","recetas","foroprompt"]
+  },
+  {
+    "id": 45,
+    "nombre_web": "PromptHero",
+    "empresa": "PromptHero",
+    "url": "https://prompthero.com/",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Catálogo de prompts e inspiración.",
+    "categoria": "Prompts",
+    "tags": ["prompts","galería","inspiración","diseño","ai"]
+  },
+  {
+    "id": 46,
+    "nombre_web": "PromptDen",
+    "empresa": "PromptDen",
+    "url": "https://promptden.com/",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Repositorio de prompts.",
+    "categoria": "Prompts",
+    "tags": ["prompts","biblioteca","genai","creatividad","ai"]
+  },
+  {
+    "id": 47,
+    "nombre_web": "Workmind Prompt Library",
+    "empresa": "Workmind",
+    "url": "https://workmind.ai/ai-prompt-library/",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Librería de prompts organizada por casos de uso.",
+    "categoria": "Prompts",
+    "tags": ["prompts","productividad","plantillas","workmind","ai"]
+  },
+  {
+    "id": 48,
+    "nombre_web": "Prompt Library",
+    "empresa": "Prompt Library",
+    "url": "https://promptlibrary.org/",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Biblioteca de prompts.",
+    "categoria": "Prompts",
+    "tags": ["prompts","biblioteca","genai","recursos","ai"]
+  },
+  {
+    "id": 49,
+    "nombre_web": "Aimind Prompt Generator",
+    "empresa": "Aimind",
+    "url": "https://www.aimind.so/prompt-generator?email=",
+    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Generador de prompts.",
+    "categoria": "Prompts",
+    "tags": ["prompts","generador","ai","creatividad","genai"]
+  },
+  {
+    "id": 50,
+    "nombre_web": "ElevenLabs (Try)",
+    "empresa": "ElevenLabs",
+    "url": "https://try.elevenlabs.io/shmdm7umt6gg",
+    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de voces TTS.",
+    "categoria": "Voz & Música",
+    "tags": ["voz","tts","audio","elevenlabs","generador"]
+  },
+  {
+    "id": 51,
+    "nombre_web": "Suno",
+    "empresa": "Suno",
+    "url": "https://suno.com/",
+    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generación de música con IA a partir de texto.",
+    "categoria": "Voz & Música",
+    "tags": ["música","generación","ia","suno","audio"]
+  },
+  {
+    "id": 52,
+    "nombre_web": "Music FX",
+    "empresa": "Google",
+    "url": "https://labs.google/fx/es/tools/music-fx",
+    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de música de Google (FX).",
+    "categoria": "Voz & Música",
+    "tags": ["música","generación","google","music fx","ia"]
+  },
+  {
+    "id": 53,
+    "nombre_web": "Gemini 2.5 Computer Use",
+    "empresa": "Browserbase",
+    "url": "https://gemini.browserbase.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . El agente navega por la web y ejecuta pasos para responder.",
+    "categoria": "Otros",
+    "tags": ["ia","agentes","navegación","workflow","browserbase"]
+  },
+  {
+    "id": 54,
+    "nombre_web": "Futurepedia",
+    "empresa": "Futurepedia",
+    "url": "https://www.futurepedia.io/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listado/mercado de herramientas de IA por temática.",
+    "categoria": "Otros",
+    "tags": ["directorio","ia","herramientas","catálogo","futurepedia"]
+  },
+  {
+    "id": 55,
+    "nombre_web": "IA Perfecta",
+    "empresa": "IA Perfecta",
+    "url": "https://iaperfecta.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Buscador de IAs.",
+    "categoria": "Otros",
+    "tags": ["directorio","buscador","ia","herramientas","listado"]
+  },
+  {
+    "id": 56,
+    "nombre_web": "Giz",
+    "empresa": "Giz AI",
+    "url": "https://www.giz.ai/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta el modelo que selecciones.",
+    "categoria": "Otros",
+    "tags": ["ia","modelos","ejecución","giz","chat"]
+  },
+  {
+    "id": 57,
+    "nombre_web": "AI Detector",
+    "empresa": "AI Detector",
+    "url": "https://aidetector.pro/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Detecta posibles fragmentos generados por IA en un texto.",
+    "categoria": "Otros",
+    "tags": ["detección ia","contenido","verificación","originalidad","texto"]
+  },
+  {
+    "id": 58,
+    "nombre_web": "Gamma",
+    "empresa": "Gamma",
+    "url": "https://gamma.app/es",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Creador de presentaciones con IA.",
+    "categoria": "Otros",
+    "tags": ["presentaciones","documentos","pitch","gamma","ia"]
+  },
+  {
+    "id": 59,
+    "nombre_web": "Pinokio",
+    "empresa": "Pinokio",
+    "url": "https://pinokio.computer/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta modelos localmente con automatizaciones.",
+    "categoria": "Otros",
+    "tags": ["local","modelos","automatización","pinokio","ia"]
+  },
+  {
+    "id": 60,
+    "nombre_web": "NotebookLM",
+    "empresa": "Google",
+    "url": "https://notebooklm.google/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Crea apuntes, resúmenes y podcasts sobre tus documentos.",
+    "categoria": "Otros",
+    "tags": ["notas","resumen","podcast","google","ia"]
+  },
+  {
+    "id": 61,
+    "nombre_web": "LobeChat",
+    "empresa": "LobeChat",
+    "url": "https://lobechat.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Cliente para múltiples modelos/servicios de IA.",
+    "categoria": "Otros",
+    "tags": ["cliente ia","multimodelo","chat","lobechat","open source"]
+  },
+  {
+    "id": 62,
+    "nombre_web": "Ollama",
+    "empresa": "Ollama",
+    "url": "https://ollama.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Descarga y ejecuta modelos LLM en local.",
+    "categoria": "Otros",
+    "tags": ["local","modelos","llm","ollama","desarrollo"]
+  },
+  {
+    "id": 63,
+    "nombre_web": "Hugging Face",
+    "empresa": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Modelos, datasets y Spaces para demos.",
+    "categoria": "Otros",
+    "tags": ["modelos","datasets","spaces","ml","hugging face"]
+  },
+  {
+    "id": 64,
+    "nombre_web": "IA Comunia",
+    "empresa": "IA Comunia",
+    "url": "https://iacomunia.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Portal que explica modelos, herramientas y casos de uso.",
+    "categoria": "Otros",
+    "tags": ["blog","divulgación","herramientas","ia","casos de uso"]
+  },
+  {
+    "id": 65,
+    "nombre_web": "AIPure (categorías)",
+    "empresa": "AIPure",
+    "url": "https://aipure.ai/category",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listados de IAs por temática.",
+    "categoria": "Otros",
+    "tags": ["directorio","temas","ia","listado","aipure"]
+  },
+  {
+    "id": 66,
+    "nombre_web": "LM Studio",
+    "empresa": "LM Studio",
+    "url": "https://lmstudio.ai/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . UI para ejecutar localmente diferentes modelos.",
+    "categoria": "Otros",
+    "tags": ["local","ui","llm","lm studio","inferencia"]
+  },
+  {
+    "id": 67,
+    "nombre_web": "OpenRouter",
+    "empresa": "OpenRouter",
+    "url": "https://openrouter.ai/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Unifica acceso API a muchos modelos (con cuota/créditos).",
+    "categoria": "Otros",
+    "tags": ["apis","model routing","llm","openrouter","ia"]
+  },
+  {
+    "id": 68,
+    "nombre_web": "Cerebras Cloud",
+    "empresa": "Cerebras",
+    "url": "https://cloud.cerebras.ai/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Acceso a modelos vía API en la nube Cerebras.",
+    "categoria": "Otros",
+    "tags": ["apis","inferencia","cerebras","ia","nube"]
+  },
+  {
+    "id": 69,
+    "nombre_web": "Groq (API/Chat)",
+    "empresa": "Groq, Inc.",
+    "url": "https://chat.groq.com/",
+    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Genera API keys y ejecuta modelos en la nube.",
+    "categoria": "Otros",
+    "tags": ["apis","groq","inferencia","velocidad","modelos"]
+  },
+  {
+    "id": 70,
+    "nombre_web": "Python.org",
+    "empresa": "Python Software Foundation",
+    "url": "https://www.python.org/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Sitio oficial de Python.",
+    "categoria": "Programación",
+    "tags": ["programación","python","documentación","descargas","oficial"]
+  },
+  {
+    "id": 71,
+    "nombre_web": "Real Python",
+    "empresa": "Real Python",
+    "url": "https://realpython.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Tutoriales y artículos de Python.",
+    "categoria": "Programación",
+    "tags": ["programación","python","tutoriales","artículos","best practices"]
+  },
+  {
+    "id": 72,
+    "nombre_web": "MDN JavaScript",
+    "empresa": "Mozilla",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Guía completa de JavaScript.",
+    "categoria": "Programación",
+    "tags": ["programación","javascript","mdn","documentación","web"]
+  },
+  {
+    "id": 73,
+    "nombre_web": "JavaScript.info",
+    "empresa": "JavaScript.info",
+    "url": "https://javascript.info/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Tutorial moderno de JavaScript.",
+    "categoria": "Programación",
+    "tags": ["programación","javascript","tutorial","web","guía"]
+  },
+  {
+    "id": 74,
+    "nombre_web": "Lenguaje CSS",
+    "empresa": "LenguajeCSS",
+    "url": "https://lenguajecss.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: CSS. Recursos y guías de CSS.",
+    "categoria": "Programación",
+    "tags": ["programación","css","estilos","guías","web"]
+  },
+  {
+    "id": 75,
+    "nombre_web": "Programming Notes for Professionals (GoalKicker)",
+    "empresa": "GoalKicker",
+    "url": "https://books.goalkicker.com/",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: Documentación general. Libros gratuitos por tecnologías.",
+    "categoria": "Programación",
+    "tags": ["libros","referencia","programación","ebooks","gratuito"]
+  },
+  {
+    "id": 76,
+    "nombre_web": "Udemy",
+    "empresa": "Udemy",
+    "url": "https://www.udemy.com/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "categoria": "Formación",
+    "tags": ["formación","cursos","online","udemy","aprendizaje"]
+  },
+  {
+    "id": 77,
+    "nombre_web": "IBM SkillsBuild",
+    "empresa": "IBM SkillsBuild",
+    "url": "https://skillsbuild.org/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Plataforma formativa de IBM.",
+    "categoria": "Formación",
+    "tags": ["formación","ibm","cursos","habilidades","skillsbuild"]
+  },
+  {
+    "id": 78,
+    "nombre_web": "edX",
+    "empresa": "edX",
+    "url": "https://www.edx.org/es",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Cursos de universidades (Harvard, Berkeley, ...).",
+    "categoria": "Formación",
+    "tags": ["formación","cursos","universidades","edx","online"]
+  },
+  {
+    "id": 79,
+    "nombre_web": "Fundación Carlos Slim (Aprende.org)",
+    "empresa": "Fundación Carlos Slim",
+    "url": "https://aprende.org/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "categoria": "Formación",
+    "tags": ["formación","cursos","gratuitos","aprende","skills"]
+  },
+  {
+    "id": 80,
+    "nombre_web": "FUNDAE (Trabajadores)",
+    "empresa": "FUNDAE",
+    "url": "https://www.fundae.es/trabajadores",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "categoria": "Formación",
+    "tags": ["formación","bonificada","empleo","fundae","recursos"]
+  },
+  {
+    "id": 81,
+    "nombre_web": "Facialix",
+    "empresa": "Facialix",
+    "url": "https://facialix.com/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Divulgación de cursos y recursos.",
+    "categoria": "Formación",
+    "tags": ["formación","cursos","divulgación","facialix","aprendizaje"]
+  },
+  {
+    "id": 82,
+    "nombre_web": "Experiencia Fundae",
+    "empresa": "Experiencia FUNDAE",
+    "url": "https://experienciafundae.es/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "categoria": "Formación",
+    "tags": ["formación","fundae","empleo","cursos","recursos"]
+  },
+  {
+    "id": 83,
+    "nombre_web": "Ciencia de Datos y Analítica (Udemy vía SkillsBuild)",
+    "empresa": "IBM / Udemy",
+    "url": "https://skills.yourlearning.ibm.com/activity/UDEMY-5320790",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso de Udemy disponible en SkillsBuild.",
+    "categoria": "Formación",
+    "tags": ["datos","python","analítica","udemy","skillsbuild"]
+  },
+  {
+    "id": 84,
+    "nombre_web": "Prompting Essential (Becas Google · Coursera)",
+    "empresa": "Coursera",
+    "url": "https://www.coursera.org/programs/becas-google-fundae-prompting-essential-vptz3",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Programa de becas Google + FUNDAE.",
+    "categoria": "Formación",
+    "tags": ["prompting","ia","becas","coursera","fundae"]
+  },
+  {
+    "id": 85,
+    "nombre_web": "Zero to Mastery · TensorFlow for Deep Learning (repo)",
+    "empresa": "Daniel Bourke",
+    "url": "https://dev.mrdbourke.com/tensorflow-deep-learning/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Repo con curso completo (PDF, slides, código).",
+    "categoria": "Formación",
+    "tags": ["tensorflow","deep learning","curso","python","materiales"]
+  },
+  {
+    "id": 86,
+    "nombre_web": "DataTalks Club · Free Online Courses",
+    "empresa": "DataTalks.Club",
+    "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Guía de cursos gratuitos (DL, LLMs, ...).",
+    "categoria": "Formación",
+    "tags": ["cursos","gratuitos","data","ml","llms"]
+  },
+  {
+    "id": 87,
+    "nombre_web": "AI for Beginners (Microsoft)",
+    "empresa": "Microsoft",
+    "url": "https://microsoft.github.io/AI-For-Beginners/",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso introductorio de IA por Microsoft.",
+    "categoria": "Formación",
+    "tags": ["ia","curso","microsoft","principiantes","recursos"]
+  },
+  {
+    "id": 88,
+    "nombre_web": "Certificación oficial de Python (OpenEDG)",
+    "empresa": "OpenEDG",
+    "url": "https://edube.org/study",
+    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Formación gratuita de preparación para certificación.",
+    "categoria": "Formación",
+    "tags": ["python","certificación","curso","openedg","examen"]
+  },
+  {
+    "id": 89,
+    "nombre_web": "Generador de DNI / IBAN (1)",
+    "empresa": "GeneradorDNI.es",
+    "url": "https://generadordni.es/#home",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","dnI","iban","pruebas","generador"]
+  },
+  {
+    "id": 90,
+    "nombre_web": "Generador de DNI / IBAN (2)",
+    "empresa": "Generador-de-DNI.com",
+    "url": "https://www.generador-de-dni.com/generador-de-dni",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","dni","iban","pruebas","generador"]
+  },
+  {
+    "id": 91,
+    "nombre_web": "Generador de NIFs PT",
+    "empresa": "Marcos Santos",
+    "url": "https://nif.marcosantos.me/?i=2",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores. NIF Portugal.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","nif","portugal","tests","generador"]
+  },
+  {
+    "id": 92,
+    "nombre_web": "HTML String encode",
+    "empresa": "Online String Tools",
+    "url": "https://onlinestringtools.com/html-encode-string",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","html","encode","texto","web"]
+  },
+  {
+    "id": 93,
+    "nombre_web": "RGB to HEX",
+    "empresa": "RGBtoHEX",
+    "url": "https://www.rgbtohex.net/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","color","rgb","hex","diseño"]
+  },
+  {
+    "id": 94,
+    "nombre_web": "HEX to RGB",
+    "empresa": "RGBtoHEX",
+    "url": "https://www.rgbtohex.net/hex-to-rgb/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","color","hex","rgb","diseño"]
+  },
+  {
+    "id": 95,
+    "nombre_web": "JSON to YAML",
+    "empresa": "CodeBeautify",
+    "url": "https://codebeautify.org/json-to-yaml",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","json","yaml","conversion","dev"]
+  },
+  {
+    "id": 96,
+    "nombre_web": "RegExr",
+    "empresa": "RegExr",
+    "url": "https://regexr.com/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores. Probar expresiones regulares.",
+    "categoria": "Herramientas",
+    "tags": ["regex","expresiones regulares","tester","utilidades","dev"]
+  },
+  {
+    "id": 97,
+    "nombre_web": "Icons8 (Iconos)",
+    "empresa": "Icons8",
+    "url": "https://icons8.com/icons/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Buscar y modificar iconos.",
+    "categoria": "Herramientas",
+    "tags": ["iconos","diseño","recursos","ui","icons8"]
+  },
+  {
+    "id": 98,
+    "nombre_web": "Loading.io",
+    "empresa": "loading.io",
+    "url": "https://loading.io/#",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Loaders y barras de progreso.",
+    "categoria": "Herramientas",
+    "tags": ["loaders","animación","ui","diseño","loading"]
+  },
+  {
+    "id": 99,
+    "nombre_web": "LottieFiles (Loadings y animaciones)",
+    "empresa": "LottieFiles",
+    "url": "https://lottiefiles.com/free-animations/loading-bar",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Animaciones Lottie gratuitas.",
+    "categoria": "Herramientas",
+    "tags": ["lottie","animaciones","ui","diseño","loaders"]
+  },
+  {
+    "id": 100,
+    "nombre_web": "Free Public APIs",
+    "empresa": "Free Public APIs",
+    "url": "https://www.freepublicapis.com/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: APIs. Colección de APIs públicas para pruebas.",
+    "categoria": "Herramientas",
+    "tags": ["apis","rest","tests","catálogo","dev"]
+  },
+  {
+    "id": 101,
+    "nombre_web": "JSON Viewer",
+    "empresa": "JSON Viewer",
+    "url": "https://jsonviewer.stack.hu/",
+    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Otros. Visualiza y navega estructuras JSON en el navegador.",
+    "categoria": "Herramientas",
+    "tags": ["utilidades","json","visualizador","dev","web"]
+  },
+  {
+    "id": 102,
+    "nombre_web": "DeepL Translator",
+    "empresa": "DeepL",
+    "url": "https://www.deepl.com/translator",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traductor de alta calidad con buenos matices de estilo.",
+    "categoria": "Inglés",
+    "tags": ["traducción","inglés","deepl","idiomas","texto"]
+  },
+  {
+    "id": 103,
+    "nombre_web": "Linguee",
+    "empresa": "Linguee",
+    "url": "https://www.linguee.es/",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Diccionario con ejemplos reales de uso.",
+    "categoria": "Inglés",
+    "tags": ["diccionario","ejemplos","inglés","traducción","corpus"]
+  },
+  {
+    "id": 104,
+    "nombre_web": "Cambridge Dictionary · Translate",
+    "empresa": "Cambridge Dictionary",
+    "url": "https://dictionary.cambridge.org/es/translate/",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducciones con definiciones y pronunciación.",
+    "categoria": "Inglés",
+    "tags": ["diccionario","traducción","pronunciación","inglés","cambridge"]
+  },
+  {
+    "id": 105,
+    "nombre_web": "Google Translate",
+    "empresa": "Google",
+    "url": "https://translate.google.es/?hl=es",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducción rápida multilenguaje.",
+    "categoria": "Inglés",
+    "tags": ["traducción","inglés","google","texto","voz"]
+  },
+  {
+    "id": 106,
+    "nombre_web": "Bing Translator",
+    "empresa": "Bing",
+    "url": "https://www.bing.com/translator",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Alternativa de Microsoft para traducción.",
+    "categoria": "Inglés",
+    "tags": ["traducción","inglés","microsoft","bing","idiomas"]
+  },
+  {
+    "id": 107,
+    "nombre_web": "EnglishOn · Vocabularios Cambridge",
+    "empresa": "EnglishOn",
+    "url": "https://www.englishon.es/Vocabularios-temario-ingles-cambridge-gratis",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Vocabularios y temarios gratuitos orientados a Cambridge.",
+    "categoria": "Inglés",
+    "tags": ["vocabulario","cambridge","inglés","material","exámenes"]
+  },
+  {
+    "id": 108,
+    "nombre_web": "Mª Carmen's blog (Inglés)",
+    "empresa": "Blogger",
+    "url": "https://mcarmenblogingles.blogspot.com/p/libros-de.html?m=1",
+    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Listado de libros y recursos de inglés.",
+    "categoria": "Inglés",
+    "tags": ["libros","recursos","inglés","material","aprendizaje"]
+  },
+  {
+    "id": 109,
+    "nombre_web": "YouTube · ChatGPT (tutorial 2025)",
+    "empresa": "YouTube",
+    "url": "https://youtu.be/D2b-b-gQyzg?si=Xd8sjtCKjI3v2u2N",
+    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Tutorial completo de ChatGPT.",
+    "categoria": "ToDo",
+    "tags": ["youtube","chatgpt","tutorial","ia","video"]
+  },
+  {
+    "id": 110,
+    "nombre_web": "YouTube · Gemini Coder",
+    "empresa": "YouTube",
+    "url": "https://www.youtube.com/watch?v=5-cFSXztfsM",
+    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Demostración creando apps en segundos.",
+    "categoria": "ToDo",
+    "tags": ["youtube","gemini","coder","apps","video"]
+  },
+  {
+    "id": 111,
+    "nombre_web": "YouTube · Curso de Pandas (playlist)",
+    "empresa": "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ",
+    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Curso ordenado de Pandas.",
+    "categoria": "ToDo",
+    "tags": ["youtube","pandas","python","curso","datos"]
+  },
+  {
+    "id": 112,
+    "nombre_web": "Naf Naf",
+    "empresa": "Naf Naf",
+    "url": "https://www.nafnaf.es",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","tienda","ropa","nafnaf"]
+  },
+  {
+    "id": 113,
+    "nombre_web": "Surkana",
+    "empresa": "Surkana",
+    "url": "https://surkana.es",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","surkana"]
+  },
+  {
+    "id": 114,
+    "nombre_web": "SKFK",
+    "empresa": "SKFK",
+    "url": "https://www.skfk-ethical-fashion.com",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda ética.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","ética","mujer","sostenible","skfk"]
+  },
+  {
+    "id": 115,
+    "nombre_web": "Xantik",
+    "empresa": "Xantik",
+    "url": "https://xantik.net/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","xantik"]
+  },
+  {
+    "id": 116,
+    "nombre_web": "Verdedoncella",
+    "empresa": "Verdedoncella",
+    "url": "https://verdedoncella.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","verdedoncella"]
+  },
+  {
+    "id": 117,
+    "nombre_web": "Lolina Shop",
+    "empresa": "Lolina Shop",
+    "url": "https://lolinashop.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","lolina"]
+  },
+  {
+    "id": 118,
+    "nombre_web": "Singular Barcelona",
+    "empresa": "Singular Barcelona",
+    "url": "https://singularbarcelona.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","singular"]
+  },
+  {
+    "id": 119,
+    "nombre_web": "La gata loca",
+    "empresa": "La Gata Loca",
+    "url": "https://lagatalocaonline.com/es/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","gataloca"]
+  },
+  {
+    "id": 120,
+    "nombre_web": "Waipai",
+    "empresa": "Waipai",
+    "url": "http://www.waipai.com",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","waipai"]
+  },
+  {
+    "id": 121,
+    "nombre_web": "Smile",
+    "empresa": "Smile",
+    "url": "https://lawebdesmile.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","smile"]
+  },
+  {
+    "id": 122,
+    "nombre_web": "Visto luego existo",
+    "empresa": "Visto Luego Existo",
+    "url": "https://www.vistoluegoexisto.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","visto luego existo"]
+  },
+  {
+    "id": 123,
+    "nombre_web": "Padana",
+    "empresa": "Padana",
+    "url": "https://padana.es/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","tienda","padana"]
+  },
+  {
+    "id": 124,
+    "nombre_web": "Desigual",
+    "empresa": "Desigual",
+    "url": "https://www.desigual.com/es_ES/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","desigual","tienda"]
+  },
+  {
+    "id": 125,
+    "nombre_web": "Ipanima",
+    "empresa": "Ipanima",
+    "url": "https://www.ipanima.fr/es/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","ropa","ipanima","tienda"]
+  },
+  {
+    "id": 126,
+    "nombre_web": "Corsetería Singular",
+    "empresa": "Singular",
+    "url": "https://corseteriasingular.com/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","mujer","corsetería","ropa","tienda"]
+  },
+  {
+    "id": 127,
+    "nombre_web": "Pedro del Hierro",
+    "empresa": "Pedro del Hierro",
+    "url": "https://pedrodelhierro.com",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda para hombre y mujer.",
+    "categoria": "Ropa y calzado",
+    "tags": ["moda","hombre","mujer","ropa","tienda"]
+  },
+  {
+    "id": 128,
+    "nombre_web": "Calzado · referencia",
+    "empresa": "Google",
+    "url": "https://www.google.es/",
+    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Calzado. Enlace de referencia genérico (pendiente de recurso final).",
+    "categoria": "Ropa y calzado",
+    "tags": ["calzado","referencia","búsqueda","tienda","moda"]
+  },
+  {
+    "id": 129,
+    "nombre_web": "Physics.org",
+    "empresa": "Institute of Physics",
+    "url": "https://www.physics.org/",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Portal de recursos de física.",
+    "categoria": "Youtube - Pending",
+    "tags": ["física","recursos","educación","portal","ciencia"]
+  },
+  {
+    "id": 130,
+    "nombre_web": "HyperPhysics",
+    "empresa": "Georgia State University",
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Conceptos de física explicados.",
+    "categoria": "Youtube - Pending",
+    "tags": ["física","conceptos","educación","universidad","ciencia"]
+  },
+  {
+    "id": 131,
+    "nombre_web": "Chemistry LibreTexts (EN)",
+    "empresa": "LibreTexts",
+    "url": "https://chem.libretexts.org/",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Biblioteca de recursos de química.",
+    "categoria": "Youtube - Pending",
+    "tags": ["química","recursos","educación","libretexts","ciencia"]
+  },
+  {
+    "id": 132,
+    "nombre_web": "Royal Society of Chemistry (EN)",
+    "empresa": "Royal Society of Chemistry",
+    "url": "https://www.rsc.org/",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Recursos y educación en química.",
+    "categoria": "Youtube - Pending",
+    "tags": ["química","educación","recursos","rsc","ciencia"]
+  },
+  {
+    "id": 133,
+    "nombre_web": "Chemistry LibreTexts (EN) · Música",
+    "empresa": "LibreTexts",
+    "url": "https://chem.libretexts.org/",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Biblioteca de química (marcado en tu borrador dentro de Música).",
+    "categoria": "Youtube - Pending",
+    "tags": ["química","recursos","educación","libretexts","nota"]
+  },
+  {
+    "id": 134,
+    "nombre_web": "Royal Society of Chemistry (EN) · Música",
+    "empresa": "Royal Society of Chemistry",
+    "url": "https://www.rsc.org/",
+    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Repetido en borrador dentro de Música; se mantiene por fidelidad.",
+    "categoria": "Youtube - Pending",
+    "tags": ["química","educación","recursos","rsc","nota"]
+  },
+  {
+    "id": 135,
+    "nombre_web": "SEPE · Empléate",
+    "empresa": "SEPE",
+    "url": "https://www.empleate.gob.es/empleo/#/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Agrega ofertas de múltiples portales.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","ofertas","sepe","portal","trabajo"]
+  },
+  {
+    "id": 136,
+    "nombre_web": "InfoJobs",
+    "empresa": "InfoJobs",
+    "url": "https://www.infojobs.net/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","ofertas","infojobs","trabajo","portal"]
+  },
+  {
+    "id": 137,
+    "nombre_web": "RemoteOK",
+    "empresa": "Remote OK",
+    "url": "https://remoteok.com",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","remoto","ofertas","remoteok","tech"]
+  },
+  {
+    "id": 138,
+    "nombre_web": "Remotive",
+    "empresa": "Remotive",
+    "url": "https://remotive.com",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","remoto","ofertas","remotive","jobs"]
+  },
+  {
+    "id": 139,
+    "nombre_web": "Wellfound",
+    "empresa": "Wellfound",
+    "url": "https://wellfound.com",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo en startups.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","startups","ofertas","wellfound","tech"]
+  },
+  {
+    "id": 140,
+    "nombre_web": "FlexJobs",
+    "empresa": "FlexJobs",
+    "url": "https://www.flexjobs.com/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto y flexible.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","remoto","flexible","ofertas","jobs"]
+  },
+  {
+    "id": 141,
+    "nombre_web": "We Work Remotely",
+    "empresa": "We Work Remotely",
+    "url": "https://weworkremotely.com/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Portal especializado en remoto.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","remoto","ofertas","jobs","tech"]
+  },
+  {
+    "id": 142,
+    "nombre_web": "Vacantes Remotas",
+    "empresa": "Vacantes Remotas",
+    "url": "https://www.vacantesremotas.com",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","remoto","español","ofertas","jobs"]
+  },
+  {
+    "id": 143,
+    "nombre_web": "Get on Board",
+    "empresa": "Get on Board",
+    "url": "https://www.getonbrd.com/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo tech en LATAM y remoto.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["empleo","tech","latam","remoto","ofertas"]
+  },
+  {
+    "id": 144,
+    "nombre_web": "Malt",
+    "empresa": "Malt",
+    "url": "https://www.malt.es/",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Marketplace para freelance.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["freelance","proyectos","empleo","malt","marketplace"]
+  },
+  {
+    "id": 145,
+    "nombre_web": "Pros Marketplace",
+    "empresa": "Pros Marketplace",
+    "url": "https://prosmarketplace.com/es",
+    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Plataforma para profesionales freelance.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["freelance","proyectos","empleo","marketplace","servicios"]
   }
 ]
