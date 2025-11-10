@@ -1,0 +1,120 @@
+
+[
+  {
+    "id": 1,
+    "nombre_web": "Boxiz - The Gamified Marketplace",
+    "empresa": "BOXZ.COM",
+    "url": "https://boxz.com",
+    "descripcion": "Elemen 3D nya luar biasa, efek glowing nya menambah kesan wah. Pokoknya website ini bagus pake banget.",
+    "categoria": "Inspirasi",
+    "tags": ["3d", "marketplace", "gamified", "inspirasi", "web design"]
+  },
+  {
+    "id": 2,
+    "nombre_web": "Clain - Bringing Transparency to Blockchain",
+    "empresa": "CLAIN.IO",
+    "url": "https://clain.io",
+    "descripcion": "Ruang kosong yang digunakan sangat banyak tetapi malah terlihat sangat bagus. Perpaduan typography, whitespace dan penggunaan warna yang pas.",
+    "categoria": "Inspirasi",
+    "tags": ["blockchain", "typography", "minimalist", "fintech"]
+  },
+  {
+    "id": 3,
+    "nombre_web": "Natural AI",
+    "empresa": "NATURAL.AI",
+    "url": "https://natural.ai",
+    "descripcion": "Landing page aplikasi bernama Natural. Design nya futuristik, minimalis dan elegan.",
+    "categoria": "Inteligencia Artificial",
+    "tags": ["ai", "landing page", "futuristic", "design"]
+  },
+  {
+    "id": 4,
+    "nombre_web": "5 Lessons We Learned Adding Dark Mode to WorkOS",
+    "empresa": "WORKOS.COM",
+    "url": "https://workos.com/blog/lessons-learned-adding-dark-mode",
+    "descripcion": "An insightful article on implementing dark mode in web applications, covering challenges and best practices.",
+    "categoria": "Artikel",
+    "tags": ["dark mode", "frontend", "development", "ux"]
+  },
+  {
+    "id": 5,
+    "nombre_web": "React Docs (New)",
+    "empresa": "REACT.DEV",
+    "url": "https://react.dev",
+    "descripcion": "The new official documentation for React, with interactive examples and a focus on modern React with hooks.",
+    "categoria": "Programación",
+    "tags": ["react", "javascript", "frontend", "documentation"]
+  },
+  {
+    "id": 6,
+    "nombre_web": "Tailwind CSS - Rapidly build modern websites",
+    "empresa": "TAILWINDCSS.COM",
+    "url": "https://tailwindcss.com",
+    "descripcion": "A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.",
+    "categoria": "Herramientas Web",
+    "tags": ["css", "frontend", "framework", "utility-first"]
+  },
+  {
+    "id": 7,
+    "nombre_web": "Fireship.io",
+    "empresa": "FIRESHIP.IO",
+    "url": "https://fireship.io",
+    "descripcion": "High-intensity code tutorials to help you build & ship apps fast. Videos and guides on a wide variety of modern web technologies.",
+    "categoria": "Formación",
+    "tags": ["video", "tutorial", "programming", "development"]
+  },
+  {
+    "id": 8,
+    "nombre_web": "Smashing Magazine",
+    "empresa": "SMASHINGMAGAZINE.COM",
+    "url": "https://www.smashingmagazine.com/",
+    "descripcion": "An online magazine for professional web designers and developers, with a focus on design, UX, and frontend development.",
+    "categoria": "Resources",
+    "tags": ["web design", "ux", "frontend", "artikel"]
+  },
+  {
+    "id": 9,
+    "nombre_web": "Dribbble - Discover the World’s Top Designers",
+    "empresa": "DRIBBBLE.COM",
+    "url": "https://dribbble.com",
+    "descripcion": "A community of designers sharing screenshots of their work, process, and projects.",
+    "categoria": "Portfolio",
+    "tags": ["design", "portfolio", "inspiration", "ui", "ux"]
+  },
+  {
+    "id": 10,
+    "nombre_web": "Awwwards - Website Awards",
+    "empresa": "AWWWARDS.COM",
+    "url": "https://www.awwwards.com",
+    "descripcion": "The awards that recognize the talent and effort of the best web designers, developers, and agencies in the world.",
+    "categoria": "Inspirasi",
+    "tags": ["web design", "awards", "inspiration", "ui"]
+  },
+  {
+    "id": 11,
+    "nombre_web": "FreeCodeCamp",
+    "empresa": "FREECODECAMP.ORG",
+    "url": "https://www.freecodecamp.org/",
+    "descripcion": "Learn to code for free. Build projects. Earn certifications.",
+    "categoria": "Formación",
+    "tags": ["programming", "learning", "free", "certification"]
+  },
+  {
+    "id": 12,
+    "nombre_web": "The Net Ninja - YouTube",
+    "empresa": "YOUTUBE.COM",
+    "url": "https://www.youtube.com/c/TheNetNinja",
+    "descripcion": "Black-belt training for web developers. Over 1000 free programming tutorials about Modern JavaScript, Node.js, React, Vue.js, Firebase and more.",
+    "categoria": "Video",
+    "tags": ["video", "tutorial", "javascript", "frontend"]
+  },
+  {
+    "id": 13,
+    "nombre_web": "BrainyQuote",
+    "empresa": "BRAINYQUOTE.COM",
+    "url": "https://www.brainyquote.com",
+    "descripcion": "Find and share famous quotes by your favorite authors.",
+    "categoria": "Quotes",
+    "tags": ["quotes", "inspiration", "wisdom"]
+  }
+]

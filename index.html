@@ -1,42 +1,37 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bookmark Personalizado</title>
-    <link href="./css/bootstrap.min.css" rel="stylesheet">
-    <link href="./css/styles.css" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Bookmarks</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+          },
+        },
+      }
+    </script>
 </head>
-<body>
-    <button class="hamburger">
-        <div class="hamburger-inner">
-            <div class="hamburger-line"></div>
-            <div class="hamburger-line"></div>
-            <div class="hamburger-line"></div>
-        </div>
-    </button>
-
-    <div class="sidebar">
-        <div class="sidebar-header">
-            <h3 class="m-0">Bookmarks</h3>
-        </div>
-        <div class="sections-container">
-            <div class="nav flex-column nav-pills" id="temas-list">
-                <!-- Los temas se cargarán aquí dinámicamente -->
-            </div>
-        </div>
+<body class="bg-[#1a1b26] text-gray-300 font-sans">
+    <div class="flex h-screen w-full">
+        <!-- Sidebar -->
+        <aside id="sidebar" class="w-64 flex-shrink-0 bg-[#1a1b26] p-6 flex flex-col">
+            <!-- Sidebar content will be injected by JS -->
+        </aside>
+        <!-- Main Content -->
+        <main id="main-content" class="flex-1 flex flex-col overflow-y-auto bg-gradient-to-br from-[#1e2a51] via-[#213550] to-[#2c4a68]">
+            <!-- Main content will be injected by JS -->
+        </main>
     </div>
-
-    <div class="main-content">
-        <div class="container">
-            <h2 id="tema-actual" class="mb-4"></h2>
-            <div class="accordion" id="enlaces-accordion">
-                <!-- Los subtemas y enlaces se cargarán aquí dinámicamente -->
-            </div>
-        </div>
-    </div>
-    <!--script src="data.js"></script-->
-    <script src="./js/functions.js"></script>
-    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/app.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,16 @@
+
+{
+    "default": "FolderIcon",
+    "Todos": "FolderIcon",
+    "Artikel": "ArticleIcon",
+    "Inspirasi": "InspirationIcon",
+    "Resources": "ResourcesIcon",
+    "Tools": "ToolsIcon",
+    "Video": "VideoIcon",
+    "Portfolio": "PortfolioIcon",
+    "Quotes": "QuotesIcon",
+    "Inteligencia Artificial": "BrainIcon",
+    "Programación": "CodeIcon",
+    "Herramientas Web": "ToolsIcon",
+    "Formación": "ResourcesIcon"
+}
