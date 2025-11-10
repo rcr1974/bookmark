@@ -6,7 +6,13 @@
     "url": "https://mistral.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. LLM Europeo gratuito",
     "categoria": "IA",
-    "tags": ["ia","ai","herramientas","mistral","mistral ai"]
+    "tags": [
+      "llm europeo",
+      "modelo abierto",
+      "chat gratuito",
+      "texto generativo",
+      "asistente ligero"
+    ]
   },
   {
     "id": 2,
@@ -15,7 +21,13 @@
     "url": "https://chat.deepseek.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Mejor que el modelo 0 de ChatGPT.",
     "categoria": "IA",
-    "tags": ["ia","ai","herramientas","deepseek","chatbot"]
+    "tags": [
+      "razonamiento profundo",
+      "codigo avanzado",
+      "busqueda integrada",
+      "modelo eficiente",
+      "respuestas rapidas"
+    ]
   },
   {
     "id": 3,
@@ -24,7 +36,13 @@
     "url": "https://claude.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
     "categoria": "IA",
-    "tags": ["ia","asistente","anthropic","razonamiento","claude"]
+    "tags": [
+      "contexto largo",
+      "escritura asistida",
+      "analisis documentos",
+      "seguridad contenido",
+      "generacion texto"
+    ]
   },
   {
     "id": 4,
@@ -33,7 +51,13 @@
     "url": "https://gemini.google.com/app",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. De Google. https://aistudio.google.com/",
     "categoria": "IA",
-    "tags": ["ia","asistente","google","multimodal","gemini"]
+    "tags": [
+      "multimodal avanzado",
+      "herramientas codigo",
+      "imagenes texto",
+      "chat ia",
+      "asistente virtual"
+    ]
   },
   {
     "id": 5,
@@ -42,7 +66,13 @@
     "url": "https://copilot.microsoft.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Microsoft",
     "categoria": "IA",
-    "tags": ["ia","asistente","microsoft","productividad","copilot"]
+    "tags": [
+      "productividad office",
+      "agente navegador",
+      "resumen correos",
+      "asistente empresas",
+      "planificacion tareas"
+    ]
   },
   {
     "id": 6,
@@ -51,7 +81,13 @@
     "url": "https://grok.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. IA con capacidades de búsqueda en tiempo real.",
     "categoria": "IA",
-    "tags": ["ia","búsqueda","tiempo real","xai","grok"]
+    "tags": [
+      "informacion tiempo",
+      "analisis tendencias",
+      "busqueda x",
+      "respuestas actualizadas",
+      "humor sarcastico"
+    ]
   },
   {
     "id": 7,
@@ -60,7 +96,13 @@
     "url": "https://chatgpt.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
     "categoria": "IA",
-    "tags": ["ia","asistente","openai","chatbot","razonamiento"]
+    "tags": [
+      "chat conversacional",
+      "instrucciones personal",
+      "agente herramientas",
+      "memoria conversacion",
+      "razonamiento avanzado"
+    ]
   },
   {
     "id": 8,
@@ -69,7 +111,13 @@
     "url": "https://lmarena.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Permite ejecutar cualquier LLM de forma gratuita.",
     "categoria": "IA",
-    "tags": ["ia","llm","ejecución","gratuito","lmarena"]
+    "tags": [
+      "ejecutar modelos",
+      "comparar llms",
+      "pruebas gratuitas",
+      "laboratorio llm",
+      "benchmarks publicos"
+    ]
   },
   {
     "id": 9,
@@ -78,7 +126,13 @@
     "url": "https://www.phind.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
     "categoria": "IA",
-    "tags": ["ia","búsqueda","desarrolladores","phind","respuestas"]
+    "tags": [
+      "busqueda programadores",
+      "respuestas codigo",
+      "errores solucion",
+      "documentacion rapida",
+      "explicaciones tecnicas"
+    ]
   },
   {
     "id": 10,
@@ -87,7 +141,13 @@
     "url": "https://www.perplexity.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Buscador con IA",
     "categoria": "IA",
-    "tags": ["ia","answer engine","búsqueda","citas","perplexity"]
+    "tags": [
+      "motor respuestas",
+      "buscador avanzado",
+      "citas fuentes",
+      "exploracion web",
+      "resumen articulos"
+    ]
   },
   {
     "id": 11,
@@ -96,7 +156,13 @@
     "url": "https://fal.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Generative media platform for developers",
     "categoria": "IA",
-    "tags": ["ia","generación de imágenes","vídeo","apis","fal"]
+    "tags": [
+      "generacion imagen",
+      "video rapido",
+      "apis graficas",
+      "pipeline media",
+      "servicios inferencia"
+    ]
   },
   {
     "id": 12,
@@ -105,7 +171,13 @@
     "url": "https://qwen.ai/home",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Similar a ChatGPT con modelos open source de Alibaba.",
     "categoria": "IA",
-    "tags": ["ia","asistente","alibaba","qwen","open source"]
+    "tags": [
+      "modelos abiertos",
+      "agente conversacional",
+      "traduccion tecnica",
+      "razonamiento codigo",
+      "contexto ampliado"
+    ]
   },
   {
     "id": 13,
@@ -114,7 +186,13 @@
     "url": "https://www.hailuo.ai/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat tipo ChatGPT con buenos resultados.",
     "categoria": "IA",
-    "tags": ["ia","asistente","hailuo","multimodal","chatbot"]
+    "tags": [
+      "chat gratuito",
+      "voz sintetica",
+      "imagen integrada",
+      "respuesta rapida",
+      "traduccion precisa"
+    ]
   },
   {
     "id": 14,
@@ -123,7 +201,13 @@
     "url": "https://playground.allenai.org/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelos open source (p.ej., Tulu) para probar.",
     "categoria": "IA",
-    "tags": ["ia","open source","playground","allen ai","modelos"]
+    "tags": [
+      "modelos abiertos",
+      "pruebas online",
+      "nlp investigacion",
+      "tareas lenguaje",
+      "comparativas modelos"
+    ]
   },
   {
     "id": 15,
@@ -132,7 +216,13 @@
     "url": "https://chat.groq.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Ejecuta modelos en la nube (DeepSeek, etc.).",
     "categoria": "IA",
-    "tags": ["ia","inferencias","groq","velocidad","modelos"]
+    "tags": [
+      "inferencias rapidas",
+      "latencia minima",
+      "modelos multiples",
+      "token barato",
+      "api velocidad"
+    ]
   },
   {
     "id": 16,
@@ -141,7 +231,13 @@
     "url": "https://www.kimi.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelo chino con gran contexto.",
     "categoria": "IA",
-    "tags": ["ia","asistente","kimi","moonshot","razonamiento"]
+    "tags": [
+      "contexto extenso",
+      "busqueda web",
+      "resumen pdf",
+      "traduccion rapida",
+      "razonamiento largo"
+    ]
   },
   {
     "id": 17,
@@ -150,7 +246,13 @@
     "url": "https://coral.cohere.com/",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Portal/espacio de modelos Cohere.",
     "categoria": "IA",
-    "tags": ["ia","cohere","nlp","apis","modelos"]
+    "tags": [
+      "nlp empresarial",
+      "resumen textos",
+      "clasificacion temas",
+      "busqueda semantica",
+      "embeddings calidad"
+    ]
   },
   {
     "id": 18,
@@ -159,7 +261,13 @@
     "url": "https://duckduckgo.com/?ia=chat&duckai=1",
     "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat de IA privado con modelos de terceros.",
     "categoria": "IA",
-    "tags": ["ia","privacidad","chat","duckduckgo","multimodelo"]
+    "tags": [
+      "chat privado",
+      "proteccion datos",
+      "modelos terceros",
+      "anonimato busqueda",
+      "respuestas seguras"
+    ]
   },
   {
     "id": 19,
@@ -168,7 +276,13 @@
     "url": "https://agent.minimax.io/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente general para crear apps, análisis, etc.",
     "categoria": "Programación",
-    "tags": ["agentes","mcp","productividad","minimax","ia"]
+    "tags": [
+      "agentes generalistas",
+      "creacion apps",
+      "analisis datos",
+      "acciones web",
+      "automatizacion tareas"
+    ]
   },
   {
     "id": 20,
@@ -177,7 +291,13 @@
     "url": "https://manus.im/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente autónomo para ejecutar tareas complejas.",
     "categoria": "Programación",
-    "tags": ["agentes","autónomo","workflow","productividad","manus"]
+    "tags": [
+      "agente autonomo",
+      "workflow complejo",
+      "ejecucion pasos",
+      "objetivos largos",
+      "planificacion automatica"
+    ]
   },
   {
     "id": 21,
@@ -186,16 +306,28 @@
     "url": "https://www.roboneo.com/home",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente creativo para generar/editar imágenes y vídeos mediante conversación.",
     "categoria": "Programación",
-    "tags": ["agentes","diseño","imagen","vídeo","roboneo"]
+    "tags": [
+      "edicion imagen",
+      "video creativo",
+      "herramientas diseño",
+      "dialogo visual",
+      "generacion media"
+    ]
   },
   {
     "id": 22,
     "nombre_web": "GitHub Copilot",
     "empresa": "GitHub",
     "url": "https://github.com/copilot",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Asistente de código integrado en el ecosistema GitHub/VS Code.",
+    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Asistente de código integrado en el ecosistema GitHub/VS Code.",
     "categoria": "Programación",
-    "tags": ["programación","código","github","pair programming","copilot"]
+    "tags": [
+      "asistente codigo",
+      "sugerencias editor",
+      "pareja programacion",
+      "documentacion contexto",
+      "refactorizacion segura"
+    ]
   },
   {
     "id": 23,
@@ -204,7 +336,13 @@
     "url": "https://stitch.withgoogle.com",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera interfaces (UI) para web/móvil a partir de prompts.",
     "categoria": "Programación",
-    "tags": ["diseño","ui","prototipado","google","front-end"]
+    "tags": [
+      "ui generativa",
+      "prototipos rapidos",
+      "componentes web",
+      "interfaces moviles",
+      "diseno asistido"
+    ]
   },
   {
     "id": 24,
@@ -213,7 +351,13 @@
     "url": "https://v0.app/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Builder agent para pasar de idea a app desplegada con un prompt.",
     "categoria": "Programación",
-    "tags": ["programación","prototipado","vercel","full‑stack","v0"]
+    "tags": [
+      "constructor interfaces",
+      "agente builder",
+      "deploy automatico",
+      "stack completo",
+      "prototipo express"
+    ]
   },
   {
     "id": 25,
@@ -222,7 +366,13 @@
     "url": "https://bolt.new/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Construye proyectos completos y los publica desde el propio editor.",
     "categoria": "Programación",
-    "tags": ["programación","full‑stack","deploy","stackblitz","bolt"]
+    "tags": [
+      "proyectos completos",
+      "editor web",
+      "publicacion directa",
+      "starter templates",
+      "servidor inmediato"
+    ]
   },
   {
     "id": 26,
@@ -231,7 +381,13 @@
     "url": "https://replit.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor en la nube con agentes para crear apps y páginas web.",
     "categoria": "Programación",
-    "tags": ["programación","cloud ide","agentes","replit","deploy"]
+    "tags": [
+      "ide online",
+      "agente codigo",
+      "deploy instantaneo",
+      "hosting gratuito",
+      "colaboracion tiempo"
+    ]
   },
   {
     "id": 27,
@@ -240,7 +396,13 @@
     "url": "https://aistudio.google.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Consola de Gemini para claves API, pruebas y desarrollo.",
     "categoria": "Programación",
-    "tags": ["ia","apis","gemini","google","desarrollo"]
+    "tags": [
+      "claves api",
+      "pruebas gemini",
+      "consola desarrollo",
+      "evaluacion modelos",
+      "experimentos ia"
+    ]
   },
   {
     "id": 28,
@@ -249,7 +411,13 @@
     "url": "https://websim.ai/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera webs, juegos y prototipos con modelos seleccionables.",
     "categoria": "Programación",
-    "tags": ["prototipado","web","juegos","genai","websim"]
+    "tags": [
+      "sitios generativos",
+      "juegos rapidos",
+      "prototipos web",
+      "experimentos creativos",
+      "plantillas ideas"
+    ]
   },
   {
     "id": 29,
@@ -258,7 +426,13 @@
     "url": "https://llamacoder.together.ai/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Portal con varios modelos (Qwen, DeepSeek, etc.) enfocados en código.",
     "categoria": "Programación",
-    "tags": ["programación","models","together","code","llama"]
+    "tags": [
+      "modelos codigo",
+      "asistente desarrollo",
+      "explicacion errores",
+      "generacion funciones",
+      "completado inteligente"
+    ]
   },
   {
     "id": 30,
@@ -267,7 +441,13 @@
     "url": "https://huggingface.co/spaces/enzostvs/deepsite",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Crea páginas HTML funcionales con un prompt.",
     "categoria": "Programación",
-    "tags": ["prototipado","html","hugging face","prompt‑to‑app","frontend"]
+    "tags": [
+      "spaces demos",
+      "modelos huggingface",
+      "datasets abiertos",
+      "comunidad ml",
+      "repositorios modelos"
+    ]
   },
   {
     "id": 31,
@@ -276,7 +456,13 @@
     "url": "https://studio.firebase.google.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor/console para crear y probar apps con Firebase.",
     "categoria": "Programación",
-    "tags": ["firebase","google","backend","prototipado","apps"]
+    "tags": [
+      "proyectos firebase",
+      "backend movil",
+      "pruebas funciones",
+      "base datos",
+      "hosting firebase"
+    ]
   },
   {
     "id": 32,
@@ -285,7 +471,13 @@
     "url": "https://justicio.es/",
     "descripcion": "Recurso en la categoría Legal. Subcategoría: . Herramienta legal online.",
     "categoria": "Legal",
-    "tags": ["legal","asesoría","justicia","documentos","online"]
+    "tags": [
+      "consultas legales",
+      "documentos juridicos",
+      "asesoria online",
+      "modelos contratos",
+      "servicios legales"
+    ]
   },
   {
     "id": 33,
@@ -294,7 +486,13 @@
     "url": "https://asesor.legal/",
     "descripcion": "Recurso en la categoría Legal. Subcategoría: . Respuestas legales básicas; para profundizar requiere pago.",
     "categoria": "Legal",
-    "tags": ["legal","asesoría","consultas","derecho","online"]
+    "tags": [
+      "respuestas legales",
+      "consultoria juridica",
+      "preguntas basicas",
+      "servicios premium",
+      "orientacion rapida"
+    ]
   },
   {
     "id": 34,
@@ -303,7 +501,13 @@
     "url": "https://fliki.ai/",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo y voz a partir de texto.",
     "categoria": "Imágenes & Videos",
-    "tags": ["vídeo","voz","tts","marketing","fliki"]
+    "tags": [
+      "video texto",
+      "voz natural",
+      "narrador ia",
+      "videos marketing",
+      "guiones rapidos"
+    ]
   },
   {
     "id": 35,
@@ -312,7 +516,13 @@
     "url": "https://piclumen.com/app/",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación/edición de imágenes.",
     "categoria": "Imágenes & Videos",
-    "tags": ["generación de imágenes","edición","diseño","piclumen","ai"]
+    "tags": [
+      "edicion imagen",
+      "generacion fotos",
+      "ajustes creativos",
+      "retoque simple",
+      "modelos visuales"
+    ]
   },
   {
     "id": 36,
@@ -321,7 +531,13 @@
     "url": "https://lexica.art",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Buscador de prompts/imágenes y generador.",
     "categoria": "Imágenes & Videos",
-    "tags": ["prompts","banco de imágenes","diseño","lexica","genai"]
+    "tags": [
+      "buscador prompts",
+      "galeria imagenes",
+      "modelos difusion",
+      "referencias estilo",
+      "generador online"
+    ]
   },
   {
     "id": 37,
@@ -330,7 +546,13 @@
     "url": "https://redpandaai.com",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Herramientas de imagen/vídeo con IA.",
     "categoria": "Imágenes & Videos",
-    "tags": ["imagen","vídeo","genai","redpanda","diseño"]
+    "tags": [
+      "herramientas visuales",
+      "video ia",
+      "imagen ia",
+      "edicion rapida",
+      "efectos creativos"
+    ]
   },
   {
     "id": 38,
@@ -339,7 +561,13 @@
     "url": "https://www.blinkshot.io/",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Capturas y renders mejorados con IA.",
     "categoria": "Imágenes & Videos",
-    "tags": ["capturas","renders","diseño","imagen","blinkshot"]
+    "tags": [
+      "capturas web",
+      "renders ui",
+      "mockups rapidos",
+      "presentacion producto",
+      "imagenes nitidas"
+    ]
   },
   {
     "id": 39,
@@ -348,7 +576,13 @@
     "url": "https://kritaaidiffusion.com/es",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Difusión/estilo para imágenes.",
     "categoria": "Imágenes & Videos",
-    "tags": ["generación de imágenes","difusión","arte","krita","ai"]
+    "tags": [
+      "difusion imagen",
+      "estilos arte",
+      "plugins krita",
+      "control parametros",
+      "mejoras calidad"
+    ]
   },
   {
     "id": 40,
@@ -357,7 +591,13 @@
     "url": "https://www.freepik.com/pikaso/ai-image-generator",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes integrado en Freepik.",
     "categoria": "Imágenes & Videos",
-    "tags": ["generación de imágenes","diseño","freepik","pikaso","ai"]
+    "tags": [
+      "generador imagen",
+      "banco recursos",
+      "descargas graficas",
+      "estilos variados",
+      "prompt visual"
+    ]
   },
   {
     "id": 41,
@@ -366,7 +606,13 @@
     "url": "https://labs.google/fx/es/tools/image-fx",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes de Google (acceso limitado por región).",
     "categoria": "Imágenes & Videos",
-    "tags": ["generación de imágenes","google","image fx","diseño","genai"]
+    "tags": [
+      "image generator",
+      "herramientas fx",
+      "experimentos creativos",
+      "laboratorio",
+      "generador online"
+    ]
   },
   {
     "id": 42,
@@ -375,7 +621,13 @@
     "url": "https://hailuoai.video",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo con IA.",
     "categoria": "Imágenes & Videos",
-    "tags": ["vídeo","generación","hailuo","genai","creatividad"]
+    "tags": [
+      "video generativo",
+      "animaciones ia",
+      "clips cortos",
+      "render rapido",
+      "edicion online"
+    ]
   },
   {
     "id": 43,
@@ -384,7 +636,13 @@
     "url": "https://app.leonardo.ai/",
     "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de imágenes con controles avanzados.",
     "categoria": "Imágenes & Videos",
-    "tags": ["generación de imágenes","diseño","leonardo","modelos","ai"]
+    "tags": [
+      "control avanzado",
+      "modelos estilo",
+      "texturas realistas",
+      "imagen detallada",
+      "composicion creativa"
+    ]
   },
   {
     "id": 44,
@@ -393,7 +651,13 @@
     "url": "https://foroprompt.com/",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Comunidad de prompts.",
     "categoria": "Prompts",
-    "tags": ["prompts","comunidad","genai","recetas","foroprompt"]
+    "tags": [
+      "comunidad prompts",
+      "recetas creativas",
+      "debates tecnicos",
+      "coleccion ejemplos",
+      "plantillas prompt"
+    ]
   },
   {
     "id": 45,
@@ -402,7 +666,13 @@
     "url": "https://prompthero.com/",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Catálogo de prompts e inspiración.",
     "categoria": "Prompts",
-    "tags": ["prompts","galería","inspiración","diseño","ai"]
+    "tags": [
+      "galeria prompts",
+      "inspiracion visual",
+      "busqueda estilos",
+      "artistas referencia",
+      "parametros utiles"
+    ]
   },
   {
     "id": 46,
@@ -411,7 +681,13 @@
     "url": "https://promptden.com/",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Repositorio de prompts.",
     "categoria": "Prompts",
-    "tags": ["prompts","biblioteca","genai","creatividad","ai"]
+    "tags": [
+      "repositorio prompts",
+      "ejemplos curados",
+      "plantillas texto",
+      "tecnicas prompt",
+      "colecciones libres"
+    ]
   },
   {
     "id": 47,
@@ -420,7 +696,13 @@
     "url": "https://workmind.ai/ai-prompt-library/",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Librería de prompts organizada por casos de uso.",
     "categoria": "Prompts",
-    "tags": ["prompts","productividad","plantillas","workmind","ai"]
+    "tags": [
+      "libreria prompts",
+      "casos negocio",
+      "plantillas tareas",
+      "productividad equipos",
+      "mejores practicas"
+    ]
   },
   {
     "id": 48,
@@ -429,7 +711,13 @@
     "url": "https://promptlibrary.org/",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Biblioteca de prompts.",
     "categoria": "Prompts",
-    "tags": ["prompts","biblioteca","genai","recursos","ai"]
+    "tags": [
+      "biblioteca prompts",
+      "categorias variadas",
+      "recursos escritura",
+      "ejemplos efectivos",
+      "mejoras estilo"
+    ]
   },
   {
     "id": 49,
@@ -438,7 +726,13 @@
     "url": "https://www.aimind.so/prompt-generator?email=",
     "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Generador de prompts.",
     "categoria": "Prompts",
-    "tags": ["prompts","generador","ai","creatividad","genai"]
+    "tags": [
+      "generador prompts",
+      "sugerencias creativas",
+      "variaciones texto",
+      "edicion facil",
+      "ideas rapidas"
+    ]
   },
   {
     "id": 50,
@@ -447,7 +741,13 @@
     "url": "https://try.elevenlabs.io/shmdm7umt6gg",
     "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de voces TTS.",
     "categoria": "Voz & Música",
-    "tags": ["voz","tts","audio","elevenlabs","generador"]
+    "tags": [
+      "texto voz",
+      "clonacion voz",
+      "locuciones realistas",
+      "idiomas multiples",
+      "voz natural"
+    ]
   },
   {
     "id": 51,
@@ -456,7 +756,13 @@
     "url": "https://suno.com/",
     "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generación de música con IA a partir de texto.",
     "categoria": "Voz & Música",
-    "tags": ["música","generación","ia","suno","audio"]
+    "tags": [
+      "musica ia",
+      "canciones rapidas",
+      "letras generadas",
+      "estilos variados",
+      "audio creativo"
+    ]
   },
   {
     "id": 52,
@@ -465,7 +771,13 @@
     "url": "https://labs.google/fx/es/tools/music-fx",
     "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de música de Google (FX).",
     "categoria": "Voz & Música",
-    "tags": ["música","generación","google","music fx","ia"]
+    "tags": [
+      "music generator",
+      "herramientas fx",
+      "creacion pistas",
+      "sonido sintetico",
+      "composicion rapida"
+    ]
   },
   {
     "id": 53,
@@ -474,7 +786,13 @@
     "url": "https://gemini.browserbase.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . El agente navega por la web y ejecuta pasos para responder.",
     "categoria": "Otros",
-    "tags": ["ia","agentes","navegación","workflow","browserbase"]
+    "tags": [
+      "navegacion automatica",
+      "agente web",
+      "pasos encadenados",
+      "interaccion sitios",
+      "tareas complejas"
+    ]
   },
   {
     "id": 54,
@@ -483,7 +801,13 @@
     "url": "https://www.futurepedia.io/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listado/mercado de herramientas de IA por temática.",
     "categoria": "Otros",
-    "tags": ["directorio","ia","herramientas","catálogo","futurepedia"]
+    "tags": [
+      "directorio ia",
+      "catalogo herramientas",
+      "busqueda ias",
+      "tendencias ia",
+      "novedades ia"
+    ]
   },
   {
     "id": 55,
@@ -492,7 +816,13 @@
     "url": "https://iaperfecta.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Buscador de IAs.",
     "categoria": "Otros",
-    "tags": ["directorio","buscador","ia","herramientas","listado"]
+    "tags": [
+      "buscador ia",
+      "herramientas ia",
+      "catalogo ias",
+      "filtros tematicos",
+      "comparador ia"
+    ]
   },
   {
     "id": 56,
@@ -501,7 +831,13 @@
     "url": "https://www.giz.ai/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta el modelo que selecciones.",
     "categoria": "Otros",
-    "tags": ["ia","modelos","ejecución","giz","chat"]
+    "tags": [
+      "ejecutar modelos",
+      "chat multillm",
+      "seleccion modelos",
+      "experimentos ia",
+      "pruebas rapidas"
+    ]
   },
   {
     "id": 57,
@@ -510,7 +846,13 @@
     "url": "https://aidetector.pro/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Detecta posibles fragmentos generados por IA en un texto.",
     "categoria": "Otros",
-    "tags": ["detección ia","contenido","verificación","originalidad","texto"]
+    "tags": [
+      "detector ia",
+      "contenido artificial",
+      "verificacion texto",
+      "originalidad contenido",
+      "autoria probable"
+    ]
   },
   {
     "id": 58,
@@ -519,7 +861,13 @@
     "url": "https://gamma.app/es",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Creador de presentaciones con IA.",
     "categoria": "Otros",
-    "tags": ["presentaciones","documentos","pitch","gamma","ia"]
+    "tags": [
+      "presentaciones ia",
+      "documentos visuales",
+      "diapositivas rapidas",
+      "plantillas modernas",
+      "exportacion web"
+    ]
   },
   {
     "id": 59,
@@ -528,7 +876,13 @@
     "url": "https://pinokio.computer/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta modelos localmente con automatizaciones.",
     "categoria": "Otros",
-    "tags": ["local","modelos","automatización","pinokio","ia"]
+    "tags": [
+      "modelos locales",
+      "automatizaciones ia",
+      "descargas guiadas",
+      "entornos listos",
+      "scripts instalacion"
+    ]
   },
   {
     "id": 60,
@@ -537,7 +891,13 @@
     "url": "https://notebooklm.google/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Crea apuntes, resúmenes y podcasts sobre tus documentos.",
     "categoria": "Otros",
-    "tags": ["notas","resumen","podcast","google","ia"]
+    "tags": [
+      "resumen documentos",
+      "libretas inteligentes",
+      "podcast automatico",
+      "extraccion ideas",
+      "estudio rapido"
+    ]
   },
   {
     "id": 61,
@@ -546,7 +906,13 @@
     "url": "https://lobechat.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Cliente para múltiples modelos/servicios de IA.",
     "categoria": "Otros",
-    "tags": ["cliente ia","multimodelo","chat","lobechat","open source"]
+    "tags": [
+      "cliente multillm",
+      "servicios ia",
+      "interfaz chat",
+      "plugins externos",
+      "open source"
+    ]
   },
   {
     "id": 62,
@@ -555,7 +921,13 @@
     "url": "https://ollama.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Descarga y ejecuta modelos LLM en local.",
     "categoria": "Otros",
-    "tags": ["local","modelos","llm","ollama","desarrollo"]
+    "tags": [
+      "llm local",
+      "descarga modelos",
+      "inferencias offline",
+      "modelos ligeros",
+      "gestion versiones"
+    ]
   },
   {
     "id": 63,
@@ -564,7 +936,13 @@
     "url": "https://huggingface.co/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Modelos, datasets y Spaces para demos.",
     "categoria": "Otros",
-    "tags": ["modelos","datasets","spaces","ml","hugging face"]
+    "tags": [
+      "modelos huggingface",
+      "datasets abiertos",
+      "spaces demos",
+      "comunidad ml",
+      "repositorios modelos"
+    ]
   },
   {
     "id": 64,
@@ -573,7 +951,13 @@
     "url": "https://iacomunia.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Portal que explica modelos, herramientas y casos de uso.",
     "categoria": "Otros",
-    "tags": ["blog","divulgación","herramientas","ia","casos de uso"]
+    "tags": [
+      "divulgacion ia",
+      "casos uso",
+      "guias herramientas",
+      "analisis modelos",
+      "articulos explicativos"
+    ]
   },
   {
     "id": 65,
@@ -582,7 +966,13 @@
     "url": "https://aipure.ai/category",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listados de IAs por temática.",
     "categoria": "Otros",
-    "tags": ["directorio","temas","ia","listado","aipure"]
+    "tags": [
+      "directorio ias",
+      "categorias ia",
+      "busqueda filtrada",
+      "listados tematicos",
+      "nuevas herramientas"
+    ]
   },
   {
     "id": 66,
@@ -591,7 +981,13 @@
     "url": "https://lmstudio.ai/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . UI para ejecutar localmente diferentes modelos.",
     "categoria": "Otros",
-    "tags": ["local","ui","llm","lm studio","inferencia"]
+    "tags": [
+      "ui local",
+      "gestion modelos",
+      "descargas rapidas",
+      "inferencia local",
+      "chat offline"
+    ]
   },
   {
     "id": 67,
@@ -600,7 +996,13 @@
     "url": "https://openrouter.ai/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Unifica acceso API a muchos modelos (con cuota/créditos).",
     "categoria": "Otros",
-    "tags": ["apis","model routing","llm","openrouter","ia"]
+    "tags": [
+      "api modelos",
+      "enrutamiento llm",
+      "creditos consumo",
+      "proveedores varios",
+      "comparativa costes"
+    ]
   },
   {
     "id": 68,
@@ -609,7 +1011,13 @@
     "url": "https://cloud.cerebras.ai/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Acceso a modelos vía API en la nube Cerebras.",
     "categoria": "Otros",
-    "tags": ["apis","inferencia","cerebras","ia","nube"]
+    "tags": [
+      "api inferencia",
+      "modelos cerebras",
+      "nube acelerada",
+      "alto rendimiento",
+      "servicios ml"
+    ]
   },
   {
     "id": 69,
@@ -618,7 +1026,13 @@
     "url": "https://chat.groq.com/",
     "descripcion": "Recurso en la categoría Otros. Subcategoría: . Genera API keys y ejecuta modelos en la nube.",
     "categoria": "Otros",
-    "tags": ["apis","groq","inferencia","velocidad","modelos"]
+    "tags": [
+      "inferencias rapidas",
+      "latencia minima",
+      "modelos multiples",
+      "token barato",
+      "api velocidad"
+    ]
   },
   {
     "id": 70,
@@ -627,7 +1041,13 @@
     "url": "https://www.python.org/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Sitio oficial de Python.",
     "categoria": "Programación",
-    "tags": ["programación","python","documentación","descargas","oficial"]
+    "tags": [
+      "descargas python",
+      "documentacion oficial",
+      "comunidad python",
+      "versiones estables",
+      "paquetes pip"
+    ]
   },
   {
     "id": 71,
@@ -636,7 +1056,13 @@
     "url": "https://realpython.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Tutoriales y artículos de Python.",
     "categoria": "Programación",
-    "tags": ["programación","python","tutoriales","artículos","best practices"]
+    "tags": [
+      "tutoriales python",
+      "articulos practicos",
+      "ejercicios guiados",
+      "mejores practicas",
+      "snippets codigo"
+    ]
   },
   {
     "id": 72,
@@ -645,7 +1071,13 @@
     "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Guía completa de JavaScript.",
     "categoria": "Programación",
-    "tags": ["programación","javascript","mdn","documentación","web"]
+    "tags": [
+      "guia javascript",
+      "documentacion mdn",
+      "apis web",
+      "referencia js",
+      "ejemplos code"
+    ]
   },
   {
     "id": 73,
@@ -654,7 +1086,13 @@
     "url": "https://javascript.info/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Tutorial moderno de JavaScript.",
     "categoria": "Programación",
-    "tags": ["programación","javascript","tutorial","web","guía"]
+    "tags": [
+      "tutorial javascript",
+      "fundamentos js",
+      "temas avanzados",
+      "ejercicios practicos",
+      "web moderna"
+    ]
   },
   {
     "id": 74,
@@ -663,7 +1101,13 @@
     "url": "https://lenguajecss.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: CSS. Recursos y guías de CSS.",
     "categoria": "Programación",
-    "tags": ["programación","css","estilos","guías","web"]
+    "tags": [
+      "guia css",
+      "trucos estilos",
+      "maquetacion web",
+      "flexbox grid",
+      "selectores avanzados"
+    ]
   },
   {
     "id": 75,
@@ -672,7 +1116,13 @@
     "url": "https://books.goalkicker.com/",
     "descripcion": "Recurso en la categoría Programación. Subcategoría: Documentación general. Libros gratuitos por tecnologías.",
     "categoria": "Programación",
-    "tags": ["libros","referencia","programación","ebooks","gratuito"]
+    "tags": [
+      "libros gratis",
+      "referencia rapida",
+      "resumenes tecnicos",
+      "pdf descarga",
+      "apuntes programacion"
+    ]
   },
   {
     "id": 76,
@@ -681,7 +1131,13 @@
     "url": "https://www.udemy.com/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
     "categoria": "Formación",
-    "tags": ["formación","cursos","online","udemy","aprendizaje"]
+    "tags": [
+      "cursos online",
+      "ofertas cursos",
+      "instructores expertos",
+      "certificados fin",
+      "tematicas amplias"
+    ]
   },
   {
     "id": 77,
@@ -690,7 +1146,13 @@
     "url": "https://skillsbuild.org/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Plataforma formativa de IBM.",
     "categoria": "Formación",
-    "tags": ["formación","ibm","cursos","habilidades","skillsbuild"]
+    "tags": [
+      "plataforma formacion",
+      "habilidades digitales",
+      "rutas aprendizaje",
+      "recursos gratuitos",
+      "empleabilidad tech"
+    ]
   },
   {
     "id": 78,
@@ -699,7 +1161,13 @@
     "url": "https://www.edx.org/es",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Cursos de universidades (Harvard, Berkeley, ...).",
     "categoria": "Formación",
-    "tags": ["formación","cursos","universidades","edx","online"]
+    "tags": [
+      "universidades top",
+      "microgrados online",
+      "certificados verificados",
+      "cursos gratuitos",
+      "campus virtual"
+    ]
   },
   {
     "id": 79,
@@ -708,7 +1176,13 @@
     "url": "https://aprende.org/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
     "categoria": "Formación",
-    "tags": ["formación","cursos","gratuitos","aprende","skills"]
+    "tags": [
+      "cursos gratuitos",
+      "habilidades laborales",
+      "programas basicos",
+      "certificacion gratis",
+      "formacion accesible"
+    ]
   },
   {
     "id": 80,
@@ -717,7 +1191,13 @@
     "url": "https://www.fundae.es/trabajadores",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
     "categoria": "Formación",
-    "tags": ["formación","bonificada","empleo","fundae","recursos"]
+    "tags": [
+      "formacion bonificada",
+      "empleo formacion",
+      "recursos cursos",
+      "financiacion publica",
+      "empresas formacion"
+    ]
   },
   {
     "id": 81,
@@ -726,7 +1206,13 @@
     "url": "https://facialix.com/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Divulgación de cursos y recursos.",
     "categoria": "Formación",
-    "tags": ["formación","cursos","divulgación","facialix","aprendizaje"]
+    "tags": [
+      "cursos gratis",
+      "ofertas formacion",
+      "divulgacion educativa",
+      "recopilacion recursos",
+      "tecnologia educacion"
+    ]
   },
   {
     "id": 82,
@@ -735,7 +1221,13 @@
     "url": "https://experienciafundae.es/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
     "categoria": "Formación",
-    "tags": ["formación","fundae","empleo","cursos","recursos"]
+    "tags": [
+      "historias empleo",
+      "casos exito",
+      "oportunidades formacion",
+      "iniciativas publicas",
+      "novedades fundae"
+    ]
   },
   {
     "id": 83,
@@ -744,7 +1236,13 @@
     "url": "https://skills.yourlearning.ibm.com/activity/UDEMY-5320790",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso de Udemy disponible en SkillsBuild.",
     "categoria": "Formación",
-    "tags": ["datos","python","analítica","udemy","skillsbuild"]
+    "tags": [
+      "udemy incluido",
+      "curso datos",
+      "analitica practica",
+      "python aplicado",
+      "laboratorios guiados"
+    ]
   },
   {
     "id": 84,
@@ -753,7 +1251,13 @@
     "url": "https://www.coursera.org/programs/becas-google-fundae-prompting-essential-vptz3",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Programa de becas Google + FUNDAE.",
     "categoria": "Formación",
-    "tags": ["prompting","ia","becas","coursera","fundae"]
+    "tags": [
+      "becas google",
+      "prompting esencial",
+      "curso gratuito",
+      "certificado posible",
+      "inscripcion limitada"
+    ]
   },
   {
     "id": 85,
@@ -762,7 +1266,13 @@
     "url": "https://dev.mrdbourke.com/tensorflow-deep-learning/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Repo con curso completo (PDF, slides, código).",
     "categoria": "Formación",
-    "tags": ["tensorflow","deep learning","curso","python","materiales"]
+    "tags": [
+      "curso tensorflow",
+      "deep learning",
+      "material completo",
+      "notebooks ejemplo",
+      "proyecto final"
+    ]
   },
   {
     "id": 86,
@@ -771,7 +1281,13 @@
     "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Guía de cursos gratuitos (DL, LLMs, ...).",
     "categoria": "Formación",
-    "tags": ["cursos","gratuitos","data","ml","llms"]
+    "tags": [
+      "cursos gratuitos",
+      "comunidad datos",
+      "llms curso",
+      "ml practico",
+      "eventos online"
+    ]
   },
   {
     "id": 87,
@@ -780,7 +1296,13 @@
     "url": "https://microsoft.github.io/AI-For-Beginners/",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso introductorio de IA por Microsoft.",
     "categoria": "Formación",
-    "tags": ["ia","curso","microsoft","principiantes","recursos"]
+    "tags": [
+      "curso ia",
+      "principiantes ia",
+      "lecciones practicas",
+      "recursos abiertos",
+      "proyectos guiados"
+    ]
   },
   {
     "id": 88,
@@ -789,7 +1311,13 @@
     "url": "https://edube.org/study",
     "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Formación gratuita de preparación para certificación.",
     "categoria": "Formación",
-    "tags": ["python","certificación","curso","openedg","examen"]
+    "tags": [
+      "certificacion python",
+      "formacion gratuita",
+      "examen practica",
+      "temario oficial",
+      "modulos progresivos"
+    ]
   },
   {
     "id": 89,
@@ -798,7 +1326,13 @@
     "url": "https://generadordni.es/#home",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","dnI","iban","pruebas","generador"]
+    "tags": [
+      "generador dni",
+      "dni pruebas",
+      "iban ejemplo",
+      "datos ficticios",
+      "validador letras"
+    ]
   },
   {
     "id": 90,
@@ -807,7 +1341,13 @@
     "url": "https://www.generador-de-dni.com/generador-de-dni",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","dni","iban","pruebas","generador"]
+    "tags": [
+      "dni online",
+      "iban pruebas",
+      "documentos test",
+      "datos generados",
+      "validacion nif"
+    ]
   },
   {
     "id": 91,
@@ -816,7 +1356,13 @@
     "url": "https://nif.marcosantos.me/?i=2",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores. NIF Portugal.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","nif","portugal","tests","generador"]
+    "tags": [
+      "nif portugal",
+      "numeros prueba",
+      "validacion fiscal",
+      "tests software",
+      "generador nif"
+    ]
   },
   {
     "id": 92,
@@ -825,7 +1371,13 @@
     "url": "https://onlinestringtools.com/html-encode-string",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","html","encode","texto","web"]
+    "tags": [
+      "html encode",
+      "texto escape",
+      "string tools",
+      "utilidades online",
+      "codificacion html"
+    ]
   },
   {
     "id": 93,
@@ -834,7 +1386,13 @@
     "url": "https://www.rgbtohex.net/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","color","rgb","hex","diseño"]
+    "tags": [
+      "rgb hex",
+      "hex rgb",
+      "convertir color",
+      "paleta rgb",
+      "codigo color"
+    ]
   },
   {
     "id": 94,
@@ -843,7 +1401,13 @@
     "url": "https://www.rgbtohex.net/hex-to-rgb/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","color","hex","rgb","diseño"]
+    "tags": [
+      "hex rgb",
+      "rgb hex",
+      "conversion color",
+      "valores codigo",
+      "paleta tonos"
+    ]
   },
   {
     "id": 95,
@@ -852,7 +1416,13 @@
     "url": "https://codebeautify.org/json-to-yaml",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","json","yaml","conversion","dev"]
+    "tags": [
+      "json yaml",
+      "formatear json",
+      "validar datos",
+      "convertir formatos",
+      "beautify online"
+    ]
   },
   {
     "id": 96,
@@ -861,7 +1431,13 @@
     "url": "https://regexr.com/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores. Probar expresiones regulares.",
     "categoria": "Herramientas",
-    "tags": ["regex","expresiones regulares","tester","utilidades","dev"]
+    "tags": [
+      "tester regex",
+      "expresiones regulares",
+      "patrones texto",
+      "validar regex",
+      "pruebas rapidas"
+    ]
   },
   {
     "id": 97,
@@ -870,7 +1446,13 @@
     "url": "https://icons8.com/icons/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Buscar y modificar iconos.",
     "categoria": "Herramientas",
-    "tags": ["iconos","diseño","recursos","ui","icons8"]
+    "tags": [
+      "iconos gratis",
+      "descarga iconos",
+      "personalizar iconos",
+      "ui recursos",
+      "pack iconos"
+    ]
   },
   {
     "id": 98,
@@ -879,7 +1461,13 @@
     "url": "https://loading.io/#",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Loaders y barras de progreso.",
     "categoria": "Herramientas",
-    "tags": ["loaders","animación","ui","diseño","loading"]
+    "tags": [
+      "loaders animados",
+      "spinners css",
+      "barras progreso",
+      "animaciones svg",
+      "ui feedback"
+    ]
   },
   {
     "id": 99,
@@ -888,7 +1476,13 @@
     "url": "https://lottiefiles.com/free-animations/loading-bar",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Animaciones Lottie gratuitas.",
     "categoria": "Herramientas",
-    "tags": ["lottie","animaciones","ui","diseño","loaders"]
+    "tags": [
+      "animaciones lottie",
+      "lottie gratis",
+      "json animado",
+      "ui animaciones",
+      "descargas lottie"
+    ]
   },
   {
     "id": 100,
@@ -897,7 +1491,13 @@
     "url": "https://www.freepublicapis.com/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: APIs. Colección de APIs públicas para pruebas.",
     "categoria": "Herramientas",
-    "tags": ["apis","rest","tests","catálogo","dev"]
+    "tags": [
+      "apis publicas",
+      "catalogo apis",
+      "pruebas desarrollo",
+      "servicios rest",
+      "ejemplos api"
+    ]
   },
   {
     "id": 101,
@@ -906,7 +1506,13 @@
     "url": "https://jsonviewer.stack.hu/",
     "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Otros. Visualiza y navega estructuras JSON en el navegador.",
     "categoria": "Herramientas",
-    "tags": ["utilidades","json","visualizador","dev","web"]
+    "tags": [
+      "visor json",
+      "arbol datos",
+      "formato json",
+      "navegar estructura",
+      "validar json"
+    ]
   },
   {
     "id": 102,
@@ -915,7 +1521,13 @@
     "url": "https://www.deepl.com/translator",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traductor de alta calidad con buenos matices de estilo.",
     "categoria": "Inglés",
-    "tags": ["traducción","inglés","deepl","idiomas","texto"]
+    "tags": [
+      "traductor avanzado",
+      "estilo natural",
+      "matices idioma",
+      "glosarios propios",
+      "traduccion precisa"
+    ]
   },
   {
     "id": 103,
@@ -924,7 +1536,13 @@
     "url": "https://www.linguee.es/",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Diccionario con ejemplos reales de uso.",
     "categoria": "Inglés",
-    "tags": ["diccionario","ejemplos","inglés","traducción","corpus"]
+    "tags": [
+      "diccionario bilingue",
+      "ejemplos reales",
+      "corpus paralelo",
+      "expresiones idiomaticas",
+      "traducciones comunes"
+    ]
   },
   {
     "id": 104,
@@ -933,7 +1551,13 @@
     "url": "https://dictionary.cambridge.org/es/translate/",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducciones con definiciones y pronunciación.",
     "categoria": "Inglés",
-    "tags": ["diccionario","traducción","pronunciación","inglés","cambridge"]
+    "tags": [
+      "definiciones ingles",
+      "pronunciacion britanica",
+      "traducciones claras",
+      "ejemplos uso",
+      "sinonimos ingles"
+    ]
   },
   {
     "id": 105,
@@ -942,7 +1566,13 @@
     "url": "https://translate.google.es/?hl=es",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducción rápida multilenguaje.",
     "categoria": "Inglés",
-    "tags": ["traducción","inglés","google","texto","voz"]
+    "tags": [
+      "traductor online",
+      "texto voz",
+      "multilenguaje rapido",
+      "camara traduccion",
+      "frases comunes"
+    ]
   },
   {
     "id": 106,
@@ -951,7 +1581,13 @@
     "url": "https://www.bing.com/translator",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Alternativa de Microsoft para traducción.",
     "categoria": "Inglés",
-    "tags": ["traducción","inglés","microsoft","bing","idiomas"]
+    "tags": [
+      "traductor online",
+      "texto voz",
+      "diccionario integrado",
+      "frases utiles",
+      "idiomas multiples"
+    ]
   },
   {
     "id": 107,
@@ -960,7 +1596,13 @@
     "url": "https://www.englishon.es/Vocabularios-temario-ingles-cambridge-gratis",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Vocabularios y temarios gratuitos orientados a Cambridge.",
     "categoria": "Inglés",
-    "tags": ["vocabulario","cambridge","inglés","material","exámenes"]
+    "tags": [
+      "vocabulario cambridge",
+      "temarios gratis",
+      "niveles ingles",
+      "listas palabras",
+      "preparacion examenes"
+    ]
   },
   {
     "id": 108,
@@ -969,7 +1611,13 @@
     "url": "https://mcarmenblogingles.blogspot.com/p/libros-de.html?m=1",
     "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Listado de libros y recursos de inglés.",
     "categoria": "Inglés",
-    "tags": ["libros","recursos","inglés","material","aprendizaje"]
+    "tags": [
+      "libros ingles",
+      "recursos gratis",
+      "lecturas graduadas",
+      "material docente",
+      "descargas utiles"
+    ]
   },
   {
     "id": 109,
@@ -978,7 +1626,13 @@
     "url": "https://youtu.be/D2b-b-gQyzg?si=Xd8sjtCKjI3v2u2N",
     "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Tutorial completo de ChatGPT.",
     "categoria": "ToDo",
-    "tags": ["youtube","chatgpt","tutorial","ia","video"]
+    "tags": [
+      "video tutorial",
+      "guia completa",
+      "novedades chatgpt",
+      "casos practicos",
+      "trucos utiles"
+    ]
   },
   {
     "id": 110,
@@ -987,7 +1641,13 @@
     "url": "https://www.youtube.com/watch?v=5-cFSXztfsM",
     "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Demostración creando apps en segundos.",
     "categoria": "ToDo",
-    "tags": ["youtube","gemini","coder","apps","video"]
+    "tags": [
+      "demostracion codigo",
+      "apps rapidas",
+      "aprendizaje guiado",
+      "casos practicos",
+      "paso a paso"
+    ]
   },
   {
     "id": 111,
@@ -996,7 +1656,13 @@
     "url": "https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ",
     "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Curso ordenado de Pandas.",
     "categoria": "ToDo",
-    "tags": ["youtube","pandas","python","curso","datos"]
+    "tags": [
+      "curso completo",
+      "playlist pandas",
+      "tecnicas analitica",
+      "programacion visual",
+      "video tecnico"
+    ]
   },
   {
     "id": 112,
@@ -1005,7 +1671,13 @@
     "url": "https://www.nafnaf.es",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","tienda","ropa","nafnaf"]
+    "tags": [
+      "moda mujer",
+      "coleccion actual",
+      "vestidos color",
+      "look femenino",
+      "compras online"
+    ]
   },
   {
     "id": 113,
@@ -1014,7 +1686,13 @@
     "url": "https://surkana.es",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","surkana"]
+    "tags": [
+      "estampados vivos",
+      "estilo boho",
+      "ropa colorida",
+      "coleccion mujer",
+      "tienda online"
+    ]
   },
   {
     "id": 114,
@@ -1023,7 +1701,13 @@
     "url": "https://www.skfk-ethical-fashion.com",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda ética.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","ética","mujer","sostenible","skfk"]
+    "tags": [
+      "moda etica",
+      "tejidos organicos",
+      "produccion justa",
+      "diseno sostenible",
+      "coleccion mujer"
+    ]
   },
   {
     "id": 115,
@@ -1032,7 +1716,13 @@
     "url": "https://xantik.net/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","xantik"]
+    "tags": [
+      "estilo urbano",
+      "ropa original",
+      "novedades mujer",
+      "compras web",
+      "tendencia local"
+    ]
   },
   {
     "id": 116,
@@ -1041,7 +1731,13 @@
     "url": "https://verdedoncella.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","verdedoncella"]
+    "tags": [
+      "moda artesana",
+      "diseños unicos",
+      "coleccion mujer",
+      "tienda online",
+      "prendas color"
+    ]
   },
   {
     "id": 117,
@@ -1050,7 +1746,13 @@
     "url": "https://lolinashop.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","lolina"]
+    "tags": [
+      "moda femenina",
+      "ropa actual",
+      "look casual",
+      "compras web",
+      "nueva temporada"
+    ]
   },
   {
     "id": 118,
@@ -1059,7 +1761,13 @@
     "url": "https://singularbarcelona.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","singular"]
+    "tags": [
+      "diseño local",
+      "prendas unicas",
+      "moda creativa",
+      "tienda web",
+      "colecciones limitadas"
+    ]
   },
   {
     "id": 119,
@@ -1068,7 +1776,13 @@
     "url": "https://lagatalocaonline.com/es/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","gataloca"]
+    "tags": [
+      "estilo divertido",
+      "prendas coloridas",
+      "moda femenina",
+      "tienda online",
+      "nueva temporada"
+    ]
   },
   {
     "id": 120,
@@ -1077,7 +1791,13 @@
     "url": "http://www.waipai.com",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","waipai"]
+    "tags": [
+      "moda femenina",
+      "prendas veraniegas",
+      "tienda online",
+      "estilo casual",
+      "nueva coleccion"
+    ]
   },
   {
     "id": 121,
@@ -1086,7 +1806,13 @@
     "url": "https://lawebdesmile.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","smile"]
+    "tags": [
+      "moda alegre",
+      "ropa colorida",
+      "tienda online",
+      "look casual",
+      "novedades mujer"
+    ]
   },
   {
     "id": 122,
@@ -1095,7 +1821,13 @@
     "url": "https://www.vistoluegoexisto.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","visto luego existo"]
+    "tags": [
+      "diseño original",
+      "moda diferente",
+      "tienda online",
+      "look creativo",
+      "nueva temporada"
+    ]
   },
   {
     "id": 123,
@@ -1104,7 +1836,13 @@
     "url": "https://padana.es/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","tienda","padana"]
+    "tags": [
+      "moda mujer",
+      "prendas actuales",
+      "tienda online",
+      "look casual",
+      "coleccion nueva"
+    ]
   },
   {
     "id": 124,
@@ -1113,7 +1851,13 @@
     "url": "https://www.desigual.com/es_ES/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","desigual","tienda"]
+    "tags": [
+      "moda colorida",
+      "estampados unicos",
+      "tienda online",
+      "coleccion mujer",
+      "look urbano"
+    ]
   },
   {
     "id": 125,
@@ -1122,7 +1866,13 @@
     "url": "https://www.ipanima.fr/es/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","ropa","ipanima","tienda"]
+    "tags": [
+      "moda francesa",
+      "coleccion mujer",
+      "tienda online",
+      "estilo elegante",
+      "prendas color"
+    ]
   },
   {
     "id": 126,
@@ -1131,7 +1881,13 @@
     "url": "https://corseteriasingular.com/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","mujer","corsetería","ropa","tienda"]
+    "tags": [
+      "lenceria mujer",
+      "corseteria fina",
+      "tallas grandes",
+      "tienda online",
+      "ajuste perfecto"
+    ]
   },
   {
     "id": 127,
@@ -1140,7 +1896,13 @@
     "url": "https://pedrodelhierro.com",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda para hombre y mujer.",
     "categoria": "Ropa y calzado",
-    "tags": ["moda","hombre","mujer","ropa","tienda"]
+    "tags": [
+      "moda elegante",
+      "prendas calidad",
+      "tienda online",
+      "coleccion hombre",
+      "coleccion mujer"
+    ]
   },
   {
     "id": 128,
@@ -1149,7 +1911,13 @@
     "url": "https://www.google.es/",
     "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Calzado. Enlace de referencia genérico (pendiente de recurso final).",
     "categoria": "Ropa y calzado",
-    "tags": ["calzado","referencia","búsqueda","tienda","moda"]
+    "tags": [
+      "buscador calzado",
+      "compras zapatos",
+      "ofertas botas",
+      "tendencias sneakers",
+      "marcas deportivas"
+    ]
   },
   {
     "id": 129,
@@ -1158,7 +1926,13 @@
     "url": "https://www.physics.org/",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Portal de recursos de física.",
     "categoria": "Youtube - Pending",
-    "tags": ["física","recursos","educación","portal","ciencia"]
+    "tags": [
+      "recursos fisica",
+      "divulgacion cientifica",
+      "articulos educacion",
+      "experimentos clase",
+      "temas fisica"
+    ]
   },
   {
     "id": 130,
@@ -1167,7 +1941,13 @@
     "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Conceptos de física explicados.",
     "categoria": "Youtube - Pending",
-    "tags": ["física","conceptos","educación","universidad","ciencia"]
+    "tags": [
+      "conceptos fisica",
+      "diagramas concepto",
+      "formulas basicas",
+      "temas avanzados",
+      "mapas teoria"
+    ]
   },
   {
     "id": 131,
@@ -1176,7 +1956,13 @@
     "url": "https://chem.libretexts.org/",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Biblioteca de recursos de química.",
     "categoria": "Youtube - Pending",
-    "tags": ["química","recursos","educación","libretexts","ciencia"]
+    "tags": [
+      "biblioteca quimica",
+      "recursos docentes",
+      "laboratorio virtual",
+      "capitulos abiertos",
+      "problemas resueltos"
+    ]
   },
   {
     "id": 132,
@@ -1185,7 +1971,13 @@
     "url": "https://www.rsc.org/",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Recursos y educación en química.",
     "categoria": "Youtube - Pending",
-    "tags": ["química","educación","recursos","rsc","ciencia"]
+    "tags": [
+      "recursos quimica",
+      "educacion secundaria",
+      "revistas ciencia",
+      "experimentos aula",
+      "actividades docentes"
+    ]
   },
   {
     "id": 133,
@@ -1194,7 +1986,13 @@
     "url": "https://chem.libretexts.org/",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Biblioteca de química (marcado en tu borrador dentro de Música).",
     "categoria": "Youtube - Pending",
-    "tags": ["química","recursos","educación","libretexts","nota"]
+    "tags": [
+      "biblioteca quimica",
+      "recursos docentes",
+      "laboratorio virtual",
+      "capitulos abiertos",
+      "problemas resueltos"
+    ]
   },
   {
     "id": 134,
@@ -1203,7 +2001,13 @@
     "url": "https://www.rsc.org/",
     "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Repetido en borrador dentro de Música; se mantiene por fidelidad.",
     "categoria": "Youtube - Pending",
-    "tags": ["química","educación","recursos","rsc","nota"]
+    "tags": [
+      "recursos quimica",
+      "educacion secundaria",
+      "revistas ciencia",
+      "experimentos aula",
+      "actividades docentes"
+    ]
   },
   {
     "id": 135,
@@ -1212,7 +2016,13 @@
     "url": "https://www.empleate.gob.es/empleo/#/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Agrega ofertas de múltiples portales.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","ofertas","sepe","portal","trabajo"]
+    "tags": [
+      "agregador ofertas",
+      "empleo publico",
+      "busqueda trabajo",
+      "perfiles variados",
+      "candidatura online"
+    ]
   },
   {
     "id": 136,
@@ -1221,7 +2031,13 @@
     "url": "https://www.infojobs.net/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","ofertas","infojobs","trabajo","portal"]
+    "tags": [
+      "ofertas empleo",
+      "portal lider",
+      "curriculums rapidos",
+      "busqueda avanzada",
+      "alertas trabajo"
+    ]
   },
   {
     "id": 137,
@@ -1230,7 +2046,13 @@
     "url": "https://remoteok.com",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","remoto","ofertas","remoteok","tech"]
+    "tags": [
+      "empleo remoto",
+      "tech jobs",
+      "salarios usd",
+      "empresas globales",
+      "filtrado rapido"
+    ]
   },
   {
     "id": 138,
@@ -1239,7 +2061,13 @@
     "url": "https://remotive.com",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","remoto","ofertas","remotive","jobs"]
+    "tags": [
+      "trabajo remoto",
+      "listados tech",
+      "comunidad remota",
+      "newsletter empleos",
+      "ofertas actualizadas"
+    ]
   },
   {
     "id": 139,
@@ -1248,7 +2076,13 @@
     "url": "https://wellfound.com",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo en startups.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","startups","ofertas","wellfound","tech"]
+    "tags": [
+      "empleo startups",
+      "capital riesgo",
+      "perfiles tech",
+      "fundadores activos",
+      "candidatura directa"
+    ]
   },
   {
     "id": 140,
@@ -1257,7 +2091,13 @@
     "url": "https://www.flexjobs.com/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto y flexible.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","remoto","flexible","ofertas","jobs"]
+    "tags": [
+      "trabajo flexible",
+      "remote friendly",
+      "curacion ofertas",
+      "suscripcion paga",
+      "categorias varias"
+    ]
   },
   {
     "id": 141,
@@ -1266,7 +2106,13 @@
     "url": "https://weworkremotely.com/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Portal especializado en remoto.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","remoto","ofertas","jobs","tech"]
+    "tags": [
+      "portal remoto",
+      "puestos tech",
+      "ofertas diarias",
+      "empresas top",
+      "filtrado categorias"
+    ]
   },
   {
     "id": 142,
@@ -1275,7 +2121,13 @@
     "url": "https://www.vacantesremotas.com",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","remoto","español","ofertas","jobs"]
+    "tags": [
+      "empleo remoto",
+      "ofertas espanol",
+      "latam remoto",
+      "trabajos digitales",
+      "postulacion rapida"
+    ]
   },
   {
     "id": 143,
@@ -1284,7 +2136,13 @@
     "url": "https://www.getonbrd.com/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo tech en LATAM y remoto.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["empleo","tech","latam","remoto","ofertas"]
+    "tags": [
+      "empleos latam",
+      "tecnologia remota",
+      "ofertas curadas",
+      "salarios abiertos",
+      "postulacion directa"
+    ]
   },
   {
     "id": 144,
@@ -1293,7 +2151,13 @@
     "url": "https://www.malt.es/",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Marketplace para freelance.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["freelance","proyectos","empleo","malt","marketplace"]
+    "tags": [
+      "freelance europa",
+      "proyectos empresa",
+      "tarifas visibles",
+      "contratos seguros",
+      "pagos protegidos"
+    ]
   },
   {
     "id": 145,
@@ -1302,6 +2166,12 @@
     "url": "https://prosmarketplace.com/es",
     "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Plataforma para profesionales freelance.",
     "categoria": "Ofertas de trabajo",
-    "tags": ["freelance","proyectos","empleo","marketplace","servicios"]
+    "tags": [
+      "servicios freelance",
+      "profesionales verificados",
+      "proyectos puntuales",
+      "contratacion rapida",
+      "portafolio publico"
+    ]
   }
-]
+ ]
