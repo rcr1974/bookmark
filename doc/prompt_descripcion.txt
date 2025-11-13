@@ -1,0 +1,35 @@
+Adjunto un documento en formato json donde cada elemento hace referencia a un sitio web, se trata de un bookmark, por cada elemento existen diferentes atributos que categorizan, describen, .... El formato de cada elemento es
+"""{
+    "id":
+    "nombre_web":
+    "empresa":
+    "url":
+    "descripcion":,    "categoria":
+    "tags": []
+  }""".
+
+Basándote el valor del campo """url""" que representa la url de un sitio web.
+
+Lee el contenido completo y genera una meta descripción (100 palabras como máximo) que comunique 
+claramente qué puede hacer un usuario en este sitio web.
+
+La descripción debe ser directa, persuasiva y enfocada en acciones/beneficios.
+
+El idioma de la descripción debe ser en español.
+
+Obten una descripcion optimizada y sustituye el valor actual de la propiedad """descripcion""" por la descripción obtenida.
+
+Cuando termines de realizar esta acción por cada uno de los elementos del documento presenta por pantallael nuevo fichero json
+
+
+-------------------------------------------
+
+
+Basándote en esta URL: https://duckduckgo.com/?ia=chat&duckai=1
+
+Lee el contenido completo y genera una meta descripción (150-160 caracteres) que comunique 
+claramente qué puede hacer un usuario en este sitio web.
+
+La descripción debe ser directa, persuasiva y enfocada en acciones/beneficios.
+
+Proporciona 3 opciones optimizadas.

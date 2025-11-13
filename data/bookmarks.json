@@ -4,2174 +4,1304 @@
     "nombre_web": "Mistral",
     "empresa": "Mistral AI",
     "url": "https://mistral.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. LLM Europeo gratuito",
+    "descripcion": "Plataforma europea de IA que ofrece modelos de lenguaje open-source y propietarios. Accede a Le Chat, API de generación de texto, embeddings y moderación. Ideal para desarrolladores y empresas que buscan privacidad, control de datos y rendimiento competitivo. Crea chatbots, automatiza tareas y desarrolla aplicaciones IA con infraestructura europea.",
     "categoria": "IA",
-    "tags": [
-      "llm europeo",
-      "modelo abierto",
-      "chat gratuito",
-      "texto generativo",
-      "asistente ligero"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#CodigoInteligente", "#ModeloAbierto"]
   },
   {
     "id": 2,
     "nombre_web": "DeepSeek",
     "empresa": "DeepSeek",
     "url": "https://chat.deepseek.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Mejor que el modelo 0 de ChatGPT.",
+    "descripcion": "Chat inteligente con capacidades avanzadas de razonamiento y programación. Interactúa con un modelo que supera en rendimiento a GPT-3.5. Ideal para resolver problemas complejos, generar código, análisis técnico y conversaciones profundas. Accede de forma gratuita a un asistente virtual con excelente comprensión del contexto y habilidades matemáticas avanzadas.",
     "categoria": "IA",
-    "tags": [
-      "razonamiento profundo",
-      "codigo avanzado",
-      "busqueda integrada",
-      "modelo eficiente",
-      "respuestas rapidas"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#RazonamientoProfundo", "#CodigoAvanzado"]
   },
   {
     "id": 3,
     "nombre_web": "Claude",
     "empresa": "Anthropic",
     "url": "https://claude.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "descripcion": "Asistente AI de Anthropic con enfoque en seguridad y documentos extensos. Procesa hasta 200K tokens, ideal para análisis de documentos, redacción, programación y tareas creativas. Interactúa con naturalidad, genera contenido de calidad y ejecuta instrucciones complejas. Perfecto para profesionales que necesitan contexto largo y respuestas fiables.",
     "categoria": "IA",
-    "tags": [
-      "contexto largo",
-      "escritura asistida",
-      "analisis documentos",
-      "seguridad contenido",
-      "generacion texto"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ContextoExtendido", "#EscrituraAsistida"]
   },
   {
     "id": 4,
     "nombre_web": "Gemini",
     "empresa": "Google",
     "url": "https://gemini.google.com/app",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. De Google. https://aistudio.google.com/",
+    "descripcion": "Experiencia conversacional multimodal de Google. Chatea con IA que comprende texto, código, imágenes y audio. Accede a modelos avanzados, integración con Google Workspace y búsqueda en tiempo real. Escribe, analiza, crea y resuelve problemas con un asistente conectado al conocimiento actualizado de internet. Ideal para tareas diarias y profesionales.",
     "categoria": "IA",
-    "tags": [
-      "multimodal avanzado",
-      "herramientas codigo",
-      "imagenes texto",
-      "chat ia",
-      "asistente virtual"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#MultimodalidadAI", "#HerramientasCodigo"]
   },
   {
     "id": 5,
     "nombre_web": "Copilot",
     "empresa": "Microsoft",
     "url": "https://copilot.microsoft.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Microsoft",
+    "descripcion": "Asistente AI integrado en el ecosistema Microsoft. Genera texto, código, responde preguntas y crea imágenes dentro de Edge, Windows y Office. Mejora tu productividad con acceso a información actualizada, análisis de documentos y automatización de tareas. Ideal para usuarios de Microsoft 365 que buscan una IA nativa en su flujo de trabajo.",
     "categoria": "IA",
-    "tags": [
-      "productividad office",
-      "agente navegador",
-      "resumen correos",
-      "asistente empresas",
-      "planificacion tareas"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ProductividadOffice", "#AgenteNavegador"]
   },
   {
     "id": 6,
     "nombre_web": "Grok",
     "empresa": "xAI",
     "url": "https://grok.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. IA con capacidades de búsqueda en tiempo real.",
+    "descripcion": "Asistente AI de xAI con acceso en tiempo real a X (Twitter). Obtén información actualizada sobre tendencias, noticias y eventos. Interactúa con un enfoque irreverente y directo, ideal para análisis de opinión pública, investigación rápida y respuestas sin filtros sobre temas actuales. Requiere suscripción premium para acceso completo.",
     "categoria": "IA",
-    "tags": [
-      "informacion tiempo",
-      "analisis tendencias",
-      "busqueda x",
-      "respuestas actualizadas",
-      "humor sarcastico"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#InformacionTiempoReal", "#BusquedaActualizada"]
   },
   {
     "id": 7,
     "nombre_web": "ChatGPT",
     "empresa": "OpenAI",
     "url": "https://chatgpt.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "descripcion": "Asistente conversacional líder de OpenAI basado en GPT-4o. Chatea, genera texto, código, responde preguntas, crea imágenes y analiza documentos. Accede a una memoria conversacional, modo de búsqueda en tiempo real y personalización. Ideal para estudiantes, profesionales y creativos que necesitan un compañero inteligente para cualquier tarea.",
     "categoria": "IA",
-    "tags": [
-      "chat conversacional",
-      "instrucciones personal",
-      "agente herramientas",
-      "memoria conversacion",
-      "razonamiento avanzado"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ConversacionNatural", "#MemoriaContextual"]
   },
   {
     "id": 8,
     "nombre_web": "LMArena",
     "empresa": "LMArena",
     "url": "https://lmarena.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Permite ejecutar cualquier LLM de forma gratuita.",
+    "descripcion": "Plataforma gratuita para comparar modelos de IA líderes. Prueba anonimamente LLMs como GPT-4, Claude, Gemini y otros. Vota por el mejor y descubre qué modelo se adapta a tus necesidades. Ideal para investigadores, desarrolladores y curiosos que quieren evaluar rendimiento en tiempo real sin costos ni registros.",
     "categoria": "IA",
-    "tags": [
-      "ejecutar modelos",
-      "comparar llms",
-      "pruebas gratuitas",
-      "laboratorio llm",
-      "benchmarks publicos"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ComparativaModelos", "#PruebasLibres"]
   },
   {
     "id": 9,
     "nombre_web": "Phind",
     "empresa": "Phind",
     "url": "https://www.phind.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos.",
+    "descripcion": "Buscador inteligente para desarrolladores. Obtén respuestas técnicas precisas con citas de documentación oficial, código de ejemplo y explicaciones detalladas. Optimizado para Stack Overflow, GitHub y documentación técnica. Ideal para programar, depurar y aprender nuevas tecnologías con un enfoque en código y desarrollo de software.",
     "categoria": "IA",
-    "tags": [
-      "busqueda programadores",
-      "respuestas codigo",
-      "errores solucion",
-      "documentacion rapida",
-      "explicaciones tecnicas"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#BusquedaProgramadores", "#DocumentacionTecnica"]
   },
   {
     "id": 10,
     "nombre_web": "Perplexity",
     "empresa": "Perplexity AI, Inc.",
     "url": "https://www.perplexity.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Buscador con IA",
+    "descripcion": "Motor de búsqueda conversacional con citas de fuentes. Pregunta cualquier tema y recibe respuestas con referencias verificables, resúmenes claros y búsqueda profunda. Alterna entre modos de respuesta rápida o detallada. Ideal para investigación académica, verificación de hechos y exploración de temas complejos con transparencia.",
     "categoria": "IA",
-    "tags": [
-      "motor respuestas",
-      "buscador avanzado",
-      "citas fuentes",
-      "exploracion web",
-      "resumen articulos"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#MotorBusqueda", "#CitasFuentes"]
   },
   {
     "id": 11,
     "nombre_web": "fal",
     "empresa": "fal",
     "url": "https://fal.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Generative media platform for developers",
+    "descripcion": "Plataforma de generación de medios IA para desarrolladores. Accede a APIs de generación de imágenes, video y audio con modelos como Flux, Stable Diffusion y Whisper. Crea aplicaciones de media generativo con latencia ultra baja y escalado automático. Ideal para startups y desarrolladores que necesitan infraestructura IA de medios robusta.",
     "categoria": "IA",
-    "tags": [
-      "generacion imagen",
-      "video rapido",
-      "apis graficas",
-      "pipeline media",
-      "servicios inferencia"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#GeneracionImagen", "#ServiciosAPI"]
   },
   {
     "id": 12,
     "nombre_web": "Qwen",
     "empresa": "Alibaba Cloud",
     "url": "https://qwen.ai/home",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Similar a ChatGPT con modelos open source de Alibaba.",
+    "descripcion": "Modelo de lenguaje open source de Alibaba. Explora modelos multilingües especializados en traducción, análisis técnico y comprensión cultural china. Accede a la demo interactiva, API y documentación. Ideal para desarrolladores y empresas que necesitan IA con expertise en idiomas asiáticos y tecnología Alibaba Cloud.",
     "categoria": "IA",
-    "tags": [
-      "modelos abiertos",
-      "agente conversacional",
-      "traduccion tecnica",
-      "razonamiento codigo",
-      "contexto ampliado"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ModeloAbierto", "#TraduccionTecnica"]
   },
   {
     "id": 13,
     "nombre_web": "Hailuo",
     "empresa": "Hailuo AI",
     "url": "https://www.hailuo.ai/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat tipo ChatGPT con buenos resultados.",
+    "descripcion": "Asistente AI multimodal con integración de voz e imagen. Chatea, genera contenido, crea imágenes y utiliza funciones de síntesis de voz. Interfaz intuitiva con buen rendimiento en chino y español. Ideal para usuarios que buscan una alternativa accesible a los grandes modelos occidentales con capacidades multimedia.",
     "categoria": "IA",
-    "tags": [
-      "chat gratuito",
-      "voz sintetica",
-      "imagen integrada",
-      "respuesta rapida",
-      "traduccion precisa"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#VozSintetica", "#ImagenIntegrada"]
   },
   {
     "id": 14,
     "nombre_web": "Allen AI Playground",
     "empresa": "Allen Institute for AI",
     "url": "https://playground.allenai.org/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelos open source (p.ej., Tulu) para probar.",
+    "descripcion": "Experimenta con modelos de IA open source de investigación. Prueba modelos como Tulu, OLMo y otros avanzados en NLP. Accede a demos interactivas, benchmarks y código. Ideal para investigadores, académicos y desarrolladores que quieren explorar el estado del arte en lenguaje natural con transparencia científica.",
     "categoria": "IA",
-    "tags": [
-      "modelos abiertos",
-      "pruebas online",
-      "nlp investigacion",
-      "tareas lenguaje",
-      "comparativas modelos"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#NLPInvestigacion", "#ModelosOpenSource"]
   },
   {
     "id": 15,
     "nombre_web": "Groq",
     "empresa": "Groq, Inc.",
     "url": "https://chat.groq.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Ejecuta modelos en la nube (DeepSeek, etc.).",
+    "descripcion": "Ejecuta modelos de IA con latencia extremadamente baja. Accede a LLMs como Llama, Mixtral y Gemma con velocidad sin precedentes. Usa la demo gratuita o integra la API en tus aplicaciones. Ideal para desarrolladores que necesitan inferencia en tiempo real para chatbots, agentes y sistemas de respuesta instantánea.",
     "categoria": "IA",
-    "tags": [
-      "inferencias rapidas",
-      "latencia minima",
-      "modelos multiples",
-      "token barato",
-      "api velocidad"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#InferenciaUltraRapida", "#LatenciaMinima"]
   },
   {
     "id": 16,
     "nombre_web": "Kimi",
     "empresa": "Moonshot AI",
     "url": "https://www.kimi.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Modelo chino con gran contexto.",
+    "descripcion": "Asistente AI chino con contexto extenso y búsqueda web. Procesa documentos muy largos, analiza archivos y busca información actualizada en internet. Interfaz en chino e inglés con enfoque en productividad. Ideal para usuarios asiáticos y globales que manejan documentos extensos y necesitan análisis profundo.",
     "categoria": "IA",
-    "tags": [
-      "contexto extenso",
-      "busqueda web",
-      "resumen pdf",
-      "traduccion rapida",
-      "razonamiento largo"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#ContextoExtenso", "#BusquedaWeb"]
   },
   {
     "id": 17,
     "nombre_web": "Cohere Coral",
     "empresa": "Cohere",
     "url": "https://coral.cohere.com/",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Portal/espacio de modelos Cohere.",
+    "descripcion": "Plataforma empresarial de IA para búsqueda semántica. Accede a embeddings, clasificación de texto y generación optimizada para negocios. Crea chatbots especializados, sistemas de búsqueda interna y automatización de procesos. Ideal para empresas que necesitan IA privada, despliegue on-premise y seguridad empresarial.",
     "categoria": "IA",
-    "tags": [
-      "nlp empresarial",
-      "resumen textos",
-      "clasificacion temas",
-      "busqueda semantica",
-      "embeddings calidad"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#NLPEmpresarial", "#BusquedaSemantica"]
   },
   {
     "id": 18,
     "nombre_web": "DuckDuckGo AI Chat",
     "empresa": "DuckDuckGo",
     "url": "https://duckduckgo.com/?ia=chat&duckai=1",
-    "descripcion": "Recurso en la categoría IA. Subcategoría: Genéricos. Chat de IA privado con modelos de terceros.",
+    "descripcion": "Chat privado sin rastreo de datos. Accede a modelos como GPT-3.5, Claude y Llama sin compartir tu información personal. Conversaciones anónimas con máxima privacidad. Ideal para usuarios preocupados por la seguridad que quieren explorar IA sin sacrificar su anonimato ni dejar rastros de búsqueda.",
     "categoria": "IA",
-    "tags": [
-      "chat privado",
-      "proteccion datos",
-      "modelos terceros",
-      "anonimato busqueda",
-      "respuestas seguras"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#PrivacidadDatos", "#AnonimatoBusqueda"]
   },
   {
     "id": 19,
     "nombre_web": "MiniMax Agent",
     "empresa": "MiniMax",
     "url": "https://agent.minimax.io/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente general para crear apps, análisis, etc.",
+    "descripcion": "Agente autónomo para desarrollo de aplicaciones. Crea apps web, analiza datos y automatiza flujos de trabajo complejos con coordenación multi-agente. Genera código, ejecuta pruebas y despliega proyectos. Ideal para desarrolladores que quieren acelerar el ciclo completo de desarrollo con IA autónoma y generación de aplicaciones funcionales.",
     "categoria": "Programación",
-    "tags": [
-      "agentes generalistas",
-      "creacion apps",
-      "analisis datos",
-      "acciones web",
-      "automatizacion tareas"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#AgenteGeneralista", "#CreacionAplicaciones"]
   },
   {
     "id": 20,
     "nombre_web": "Manus",
     "empresa": "Manus",
     "url": "https://manus.im/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente autónomo para ejecutar tareas complejas.",
+    "descripcion": "Agente autónomo avanzado para ejecución de tareas complejas. Coordina múltiples herramientas, navega web, ejecuta código y gestiona proyectos sin supervisión. Ideal para automatización de workflows empresariales, investigación intensiva y tareas que requieren planificación multi-paso con ejecución independiente.",
     "categoria": "Programación",
-    "tags": [
-      "agente autonomo",
-      "workflow complejo",
-      "ejecucion pasos",
-      "objetivos largos",
-      "planificacion automatica"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#AgenteAutonomo", "#WorkflowComplejo"]
   },
   {
     "id": 21,
     "nombre_web": "RoboNeo",
     "empresa": "Meitu",
     "url": "https://www.roboneo.com/home",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Agente creativo para generar/editar imágenes y vídeos mediante conversación.",
+    "descripcion": "Genera y edita imágenes/videos por conversación. Accede a herramientas creativas con IA para crear contenido visual profesional sin conocimientos técnicos. Ideal para creadores de contenido, marketers y diseñadores que buscan agilizar su producción de multimedia mediante prompts intuitivos.",
     "categoria": "Programación",
-    "tags": [
-      "edicion imagen",
-      "video creativo",
-      "herramientas diseño",
-      "dialogo visual",
-      "generacion media"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#EdicionImagen", "#VideoCreativo"]
   },
   {
     "id": 22,
     "nombre_web": "GitHub Copilot",
     "empresa": "GitHub",
     "url": "https://github.com/copilot",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Asistente de código integrado en el ecosistema GitHub/VS Code.",
+    "descripcion": "Asistente de código AI integrado en VS Code y GitHub. Autocompleta, genera funciones, explica código y documenta proyectos. Acelera tu desarrollo con sugerencias contextualizadas de millones de repositorios. Ideal para programadores que quieren productividad máxima dentro de su entorno de trabajo habitual.",
     "categoria": "Programación",
-    "tags": [
-      "asistente codigo",
-      "sugerencias editor",
-      "pareja programacion",
-      "documentacion contexto",
-      "refactorizacion segura"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ParejaProgramacion", "#DocumentacionContextual"]
   },
   {
     "id": 23,
     "nombre_web": "Stitch",
     "empresa": "Google",
     "url": "https://stitch.withgoogle.com",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera interfaces (UI) para web/móvil a partir de prompts.",
+    "descripcion": "Genera interfaces web y móviles desde prompts. Crea prototipos visuales funcionales con código listo para usar. Convierte descripciones textuales en componentes UI modernos. Ideal para diseñadores y desarrolladores frontend que necesitan acelerar la creación de prototipos y pasar rápido de la idea a la implementación visual.",
     "categoria": "Programación",
-    "tags": [
-      "ui generativa",
-      "prototipos rapidos",
-      "componentes web",
-      "interfaces moviles",
-      "diseno asistido"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#UIGenerativa", "#PrototiposRapidos"]
   },
   {
     "id": 24,
     "nombre_web": "v0",
     "empresa": "Vercel",
     "url": "https://v0.app/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Builder agent para pasar de idea a app desplegada con un prompt.",
+    "descripcion": "Builder agent que transforma prompts en aplicaciones web desplegadas. Genera código React, estilos Tailwind y despliega instantáneamente en Vercel. Crea desde landing pages hasta apps interactivas. Ideal para desarrolladores y emprendedores que quieren lanzar ideas al instante sin configuración manual.",
     "categoria": "Programación",
-    "tags": [
-      "constructor interfaces",
-      "agente builder",
-      "deploy automatico",
-      "stack completo",
-      "prototipo express"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ConstructorInterfaces", "#DeployAutomatico"]
   },
   {
     "id": 25,
     "nombre_web": "Bolt",
     "empresa": "StackBlitz",
     "url": "https://bolt.new/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Construye proyectos completos y los publica desde el propio editor.",
+    "descripcion": "Construye proyectos completos y publícalos desde el navegador. Editor web potente con autocompletado inteligente y despliegue instantáneo. Desarrolla apps modernas sin instalaciones ni configuración. Ideal para prototipos rápidos, tutoriales y desarrollo colaborativo en tiempo real.",
     "categoria": "Programación",
-    "tags": [
-      "proyectos completos",
-      "editor web",
-      "publicacion directa",
-      "starter templates",
-      "servidor inmediato"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ProyectosCompletos", "#EditorWeb"]
   },
   {
     "id": 26,
     "nombre_web": "Replit",
     "empresa": "Replit",
     "url": "https://replit.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor en la nube con agentes para crear apps y páginas web.",
+    "descripcion": "IDE online con agentes IA para crear apps y páginas web. Codifica, depura y despliega sin instalaciones. Colabora en tiempo real con tu equipo. Soporta múltiples lenguajes con infraestructura lista para usar. Ideal para educación, prototipos y desarrollo ágil en equipo sin configuración de entorno.",
     "categoria": "Programación",
-    "tags": [
-      "ide online",
-      "agente codigo",
-      "deploy instantaneo",
-      "hosting gratuito",
-      "colaboracion tiempo"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#IDEOnline", "#ColaboracionTiempoReal"]
   },
   {
     "id": 27,
     "nombre_web": "Google AI Studio",
     "empresa": "Google",
     "url": "https://aistudio.google.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Consola de Gemini para claves API, pruebas y desarrollo.",
+    "descripcion": "Consola oficial de Google para Gemini API. Genera claves API, prueba modelos, ajusta parámetros y experimenta con prompts. Accede a documentación, ejemplos de código y métricas de uso. Ideal para desarrolladores que integran Gemini en aplicaciones y necesitan un entorno de desarrollo controlado.",
     "categoria": "Programación",
-    "tags": [
-      "claves api",
-      "pruebas gemini",
-      "consola desarrollo",
-      "evaluacion modelos",
-      "experimentos ia"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ConsolaAPI", "#PruebasGemini"]
   },
   {
     "id": 28,
     "nombre_web": "Websim",
     "empresa": "Websim",
     "url": "https://websim.ai/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Genera webs, juegos y prototipos con modelos seleccionables.",
+    "descripcion": "Genera webs, juegos y prototipos con modelos de IA seleccionables. Crea experiencias interactivas desde simples prompts. Elige entre diferentes LLMs para variar creatividad y estilo. Ideal para diseñadores experimentales, desarrolladores de juegos y creadores que exploran nuevas formas de generación de contenido web dinámico.",
     "categoria": "Programación",
-    "tags": [
-      "sitios generativos",
-      "juegos rapidos",
-      "prototipos web",
-      "experimentos creativos",
-      "plantillas ideas"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#SitiosGenerativos", "#PrototiposWeb"]
   },
   {
     "id": 29,
     "nombre_web": "LlamaCoder",
     "empresa": "Together AI",
     "url": "https://llamacoder.together.ai/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Portal con varios modelos (Qwen, DeepSeek, etc.) enfocados en código.",
+    "descripcion": "Portal con modelos especializados en código como Qwen y DeepSeek. Prueba múltiples LLMs para generación de código, explicación de errores y autocompletado. Accede a una playground para comparar rendimiento. Ideal para desarrolladores que evalúan diferentes modelos de código sin necesidad de múltiples APIs.",
     "categoria": "Programación",
-    "tags": [
-      "modelos codigo",
-      "asistente desarrollo",
-      "explicacion errores",
-      "generacion funciones",
-      "completado inteligente"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ModelosCodigo", "#ExplicacionErrores"]
   },
   {
     "id": 30,
     "nombre_web": "DeepSite",
     "empresa": "Hugging Face",
     "url": "https://huggingface.co/spaces/enzostvs/deepsite",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Crea páginas HTML funcionales con un prompt.",
+    "descripcion": "Genera páginas HTML completamente funcionales con un solo prompt. Crea desde landing pages hasta forms interactivos con diseño moderno. Accede a la demo en Hugging Face Spaces. Ideal para desarrolladores frontend que necesitan prototipos HTML rápidos o quieren experimentar con generación de código web automatizada.",
     "categoria": "Programación",
-    "tags": [
-      "spaces demos",
-      "modelos huggingface",
-      "datasets abiertos",
-      "comunidad ml",
-      "repositorios modelos"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#HTMLGenerativo", "#SpacesHuggingFace"]
   },
   {
     "id": 31,
     "nombre_web": "Firebase Studio",
     "empresa": "Google",
     "url": "https://studio.firebase.google.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: . Editor/console para crear y probar apps con Firebase.",
+    "descripcion": "Editor y consola integrada para desarrollar apps con Firebase. Crea backends móviles, configura bases de datos, autenticación y hosting. Prueba funciones en tiempo real. Ideal para desarrolladores de apps móviles y web que usan Google Cloud y quieren un entorno de desarrollo unificado para backend sin servidor.",
     "categoria": "Programación",
-    "tags": [
-      "proyectos firebase",
-      "backend movil",
-      "pruebas funciones",
-      "base datos",
-      "hosting firebase"
-    ]
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#BackendMovil", "#HostingFirebase"]
   },
   {
     "id": 32,
     "nombre_web": "Justicio",
     "empresa": "Justicio",
     "url": "https://justicio.es/",
-    "descripcion": "Recurso en la categoría Legal. Subcategoría: . Herramienta legal online.",
+    "descripcion": "Herramienta legal online para consultas jurídicas. Obtén respuestas sobre derecho español, genera documentos y accede a modelos de contratos. Resolve dudas legales básicas sin coste inicial. Ideal para autónomos, pymes y ciudadanos que necesitan asesoramiento legal accesible y rápido para cuestiones cotidianas.",
     "categoria": "Legal",
-    "tags": [
-      "consultas legales",
-      "documentos juridicos",
-      "asesoria online",
-      "modelos contratos",
-      "servicios legales"
-    ]
+    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#ConsultoriaOnline", "#ModelosContratos", "#ServiciosLegales"]
   },
   {
     "id": 33,
     "nombre_web": "Asesor Legal",
     "empresa": "Asesor.legal",
     "url": "https://asesor.legal/",
-    "descripcion": "Recurso en la categoría Legal. Subcategoría: . Respuestas legales básicas; para profundizar requiere pago.",
+    "descripcion": "Asesor legal AI para consultas jurídicas básicas. Responde preguntas de derecho español con respuestas rápidas y documentación. Requiere pago para asesoramiento profundo. Ideal para usuarios que necesitan respuestas legales iniciales sin compromiso, con opción de contratar servicios premium para casos complejos.",
     "categoria": "Legal",
-    "tags": [
-      "respuestas legales",
-      "consultoria juridica",
-      "preguntas basicas",
-      "servicios premium",
-      "orientacion rapida"
-    ]
+    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#ConsultoriaOnline", "#RespuestasRapidas", "#ServicioPremium"]
   },
   {
     "id": 34,
     "nombre_web": "Fliki",
     "empresa": "Fliki",
     "url": "https://fliki.ai/",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo y voz a partir de texto.",
+    "descripcion": "Convierte texto en vídeo con voz AI. Crea contenido multimedia para redes sociales, marketing y educación. Selecciona voces realistas, añade imágenes, música y efectos. Publica en múltiples formatos. Ideal para creadores de contenido, marketers y educadores que producen vídeos de forma ágil sin grabación ni edición manual compleja.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "video texto",
-      "voz natural",
-      "narrador ia",
-      "videos marketing",
-      "guiones rapidos"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#VideoTexto", "#NarradorVoz"]
   },
   {
     "id": 35,
     "nombre_web": "Piclumen",
     "empresa": "Piclumen",
     "url": "https://piclumen.com/app/",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación/edición de imágenes.",
+    "descripcion": "Genera y edita imágenes con IA de forma profesional. Crea ilustraciones, fotorealismo y arte digital desde prompts. Ajusta estilos, parámetros y realiza ediciones avanzadas. Interfaz intuitiva con modelos de alta calidad. Ideal para diseñadores, marketers y creativos que necesitan imágenes únicas sin software complejo ni habilidades artísticas avanzadas.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "edicion imagen",
-      "generacion fotos",
-      "ajustes creativos",
-      "retoque simple",
-      "modelos visuales"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#EdicionImagen", "#AjustesCreativos"]
   },
   {
     "id": 36,
     "nombre_web": "Lexica",
     "empresa": "Lexica",
     "url": "https://lexica.art",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Buscador de prompts/imágenes y generador.",
+    "descripcion": "Buscador de prompts y generador de imágenes AI. Explora millones de imágenes generadas con sus prompts exactos. Copia, modifica y crea tu propio contenido visual. Aprende prompts efectivos para Stable Diffusion. Ideal para entusiastas de IA generativa que buscan inspiración y quieren dominar el arte del prompting visual.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "buscador prompts",
-      "galeria imagenes",
-      "modelos difusion",
-      "referencias estilo",
-      "generador online"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#BuscadorPrompts", "#GaleriaEstilos"]
   },
   {
     "id": 37,
     "nombre_web": "Redpanda AI",
     "empresa": "Redpanda AI",
     "url": "https://redpandaai.com",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Herramientas de imagen/vídeo con IA.",
+    "descripcion": "Herramientas avanzadas de edición de imagen y vídeo con IA. Mejora calidad, elimina fondos, genera contenido y aplica efectos profesionales. Procesamiento rápido con resultados de alta calidad. Ideal para creadores de contenido, marketers y fotógrafos que necesitan editar multimedia eficientemente sin software tradicional complejo.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "herramientas visuales",
-      "video ia",
-      "imagen ia",
-      "edicion rapida",
-      "efectos creativos"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#HerramientasVisuales", "#EdicionRapida"]
   },
   {
     "id": 38,
     "nombre_web": "Blinkshot",
     "empresa": "Blinkshot",
     "url": "https://www.blinkshot.io/",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Capturas y renders mejorados con IA.",
+    "descripcion": "Captura y mejora screenshots con IA. Genera mockups profesionales, edita capturas de pantalla y crea renders atractivos para presentaciones. Perfecto para diseñadores UI, desarrolladores y product managers que necesitan comunicar ideas visuales de forma impactante sin herramientas de diseño avanzadas.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "capturas web",
-      "renders ui",
-      "mockups rapidos",
-      "presentacion producto",
-      "imagenes nitidas"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#CapturasWeb", "#MockupsUI"]
   },
   {
     "id": 39,
     "nombre_web": "Krita AI Diffusion",
     "empresa": "Krita AI Diffusion",
     "url": "https://kritaaidiffusion.com/es",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Difusión/estilo para imágenes.",
+    "descripcion": "Plugin de IA para Krita que añade difusión generativa. Crea y edita arte digital con Stable Diffusion dentro del software de pintura. Genera variaciones, outpainting y mejoras de calidad. Ideal para artistas digitales que usan Krita y quieren integrar IA generativa en su flujo de trabajo creativo sin cambiar de herramienta.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "difusion imagen",
-      "estilos arte",
-      "plugins krita",
-      "control parametros",
-      "mejoras calidad"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#DifusionImagen", "#PluginsArte"]
   },
   {
     "id": 40,
     "nombre_web": "Pikaso AI (Freepik)",
     "empresa": "Freepik",
     "url": "https://www.freepik.com/pikaso/ai-image-generator",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes integrado en Freepik.",
+    "descripcion": "Generador de imágenes AI integrado en Freepik. Crea ilustraciones, fotos y vectores desde texto. Accede a millones de recursos para combinar y editar. Interfaz simple con resultados comerciales. Ideal para diseñadores y marketers que ya usan Freepik y quieren generar imágenes personalizadas sin salir de la plataforma.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "generador imagen",
-      "banco recursos",
-      "descargas graficas",
-      "estilos variados",
-      "prompt visual"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#GeneradorImagen", "#BancoRecursos"]
   },
   {
     "id": 41,
     "nombre_web": "Image FX",
     "empresa": "Google",
     "url": "https://labs.google/fx/es/tools/image-fx",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generador de imágenes de Google (acceso limitado por región).",
+    "descripcion": "Genera imágenes con IA desde textos descriptivos en la plataforma experimental de Google. Experimenta con prompts creativos, ajusta parámetros y obtiene resultados visuales únicos en segundos. Accede a modelos avanzados de generación visual con controles intuitivos. Ideal para diseñadores, creativos y entusiastas que exploran el potencial de la IA artística sin necesidad de habilidades técnicas. Interfaz gratuita y directa para transformar ideas en imágenes de calidad, con acceso limitado según región.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "image generator",
-      "herramientas fx",
-      "experimentos creativos",
-      "laboratorio",
-      "generador online"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#GoogleImagenes", "#ExperimentosCreativos"]
   },
   {
     "id": 42,
     "nombre_web": "Hailuo AI Video",
     "empresa": "Hailuo AI",
     "url": "https://hailuoai.video",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de vídeo con IA.",
+    "descripcion": "Crea videos profesionales con IA a partir de simples descripciones textuales. Genera animaciones, clips publicitarios y contenido audiovisual sin cámaras ni edición compleja. Ajusta estilos, duración y calidad. Accede a modelos especializados en video generativo. Ideal para marketers, creadores de contenido y educadores que necesitan producir videos rápidamente para redes sociales, presentaciones o proyectos creativos, reduciendo costos y tiempo de producción significativamente.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "video generativo",
-      "animaciones ia",
-      "clips cortos",
-      "render rapido",
-      "edicion online"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#VideoGenerativo", "#AnimacionesIA"]
   },
   {
     "id": 43,
     "nombre_web": "Leonardo",
     "empresa": "Leonardo AI",
     "url": "https://app.leonardo.ai/",
-    "descripcion": "Recurso en la categoría Imágenes & Videos. Subcategoría: . Generación de imágenes con controles avanzados.",
+    "descripcion": "Genera imágenes de alta calidad con IA y controles avanzados. Ajusta dimensiones, estilos, seed y parámetros técnicos para resultados precisos. Crea desde arte conceptual hasta fotografía AI. Accede a modelos entrenados, inpainting y outpainting. Ideal para profesionales del diseño, ilustradores y estudios creativos que requieren personalización profunda y consistencia visual en proyectos comerciales, con capacidad de entrenar modelos propios.",
     "categoria": "Imágenes & Videos",
-    "tags": [
-      "control avanzado",
-      "modelos estilo",
-      "texturas realistas",
-      "imagen detallada",
-      "composicion creativa"
-    ]
+    "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#ControlModelo", "#TexturasRealistas"]
   },
   {
     "id": 44,
     "nombre_web": "ForoPrompt",
     "empresa": "ForoPrompt",
     "url": "https://foroprompt.com/",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Comunidad de prompts.",
+    "descripcion": "Conecta con una comunidad activa de ingenieros de prompts. Comparte, discute y mejora tus prompts para IA generativa. Accede a tutoriales, debates técnicos y casos de estudio. Aprende técnicas avanzadas de prompting de expertos. Ideal para profesionales y entusiastas que quieren dominar el arte de comunicarse con IA, resolver problemas específicos y colaborar en proyectos de generación de contenido, con feedback constructivo y recursos compartidos.",
     "categoria": "Prompts",
-    "tags": [
-      "comunidad prompts",
-      "recetas creativas",
-      "debates tecnicos",
-      "coleccion ejemplos",
-      "plantillas prompt"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#ForoPrompts", "#DebatesTecnicos"]
   },
   {
     "id": 45,
     "nombre_web": "PromptHero",
     "empresa": "PromptHero",
     "url": "https://prompthero.com/",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Catálogo de prompts e inspiración.",
+    "descripcion": "Explora un catálogo masivo de prompts probados con imágenes generadas. Busca por estilo, modelo o categoría. Copia prompts efectivos para Stable Diffusion, Midjourney y más. Encuentra inspiración visual para tus proyectos. Guarda colecciones y sigue creadores. Ideal para diseñadores, artistas AI y generadores de contenido que buscan referencias visuales y prompts funcionales, con resultados documentados y comunidad creativa.",
     "categoria": "Prompts",
-    "tags": [
-      "galeria prompts",
-      "inspiracion visual",
-      "busqueda estilos",
-      "artistas referencia",
-      "parametros utiles"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GaleriaPrompts", "#InspiracionVisual"]
   },
   {
     "id": 46,
     "nombre_web": "PromptDen",
     "empresa": "PromptDen",
     "url": "https://promptden.com/",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Repositorio de prompts.",
+    "descripcion": "Accede a un repositorio curado de prompts para múltiples modelos de IA. Navega por categorías, calificaciones y popularidad. Descarga prompts optimizados para diferentes casos de uso. Contribuye con tus propias creaciones. Ideal para desarrolladores y creativos que necesitan prompts de calidad probados, con sistema de votación y ejemplos claros para implementación rápida en proyectos personales o comerciales.",
     "categoria": "Prompts",
-    "tags": [
-      "repositorio prompts",
-      "ejemplos curados",
-      "plantillas texto",
-      "tecnicas prompt",
-      "colecciones libres"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#RepositorioPrompts", "#EjemplosCurados"]
   },
   {
     "id": 47,
     "nombre_web": "Workmind Prompt Library",
     "empresa": "Workmind",
     "url": "https://workmind.ai/ai-prompt-library/",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Librería de prompts organizada por casos de uso.",
+    "descripcion": "Navega por una librería de prompts organizados por casos de uso empresarial. Encuentra prompts para marketing, ventas, análisis de datos y productividad. Cada prompt viene con instrucciones de implementación. Filtra por industria y objetivo. Ideal para profesionales que buscan soluciones IA listas para usar en entornos corporativos, con enfoque en ROI y eficiencia operativa, sin necesidad de experimentación previa.",
     "categoria": "Prompts",
-    "tags": [
-      "libreria prompts",
-      "casos negocio",
-      "plantillas tareas",
-      "productividad equipos",
-      "mejores practicas"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#LibreriaNegocio", "#MejoresPracticas"]
   },
   {
     "id": 48,
     "nombre_web": "Prompt Library",
     "empresa": "Prompt Library",
     "url": "https://promptlibrary.org/",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Biblioteca de prompts.",
+    "descripcion": "Consulta una biblioteca extensa de prompts para escritura, código y creatividad. Busca prompts específicos por tarea, con ejemplos de entrada/salida. Accede a guías de mejores prácticas. Colabora con la comunidad. Ideal para escritores, desarrolladores y productivos que quieren aprovechar IA para tareas específicas sin reinventar prompts, con documentación clara y casos de uso reales.",
     "categoria": "Prompts",
-    "tags": [
-      "biblioteca prompts",
-      "categorias variadas",
-      "recursos escritura",
-      "ejemplos efectivos",
-      "mejoras estilo"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#BibliotecaPrompts", "#RecursosEscritura"]
   },
   {
     "id": 49,
     "nombre_web": "Aimind Prompt Generator",
     "empresa": "Aimind",
     "url": "https://www.aimind.so/prompt-generator?email=",
-    "descripcion": "Recurso en la categoría Prompts. Subcategoría: . Generador de prompts.",
+    "descripcion": "Genera prompts optimizados automáticamente para tus necesidades específicas. Describe tu objetivo y obtén prompts refinados para ChatGPT, Midjourney u otros modelos. Mejora prompts existentes con sugerencias automáticas. Ideal para usuarios que luchan con el prompting efectivo y quieren resultados profesionales sin conocimientos técnicos, con generación inteligente basada en objetivos claros.",
     "categoria": "Prompts",
-    "tags": [
-      "generador prompts",
-      "sugerencias creativas",
-      "variaciones texto",
-      "edicion facil",
-      "ideas rapidas"
-    ]
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GeneradorPrompts", "#SugerenciasCreativas"]
   },
   {
     "id": 50,
     "nombre_web": "ElevenLabs (Try)",
     "empresa": "ElevenLabs",
     "url": "https://try.elevenlabs.io/shmdm7umt6gg",
-    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de voces TTS.",
+    "descripcion": "Crea voz sintética realista con Text-to-Speech de última generación. Genera narraciones, diálogos y audio para videos. Clona voces con muestras cortas. Ajusta emociones, acentos y estilo. Accede a voces pre-entrenadas en múltiples idiomas. Ideal para creadores de contenido, podcasters y desarrolladores que necesitan voz AI de calidad humana para proyectos multimedia, con API para escalado.",
     "categoria": "Voz & Música",
-    "tags": [
-      "texto voz",
-      "clonacion voz",
-      "locuciones realistas",
-      "idiomas multiples",
-      "voz natural"
-    ]
+    "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#TextoVoz", "#ClonacionVocal"]
   },
   {
     "id": 51,
     "nombre_web": "Suno",
     "empresa": "Suno",
     "url": "https://suno.com/",
-    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generación de música con IA a partir de texto.",
+    "descripcion": "Compon música original con IA a partir de texto. Describe género, estilo, instrumentación y obtén canciones completas. Genera melodías, armonías y letras personalizadas. Exporta en formatos profesionales. Ideal para músicos, productores y creadores de contenido que necesitan música de fondo sin royalties, ideas creativas o tracks completos sin conocimientos musicales avanzados, con licencia comercial.",
     "categoria": "Voz & Música",
-    "tags": [
-      "musica ia",
-      "canciones rapidas",
-      "letras generadas",
-      "estilos variados",
-      "audio creativo"
-    ]
+    "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#MusicaTexto", "#CancionesIA"]
   },
   {
     "id": 52,
     "nombre_web": "Music FX",
     "empresa": "Google",
     "url": "https://labs.google/fx/es/tools/music-fx",
-    "descripcion": "Recurso en la categoría Voz & Música. Subcategoría: . Generador de música de Google (FX).",
+    "descripcion": "Experimenta con la generación musical AI de Google. Crea pistas y loops desde descripciones textuales. Explora combinaciones sonoras únicas. Accede a herramientas de DJ AI para mezclas. Interfaz intuitiva con resultados inmediatos. Ideal para músicos, productores y entusiastas que exploran creación sonora con IA, sin necesidad de equipo caro ni habilidades de producción avanzadas.",
     "categoria": "Voz & Música",
-    "tags": [
-      "music generator",
-      "herramientas fx",
-      "creacion pistas",
-      "sonido sintetico",
-      "composicion rapida"
-    ]
+    "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#MusicaExperimental", "#PistasSinteticas"]
   },
   {
     "id": 53,
     "nombre_web": "Gemini 2.5 Computer Use",
     "empresa": "Browserbase",
     "url": "https://gemini.browserbase.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . El agente navega por la web y ejecuta pasos para responder.",
+    "descripcion": "Automatiza tareas web con agente AI autónomo. El sistema navega sitios, ejecuta pasos encadenados y responde a objetivos complejos. Programa flujos de trabajo multi-sitio. Monitorea ejecución en tiempo real. Ideal para automatizar procesos empresariales, investigación competitiva y tareas repetitivas sin codificación manual, con visibilidad completa de acciones realizadas.",
     "categoria": "Otros",
-    "tags": [
-      "navegacion automatica",
-      "agente web",
-      "pasos encadenados",
-      "interaccion sitios",
-      "tareas complejas"
-    ]
+    "tags": ["#AgenteNavegador", "#AutomatizacionWeb", "#TareasComplejas", "#InteraccionSitios", "#PasosEncadenados"]
   },
   {
     "id": 54,
     "nombre_web": "Futurepedia",
     "empresa": "Futurepedia",
     "url": "https://www.futurepedia.io/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listado/mercado de herramientas de IA por temática.",
+    "descripcion": "Descubre herramientas de IA organizadas por categoría y casos de uso. Navega entre miles de soluciones con reseñas, precios y características. Filtra por tarea, presupuesto y modelo. Mantente actualizado con novedades. Ideal para profesionales que buscan la herramienta AI perfecta para su necesidad específica, con comparativas y tendencias del mercado IA en constante evolución.",
     "categoria": "Otros",
-    "tags": [
-      "directorio ia",
-      "catalogo herramientas",
-      "busqueda ias",
-      "tendencias ia",
-      "novedades ia"
-    ]
+    "tags": ["#DirectorioIA", "#CatalogoHerramientas", "#BuscadorIA", "#TendenciasIA", "#NovedadesIA"]
   },
   {
     "id": 55,
     "nombre_web": "IA Perfecta",
     "empresa": "IA Perfecta",
     "url": "https://iaperfecta.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Buscador de IAs.",
+    "descripcion": "Busca herramientas de IA con filtros avanzados. Encuentra soluciones por categoría, precio, modelo y características. Lee descripciones concisas y accede directo al sitio. Compara alternativas rápidamente. Ideal para usuarios que exploran el ecosistema IA sin perder tiempo, con búsqueda inteligente y recomendaciones personalizadas basadas en necesidades específicas.",
     "categoria": "Otros",
-    "tags": [
-      "buscador ia",
-      "herramientas ia",
-      "catalogo ias",
-      "filtros tematicos",
-      "comparador ia"
-    ]
+    "tags": ["#DirectorioIA", "#CatalogoHerramientas", "#BuscadorIA", "#FiltrosTematicos", "#ComparadorIA"]
   },
   {
     "id": 56,
     "nombre_web": "Giz",
     "empresa": "Giz AI",
     "url": "https://www.giz.ai/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta el modelo que selecciones.",
+    "descripcion": "Ejecuta múltiples modelos de lenguaje desde una sola interfaz. Cambia entre LLMs como GPT, Claude o Gemini sin cambiar de plataforma. Compara respuestas en tiempo real. Ajusta parámetros avanzados. Ideal para desarrolladores y curiosos que quieren probar diferentes modelos rápidamente, con un solo login y experiencia unificada para benchmarking y tareas específicas.",
     "categoria": "Otros",
-    "tags": [
-      "ejecutar modelos",
-      "chat multillm",
-      "seleccion modelos",
-      "experimentos ia",
-      "pruebas rapidas"
-    ]
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual", "#EjecutadorModelos", "#ChatMultiLLM"]
   },
   {
     "id": 57,
     "nombre_web": "AI Detector",
     "empresa": "AI Detector",
     "url": "https://aidetector.pro/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Detecta posibles fragmentos generados por IA en un texto.",
+    "descripcion": "Detecta contenido generado por IA en textos. Analiza documentos, artículos y tareas académicas para identificar fragmentos artificiales. Obtén reportes con probabilidad de autenticidad. Ideal para educadores, editores y profesionales que necesitan verificar originalidad de contenido, con detección de múltiples modelos y resultados detallados por secciones sospechosas.",
     "categoria": "Otros",
-    "tags": [
-      "detector ia",
-      "contenido artificial",
-      "verificacion texto",
-      "originalidad contenido",
-      "autoria probable"
-    ]
+    "tags": ["#DetectorContenido", "#VerificacionIA", "#OriginalidadTexto", "#AutoriaProbable", "#ContenidoArtificial"]
   },
   {
     "id": 58,
     "nombre_web": "Gamma",
     "empresa": "Gamma",
     "url": "https://gamma.app/es",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Creador de presentaciones con IA.",
+    "descripcion": "Crea presentaciones profesionales con IA en minutos. Genera diapositivas a partir de un tema o documento. Elige plantillas modernas, añade contenido multimedia y exporta en múltiples formatos. Edita conversacionalmente. Ideal para profesionales, estudiantes y equipos que necesitan comunicar ideas visualmente sin dedicar horas al diseño, con resultados listos para ejecutivos.",
     "categoria": "Otros",
-    "tags": [
-      "presentaciones ia",
-      "documentos visuales",
-      "diapositivas rapidas",
-      "plantillas modernas",
-      "exportacion web"
-    ]
+    "tags": ["#PresentacionesIA", "#DocumentosVisuales", "#DiapositivasRapidas", "#PlantillasModernas", "#ExportacionWeb"]
   },
   {
     "id": 59,
     "nombre_web": "Pinokio",
     "empresa": "Pinokio",
     "url": "https://pinokio.computer/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Ejecuta modelos localmente con automatizaciones.",
+    "descripcion": "Ejecuta modelos de IA localmente en tu computadora. Instala y gestiona entornos AI automáticamente. Corre Stable Diffusion, LLMs y otras herramientas sin conocimientos técnicos profundos. Mantiene privacidad total. Ideal para entusiastas y profesionales que necesitan IA sin dependencia de nube, con automatización de instalación y gestión simplificada.",
     "categoria": "Otros",
-    "tags": [
-      "modelos locales",
-      "automatizaciones ia",
-      "descargas guiadas",
-      "entornos listos",
-      "scripts instalacion"
-    ]
+    "tags": ["#ModelosLocales", "#EjecucionOffline", "#PrivacidadTotal", "#AutomatizacionesIA", "#EntornosListos"]
   },
   {
     "id": 60,
     "nombre_web": "NotebookLM",
     "empresa": "Google",
     "url": "https://notebooklm.google/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Crea apuntes, resúmenes y podcasts sobre tus documentos.",
+    "descripcion": "Transforma documentos en conocimiento accionable. Sube PDFs, textos o enlaces para obtener resúmenes, apuntes y podcasts AI. Haz preguntas específicas sobre tu contenido. Genera estudios de caso y análisis. Ideal para estudiantes, investigadores y profesionales que procesan información extensa, con extracción inteligente de ideas y formatos de estudio audio conversacional.",
     "categoria": "Otros",
-    "tags": [
-      "resumen documentos",
-      "libretas inteligentes",
-      "podcast automatico",
-      "extraccion ideas",
-      "estudio rapido"
-    ]
+    "tags": ["#ResumenDocumentos", "#ApuntesInteligentes", "#EstudioEficiente", "#PodcastAutomatico", "#ExtraccionIdeas"]
   },
   {
     "id": 61,
     "nombre_web": "LobeChat",
     "empresa": "LobeChat",
     "url": "https://lobechat.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Cliente para múltiples modelos/servicios de IA.",
+    "descripcion": "Accede a múltiples modelos de IA desde una única interfaz open source. Conecta GPT, Claude, Gemini y otros servicios simultáneamente. Usa plugins extendidos para potenciar funcionalidades. Chatea, genera código y automatiza tareas sin cambiar de plataforma. Ideal para usuarios avanzados que quieren centralizar sus servicios AI con máxima flexibilidad y control de datos.",
     "categoria": "Otros",
-    "tags": [
-      "cliente multillm",
-      "servicios ia",
-      "interfaz chat",
-      "plugins externos",
-      "open source"
-    ]
+    "tags": ["#ClienteMultiLLM", "#InterfazUnificada", "#PluginsExtendidos", "#ServiciosIA", "#OpenSource"]
   },
   {
     "id": 62,
     "nombre_web": "Ollama",
     "empresa": "Ollama",
     "url": "https://ollama.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Descarga y ejecuta modelos LLM en local.",
+    "descripcion": "Descarga y ejecuta modelos de lenguaje localmente en tu computadora. Corre Llama, Mistral y otros LLMs sin conexión a internet ni costos recurrentes. Mantén total privacidad de tus datos. Ideal para desarrolladores y entusiastas que necesitan IA offline, con instalación simple y gestión de modelos intuitiva. Perfecto para pruebas, desarrollo y uso privado.",
     "categoria": "Otros",
-    "tags": [
-      "llm local",
-      "descarga modelos",
-      "inferencias offline",
-      "modelos ligeros",
-      "gestion versiones"
-    ]
+    "tags": ["#ModelosLocales", "#EjecucionOffline", "#PrivacidadTotal", "#DescargaModelos", "#InferenciaSegura"]
   },
   {
     "id": 63,
     "nombre_web": "Hugging Face",
     "empresa": "Hugging Face",
     "url": "https://huggingface.co/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Modelos, datasets y Spaces para demos.",
+    "descripcion": "Explora el mayor repositorio de modelos de IA del mundo. Descarga modelos pre-entrenados, datasets y crea demos interactivas en Spaces. Colabora con la comunidad ML, comparte tus proyectos y accede a herramientas de implementación. Ideal para investigadores y desarrolladores que buscan state-of-the-art en NLP, visión y audio con recursos abiertos.",
     "categoria": "Otros",
-    "tags": [
-      "modelos huggingface",
-      "datasets abiertos",
-      "spaces demos",
-      "comunidad ml",
-      "repositorios modelos"
-    ]
+    "tags": ["#PlataformaModelos", "#DatasetsAbiertos", "#SpacesDemos", "#ComunidadML", "#RepositoriosIA"]
   },
   {
     "id": 64,
     "nombre_web": "IA Comunia",
     "empresa": "IA Comunia",
     "url": "https://iacomunia.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Portal que explica modelos, herramientas y casos de uso.",
+    "descripcion": "Aprende sobre inteligencia artificial con explicaciones claras y casos de uso prácticos. Explora análisis de modelos, comparativas de herramientas y guías paso a paso. Mantente actualizado con las últimas novedades del sector. Ideal para profesionales y curiosos que quieren comprender IA sin tecnicismos, con enfoque en aplicaciones reales y tendencias del mercado.",
     "categoria": "Otros",
-    "tags": [
-      "divulgacion ia",
-      "casos uso",
-      "guias herramientas",
-      "analisis modelos",
-      "articulos explicativos"
-    ]
+    "tags": ["#DivulgacionIA", "#CasosUso", "#GuiasHerramientas", "#AnalisisModelos", "#ArticulosExplicativos"]
   },
   {
     "id": 65,
     "nombre_web": "AIPure (categorías)",
     "empresa": "AIPure",
     "url": "https://aipure.ai/category",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Listados de IAs por temática.",
+    "descripcion": "Descubre herramientas de IA organizadas por temáticas específicas. Navega categorías detalladas, lee reseñas y compara características. Encuentra exactamente lo que necesitas con filtros avanzados. Ideal para profesionales que exploran el ecosistema IA y quieren encontrar la herramienta perfecta para su caso de uso sin perder tiempo en búsquedas dispersas.",
     "categoria": "Otros",
-    "tags": [
-      "directorio ias",
-      "categorias ia",
-      "busqueda filtrada",
-      "listados tematicos",
-      "nuevas herramientas"
-    ]
+    "tags": ["#DirectorioIA", "#CatalogoHerramientas", "#BuscadorIA", "#CategoriasTematicas", "#NuevasHerramientas"]
   },
   {
     "id": 66,
     "nombre_web": "LM Studio",
     "empresa": "LM Studio",
     "url": "https://lmstudio.ai/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . UI para ejecutar localmente diferentes modelos.",
+    "descripcion": "Gestiona y ejecuta modelos de lenguaje localmente con interfaz gráfica intuitiva. Descarga LLMs, ajusta parámetros y chatea privadamente sin conexión. Acelera inferencia con tu hardware. Ideal para usuarios que quieren experiencia ChatGPT sin nube, con control total de datos, privacidad máxima y facilidad de uso sin línea de comandos.",
     "categoria": "Otros",
-    "tags": [
-      "ui local",
-      "gestion modelos",
-      "descargas rapidas",
-      "inferencia local",
-      "chat offline"
-    ]
+    "tags": ["#ModelosLocales", "#EjecucionOffline", "#PrivacidadTotal", "#UIGestion", "#ChatPrivado"]
   },
   {
     "id": 67,
     "nombre_web": "OpenRouter",
     "empresa": "OpenRouter",
     "url": "https://openrouter.ai/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Unifica acceso API a muchos modelos (con cuota/créditos).",
+    "descripcion": "Accede a múltiples modelos de IA con una única API unificada. Enruta entre GPT, Claude, Gemini y otros según coste o rendimiento. Gestiona créditos y monitorea uso centralizado. Ideal para desarrolladores que integran IA sin mantener múltiples contratos, con failover automático, comparativa de costes y flexibilidad para cambiar proveedores sin reescribir código.",
     "categoria": "Otros",
-    "tags": [
-      "api modelos",
-      "enrutamiento llm",
-      "creditos consumo",
-      "proveedores varios",
-      "comparativa costes"
-    ]
+    "tags": ["#APIUnificada", "#EnrutamientoLLM", "#CreditosConsumo", "#ProveedoresVarios", "#ComparativaCostes"]
   },
   {
     "id": 68,
     "nombre_web": "Cerebras Cloud",
     "empresa": "Cerebras",
     "url": "https://cloud.cerebras.ai/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Acceso a modelos vía API en la nube Cerebras.",
+    "descripcion": "Ejecuta modelos de IA en la nube con hardware Cerebras especializado. Obtén inferencia ultrarrápida para LLMs y workloads complejos. Accede vía API con documentación completa. Ideal para empresas y desarrolladores que necesitan baja latencia y alto rendimiento, con infraestructura optimizada para AI a escala, sin gestionar hardware propio.",
     "categoria": "Otros",
-    "tags": [
-      "api inferencia",
-      "modelos cerebras",
-      "nube acelerada",
-      "alto rendimiento",
-      "servicios ml"
-    ]
+    "tags": ["#ServiciosNube", "#APIInferencia", "#RendimientoAlto", "#ModelosCerebras", "#AceleracionIA"]
   },
   {
     "id": 69,
     "nombre_web": "Groq (API/Chat)",
     "empresa": "Groq, Inc.",
     "url": "https://chat.groq.com/",
-    "descripcion": "Recurso en la categoría Otros. Subcategoría: . Genera API keys y ejecuta modelos en la nube.",
+    "descripcion": "Genera API keys y ejecuta modelos con latencia mínima en la nube Groq. Accede a Llama, Mixtral y otros modelos optimizados para velocidad. Prueba en chat o integra via API económica. Ideal para startups y desarrolladores que priorizan velocidad de respuesta, con costos competitivos y rendimiento superior para aplicaciones en tiempo real.",
     "categoria": "Otros",
-    "tags": [
-      "inferencias rapidas",
-      "latencia minima",
-      "modelos multiples",
-      "token barato",
-      "api velocidad"
-    ]
+    "tags": ["#APIUnificada", "#InferenciaRapida", "#LatenciaMinima", "#TokensEconomicos", "#GeneracionClaves"]
   },
   {
     "id": 70,
     "nombre_web": "Python.org",
     "empresa": "Python Software Foundation",
     "url": "https://www.python.org/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Sitio oficial de Python.",
+    "descripcion": "Descarga Python, accede a documentación oficial y tutoriales. Explora la librería estándar, PEPs y guías de instalación. Únete a la comunidad global de desarrolladores. Ideal para programadores de todos los niveles que necesitan la fuente autorizada del lenguaje, con recursos actualizados, notas de versión y enlaces a paquetes oficiales.",
     "categoria": "Programación",
-    "tags": [
-      "descargas python",
-      "documentacion oficial",
-      "comunidad python",
-      "versiones estables",
-      "paquetes pip"
-    ]
+    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#ComunidadDesarrollo", "#PaquetesPip"]
   },
   {
     "id": 71,
     "nombre_web": "Real Python",
     "empresa": "Real Python",
     "url": "https://realpython.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: Python. Tutoriales y artículos de Python.",
+    "descripcion": "Domina Python con tutoriales prácticos y artículos profundos. Aprende desde fundamentos hasta frameworks avanzados con ejemplos ejecutables. Accede a cursos, quizzes y guías de proyectos reales. Ideal para desarrolladores que quieren aprender Python de forma efectiva, con contenido actualizado, mejores prácticas y enfoque en aplicaciones profesionales.",
     "categoria": "Programación",
-    "tags": [
-      "tutoriales python",
-      "articulos practicos",
-      "ejercicios guiados",
-      "mejores practicas",
-      "snippets codigo"
-    ]
+    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#TutorialesPracticos", "#EjerciciosGuiados"]
   },
   {
     "id": 72,
     "nombre_web": "MDN JavaScript",
     "empresa": "Mozilla",
     "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Guía completa de JavaScript.",
+    "descripcion": "Consulta la guía definitiva de JavaScript de Mozilla. Explora referencias completas de APIs, sintaxis y ejemplos prácticos. Aprende conceptos modernos y compatibilidad navegadores. Ideal para desarrolladores web que necesitan documentación oficial, confiable y actualizada sobre JS, con tutoriales desde básico hasta avanzado y ejemplos interactivos.",
     "categoria": "Programación",
-    "tags": [
-      "guia javascript",
-      "documentacion mdn",
-      "apis web",
-      "referencia js",
-      "ejemplos code"
-    ]
+    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#EjemplosCodigo", "#APIsNavegador"]
   },
   {
     "id": 73,
     "nombre_web": "JavaScript.info",
     "empresa": "JavaScript.info",
     "url": "https://javascript.info/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: JavaScript. Tutorial moderno de JavaScript.",
+    "descripcion": "Aprende JavaScript moderno con un tutorial estructurado y claro. Domina conceptos desde cero hasta patrones avanzados con ejercicios interactivos. Accede a explicaciones visuales y código ejecutable. Ideal para principiantes y desarrolladores que quieren una base sólida en JS actual, con enfoque en web moderna y mejores prácticas del lenguaje.",
     "categoria": "Programación",
-    "tags": [
-      "tutorial javascript",
-      "fundamentos js",
-      "temas avanzados",
-      "ejercicios practicos",
-      "web moderna"
-    ]
+    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#FundamentosLenguaje", "#WebModerna"]
   },
   {
     "id": 74,
     "nombre_web": "Lenguaje CSS",
     "empresa": "LenguajeCSS",
     "url": "https://lenguajecss.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: CSS. Recursos y guías de CSS.",
+    "descripcion": "Domina CSS con guías prácticas y trucos profesionales. Aprende Flexbox, Grid, animaciones y selectores avanzados con ejemplos visuales. Accede a snippets reutilizables y soluciones comunes. Ideal para frontend developers que quieren perfeccionar estilos web, con explicaciones claras, demos interactivas y técnicas para diseños responsive modernos.",
     "categoria": "Programación",
-    "tags": [
-      "guia css",
-      "trucos estilos",
-      "maquetacion web",
-      "flexbox grid",
-      "selectores avanzados"
-    ]
+    "tags": ["#EstilosCSS", "#GuiaMaquetacion", "#TrucosDiseno", "#FlexboxGrid", "#SelectoresAvanzados"]
   },
   {
     "id": 75,
     "nombre_web": "Programming Notes for Professionals (GoalKicker)",
     "empresa": "GoalKicker",
     "url": "https://books.goalkicker.com/",
-    "descripcion": "Recurso en la categoría Programación. Subcategoría: Documentación general. Libros gratuitos por tecnologías.",
+    "descripcion": "Descarga libros técnicos gratuitos por tecnología. Accede a apuntes concisos, ejemplos de código y referencias rápidas para múltiples lenguajes y frameworks. Ideal para desarrolladores que necesitan consultas rápidas offline, con contenido condensado y práctico sin relleno, perfecto para repasar conceptos y tener documentación completa sin conexión.",
     "categoria": "Programación",
-    "tags": [
-      "libros gratis",
-      "referencia rapida",
-      "resumenes tecnicos",
-      "pdf descarga",
-      "apuntes programacion"
-    ]
+    "tags": ["#LibrosTecnicos", "#ReferenciaRapida", "#DescargasPDF", "#ApuntesProfesionales", "#ResumenesTecnologia"]
   },
   {
     "id": 76,
     "nombre_web": "Udemy",
     "empresa": "Udemy",
     "url": "https://www.udemy.com/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "descripcion": "Accede a miles de cursos online en tecnología, IA y desarrollo. Aprende a tu ritmo con videolecciones, ejercicios prácticos y certificados. Busca por nivel, duración y valoraciones. Ideal para profesionales y estudiantes que buscan formación específica en habilidades tech, con contenido constantemente actualizado y ofertas frecuentes.",
     "categoria": "Formación",
-    "tags": [
-      "cursos online",
-      "ofertas cursos",
-      "instructores expertos",
-      "certificados fin",
-      "tematicas amplias"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#CertificadosOnline", "#OfertasCursos"]
   },
   {
     "id": 77,
     "nombre_web": "IBM SkillsBuild",
     "empresa": "IBM SkillsBuild",
     "url": "https://skillsbuild.org/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Plataforma formativa de IBM.",
+    "descripcion": "Capacítate en tecnología con cursos gratuitos de IBM. Aprende IA, cloud, ciberseguridad y habilidades profesionales. Obtén insignias digitales y preparación para certificaciones. Accede a laboratorios prácticos. Ideal para personas que buscan empleabilidad tech, con formación de calidad empresarial sin costo, enfocado en tecnologías IBM y habilidades del futuro.",
     "categoria": "Formación",
-    "tags": [
-      "plataforma formacion",
-      "habilidades digitales",
-      "rutas aprendizaje",
-      "recursos gratuitos",
-      "empleabilidad tech"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#HabilidadesDigitales", "#EmpleabilidadTech"]
   },
   {
     "id": 78,
     "nombre_web": "edX",
     "empresa": "edX",
     "url": "https://www.edx.org/es",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Cursos de universidades (Harvard, Berkeley, ...).",
+    "descripcion": "Cursos online de universidades top como Harvard y Berkeley en español. Accede a Microgrados, Programas Profesionales y MOOCs gratuitos. Aprende desde IA hasta humanidades con rigor académico. Ideal para estudiantes y profesionales que buscan formación de élite, con certificados verificables y posibilidad de créditos académicos reconocidos.",
     "categoria": "Formación",
-    "tags": [
-      "universidades top",
-      "microgrados online",
-      "certificados verificados",
-      "cursos gratuitos",
-      "campus virtual"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#UniversidadesTop", "#MicrogradosOnline"]
   },
   {
     "id": 79,
     "nombre_web": "Fundación Carlos Slim (Aprende.org)",
     "empresa": "Fundación Carlos Slim",
     "url": "https://aprende.org/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "descripcion": "Accede a cursos completamente gratuitos en tecnología y desarrollo profesional. Aprende desde cero hasta habilidades avanzadas con contenido en español. Obtén certificados de finalización. Ideal para personas con recursos limitados que buscan formación de calidad, con enfoque en empleabilidad y habilidades digitales esenciales para el mercado laboral actual.",
     "categoria": "Formación",
-    "tags": [
-      "cursos gratuitos",
-      "habilidades laborales",
-      "programas basicos",
-      "certificacion gratis",
-      "formacion accesible"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#CursosGratuitos", "#FormacionAccesible"]
   },
   {
     "id": 80,
     "nombre_web": "FUNDAE (Trabajadores)",
     "empresa": "FUNDAE",
     "url": "https://www.fundae.es/trabajadores",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "descripcion": "Accede a formación bonificada para trabajadores. Encuentra cursos subvencionados por tu empresa en tecnología y competencias profesionales. Consulta tu saldo de créditos. Ideal para empleados que quieren capacitarse sin costo personal, aprovechando la formación continua obligatoria en España con cursos de calidad y certificados oficiales.",
     "categoria": "Formación",
-    "tags": [
-      "formacion bonificada",
-      "empleo formacion",
-      "recursos cursos",
-      "financiacion publica",
-      "empresas formacion"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#FormacionBonificada", "#EmpleoFormacion"]
   },
   {
     "id": 81,
     "nombre_web": "Facialix",
     "empresa": "Facialix",
     "url": "https://facialix.com/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación. Divulgación de cursos y recursos.",
+    "descripcion": "Descubre cursos y recursos de tecnología seleccionados y resumidos. Accede a contenido de programación, IA, data science y desarrollo profesional con análisis detallado. Encuentra ofertas educativas, tutoriales y guías prácticas. Ideal para autodidactas que quieren estar actualizados sin buscar en múltiples sitios, con recomendaciones filtradas por utilidad y calidad, ahorrando tiempo en tu formación continua.",
     "categoria": "Formación",
-    "tags": [
-      "cursos gratis",
-      "ofertas formacion",
-      "divulgacion educativa",
-      "recopilacion recursos",
-      "tecnologia educacion"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#RecopilacionRecursos", "#TecnologiaEducacion"]
   },
   {
     "id": 82,
-    "nombre_web": "Experiencia Fundae",
+    "nombre_web": "Experiencia FUNDAE",
     "empresa": "Experiencia FUNDAE",
     "url": "https://experienciafundae.es/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Webs formación.",
+    "descripcion": "Explora oportunidades de formación bonificada para trabajadores. Encuentra cursos subvencionados, consulta tu saldo crédito y gestiona tu formación continua. Accede a iniciativas públicas de empleo. Ideal para trabajadores y empresas que quieren aprovechar la formación bonificada en España, con información oficial sobre requisitos, plazos y procesos de FUNDAE.",
     "categoria": "Formación",
-    "tags": [
-      "historias empleo",
-      "casos exito",
-      "oportunidades formacion",
-      "iniciativas publicas",
-      "novedades fundae"
-    ]
+    "tags": ["#CursosOnline", "#FormacionDigital", "#AprendizajeTech", "#OportunidadesFormacion", "#IniciativasPublicas"]
   },
   {
     "id": 83,
     "nombre_web": "Ciencia de Datos y Analítica (Udemy vía SkillsBuild)",
     "empresa": "IBM / Udemy",
     "url": "https://skills.yourlearning.ibm.com/activity/UDEMY-5320790",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso de Udemy disponible en SkillsBuild.",
+    "descripcion": "Accede a un curso de Data Science de Udemy incluido en IBM SkillsBuild. Domina Python para análisis de datos, visualización y machine learning con laboratorios guiados. Obtén certificado de finalización. Ideal para estudiantes de IBM SkillsBuild que quieren especializarse en datos sin costo adicional, con contenido práctico y tutoriales paso a paso.",
     "categoria": "Formación",
-    "tags": [
-      "udemy incluido",
-      "curso datos",
-      "analitica practica",
-      "python aplicado",
-      "laboratorios guiados"
-    ]
+    "tags": ["#CursoDataScience", "#AnaliticaPractica", "#PythonAplicado", "#LaboratoriosGuiados", "#UdemyIncluido"]
   },
   {
     "id": 84,
     "nombre_web": "Prompting Essential (Becas Google · Coursera)",
     "empresa": "Coursera",
     "url": "https://www.coursera.org/programs/becas-google-fundae-prompting-essential-vptz3",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Programa de becas Google + FUNDAE.",
+    "descripcion": "Inscríbete en el programa de becas Google + FUNDAE para aprender prompting esencial. Domina técnicas de ingeniería de prompts con acceso gratuito a Coursera. Obtén certificado oficial. Plazas limitadas. Ideal para profesionales que quieren certificarse en IA generativa sin costo, aprovechando una beca de alto impacto con contenido validado por Google.",
     "categoria": "Formación",
-    "tags": [
-      "becas google",
-      "prompting esencial",
-      "curso gratuito",
-      "certificado posible",
-      "inscripcion limitada"
-    ]
+    "tags": ["#CursoPrompting", "#BecasGoogle", "#CertificadoGratuito", "#InscripcionLimitada", "#HabilidadesIA"]
   },
   {
     "id": 85,
     "nombre_web": "Zero to Mastery · TensorFlow for Deep Learning (repo)",
     "empresa": "Daniel Bourke",
     "url": "https://dev.mrdbourke.com/tensorflow-deep-learning/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Repo con curso completo (PDF, slides, código).",
+    "descripcion": "Accede a un curso completo de TensorFlow en formato abierto. Descarga PDFs, slides y notebooks con código ejecutable. Aprende deep learning desde cero con proyectos prácticos. Ideal para desarrolladores que prefieren aprender de forma autónoma con material estructurado, sin costos y con ejemplos reales de implementación de redes neuronales.",
     "categoria": "Formación",
-    "tags": [
-      "curso tensorflow",
-      "deep learning",
-      "material completo",
-      "notebooks ejemplo",
-      "proyecto final"
-    ]
+    "tags": ["#CursoTensorFlow", "#DeepLearning", "#MaterialCompleto", "#NotebooksEjemplo", "#ProyectoFinal"]
   },
   {
     "id": 86,
-    "nombre_web": "DataTalks Club · Free Online Courses",
+    "nombre_web": "DataTalks club · Free Online Courses",
     "empresa": "DataTalks.Club",
     "url": "https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Guía de cursos gratuitos (DL, LLMs, ...).",
+    "descripcion": "Descubre guías de cursos gratuitos en data science, LLMs y machine learning. Accede a recursos organizados por nivel y temática. Únete a una comunidad activa de datos. Ideal para aprendices que buscan formación gratuita de calidad, con recomendaciones curadas y soporte comunitario en su camino hacia el análisis de datos y la IA.",
     "categoria": "Formación",
-    "tags": [
-      "cursos gratuitos",
-      "comunidad datos",
-      "llms curso",
-      "ml practico",
-      "eventos online"
-    ]
+    "tags": ["#CursosGratuitos", "#ComunidadDatos", "#CursoLLMs", "#MLPractico", "#EventosOnline"]
   },
   {
     "id": 87,
     "nombre_web": "AI for Beginners (Microsoft)",
     "empresa": "Microsoft",
     "url": "https://microsoft.github.io/AI-For-Beginners/",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Curso introductorio de IA por Microsoft.",
+    "descripcion": "Aprende inteligencia artificial desde cero con este curso gratuito de Microsoft. Domina conceptos fundamentales con lecciones prácticas, proyectos guiados y recursos abiertos. Accede a 12 semanas de contenido. Ideal para principiantes que quieren una base sólida en IA sin experiencia previa, con enfoque en aplicaciones reales y código Python.",
     "categoria": "Formación",
-    "tags": [
-      "curso ia",
-      "principiantes ia",
-      "lecciones practicas",
-      "recursos abiertos",
-      "proyectos guiados"
-    ]
+    "tags": ["#CursoIA", "#PrincipiantesIA", "#LeccionesPracticas", "#RecursosAbiertos", "#ProyectosGuiados"]
   },
   {
     "id": 88,
     "nombre_web": "Certificación oficial de Python (OpenEDG)",
     "empresa": "OpenEDG",
     "url": "https://edube.org/study",
-    "descripcion": "Recurso en la categoría Formación. Subcategoría: Cursos. Formación gratuita de preparación para certificación.",
+    "descripcion": "Prepárate para la certificación oficial de Python de forma gratuita. Accede a formación estructurada con temario oficial, ejercicios prácticos y exámenes simulados. Obtén tu certificación PCEP o PCAP. Ideal para desarrolladores que quieren certificar sus habilidades Python con credenciales internacionales, con material de estudio completo sin costo.",
     "categoria": "Formación",
-    "tags": [
-      "certificacion python",
-      "formacion gratuita",
-      "examen practica",
-      "temario oficial",
-      "modulos progresivos"
-    ]
+    "tags": ["#CertificacionPython", "#FormacionGratuita", "#ExamenPractica", "#TemarioOficial", "#ModulosProgresivos"]
   },
   {
     "id": 89,
     "nombre_web": "Generador de DNI / IBAN (1)",
     "empresa": "GeneradorDNI.es",
     "url": "https://generadordni.es/#home",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
+    "descripcion": "Genera DNI y números IBAN válidos para pruebas de software. Crea datos ficticios realistas con letras de control correctas. Valida documentos españoles. Ideal para desarrolladores y testers que necesitan datos de ejemplo sin usar información real, con generación masiva y verificación instantánea de formatos oficiales.",
     "categoria": "Herramientas",
-    "tags": [
-      "generador dni",
-      "dni pruebas",
-      "iban ejemplo",
-      "datos ficticios",
-      "validador letras"
-    ]
+    "tags": ["#GeneradorDatos", "#PruebasSoftware", "#DocumentosEjemplo", "#ValidadorLetras", "#DatosFicticios"]
   },
   {
     "id": 90,
     "nombre_web": "Generador de DNI / IBAN (2)",
     "empresa": "Generador-de-DNI.com",
     "url": "https://www.generador-de-dni.com/generador-de-dni",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores.",
+    "descripcion": "Crea DNI españoles válidos al instante para testing y desarrollo. Genera números con letra de control correcta y valida formatos. Herramienta simple y rápida. Ideal para programadores que necesitan datos de prueba realistas sin exponer información sensible, con generación individual o múltiple y validación de NIF/NIE.",
     "categoria": "Herramientas",
-    "tags": [
-      "dni online",
-      "iban pruebas",
-      "documentos test",
-      "datos generados",
-      "validacion nif"
-    ]
+    "tags": ["#GeneradorDatos", "#PruebasSoftware", "#DocumentosEjemplo", "#ValidacionNIF", "#DatosGenerados"]
   },
   {
     "id": 91,
     "nombre_web": "Generador de NIFs PT",
     "empresa": "Marcos Santos",
     "url": "https://nif.marcosantos.me/?i=2",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Generadores. NIF Portugal.",
+    "descripcion": "Genera NIF portugueses válidos para pruebas y validación fiscal. Crea números de identificación fiscal correctos con algoritmo de verificación. Ideal para desarrolladores que trabajan con sistemas portugueses y necesitan datos de ejemplo realistas, con generación rápida y verificación de formatos oficiales de Portugal.",
     "categoria": "Herramientas",
-    "tags": [
-      "nif portugal",
-      "numeros prueba",
-      "validacion fiscal",
-      "tests software",
-      "generador nif"
-    ]
+    "tags": ["#GeneradorDatos", "#PruebasSoftware", "#DocumentosEjemplo", "#NIFPortugal", "#ValidacionFiscal"]
   },
   {
     "id": 92,
     "nombre_web": "HTML String encode",
     "empresa": "Online String Tools",
     "url": "https://onlinestringtools.com/html-encode-string",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "descripcion": "Codifica y decodifica strings para HTML en línea. Convierte caracteres especiales a entidades HTML seguras. Valida y formatea texto para web. Herramienta gratuita y sin instalación. Ideal para desarrolladores web que necesitan escapar contenido dinámico rápidamente, evitando vulnerabilidades XSS y asegurando compatibilidad con navegadores.",
     "categoria": "Herramientas",
-    "tags": [
-      "html encode",
-      "texto escape",
-      "string tools",
-      "utilidades online",
-      "codificacion html"
-    ]
+    "tags": ["#CodificacionTexto", "#ConversionFormato", "#UtilidadesOnline", "#HTMLEscape", "#StringTools"]
   },
   {
     "id": 93,
     "nombre_web": "RGB to HEX",
     "empresa": "RGBtoHEX",
     "url": "https://www.rgbtohex.net/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "descripcion": "Convierte valores RGB a código hexadecimal para diseño web. Ingresa valores de color y obtén códigos HEX listos para CSS. Herramienta simple y precisa. Ideal para diseñadores y desarrolladores frontend que necesitan convertir paletas de colores rápidamente, con resultados copiables al portapapeles y soporte para múltiples formatos.",
     "categoria": "Herramientas",
-    "tags": [
-      "rgb hex",
-      "hex rgb",
-      "convertir color",
-      "paleta rgb",
-      "codigo color"
-    ]
+    "tags": ["#ConversionColor", "#CodificacionColor", "#PaletaRGB", "#ValorHexadecimal", "#HerramientaDiseno"]
   },
   {
     "id": 94,
     "nombre_web": "HEX to RGB",
     "empresa": "RGBtoHEX",
     "url": "https://www.rgbtohex.net/hex-to-rgb/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "descripcion": "Transforma códigos hexadecimales a valores RGB. Convierte colores web a formato decimal para editores de imagen. Herramienta dual de conversión. Ideal para diseñadores que trabajan entre web y software gráfico, necesitando convertir paletas rápidamente con precisión exacta y múltiples valores de salida simultáneos.",
     "categoria": "Herramientas",
-    "tags": [
-      "hex rgb",
-      "rgb hex",
-      "conversion color",
-      "valores codigo",
-      "paleta tonos"
-    ]
+    "tags": ["#ConversionColor", "#CodificacionColor", "#PaletaHex", "#ValorRGB", "#HerramientaDiseno"]
   },
   {
     "id": 95,
     "nombre_web": "JSON to YAML",
     "empresa": "CodeBeautify",
     "url": "https://codebeautify.org/json-to-yaml",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores.",
+    "descripcion": "Convierte JSON a YAML y viceversa en línea. Valida sintaxis, formatea y minimiza archivos de configuración. Herramienta esencial para DevOps. Ideal para desarrolladores que trabajan con Docker, Kubernetes y CI/CD, necesitando transformar formatos de datos rápidamente con validación de errores y visualización clara.",
     "categoria": "Herramientas",
-    "tags": [
-      "json yaml",
-      "formatear json",
-      "validar datos",
-      "convertir formatos",
-      "beautify online"
-    ]
+    "tags": ["#FormatoDatos", "#ConversionJSON", "#ValidacionYAML", "#FormateadorOnline", "#BeautifyTools"]
   },
   {
     "id": 96,
     "nombre_web": "RegExr",
     "empresa": "RegExr",
     "url": "https://regexr.com/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Conversores. Probar expresiones regulares.",
+    "descripcion": "Prueba y depura expresiones regulares en tiempo real. Construye patrones con ayuda visual, documentación integrada y ejemplos. Guarda y comparte expresiones. Ideal para desarrolladores que necesitan crear regex complejas, con explicación paso a paso, detección de errores y biblioteca de patrones comunes para validación y parsing de texto.",
     "categoria": "Herramientas",
-    "tags": [
-      "tester regex",
-      "expresiones regulares",
-      "patrones texto",
-      "validar regex",
-      "pruebas rapidas"
-    ]
+    "tags": ["#RegexTester", "#ValidacionPatrones", "#ExpresionesRegulares", "#PruebasRapidas", "#DebuggerOnline"]
   },
   {
     "id": 97,
     "nombre_web": "Icons8 (Iconos)",
     "empresa": "Icons8",
     "url": "https://icons8.com/icons/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Buscar y modificar iconos.",
+    "descripcion": "Busca, personaliza y descarga iconos gratuitos para tus proyectos. Modifica tamaño, color y formato SVG/PNG. Accede a miles de iconos consistentes. Ideal para diseñadores y desarrolladores que necesitan recursos UI de calidad rápidamente, con editor integrado y packs temáticos para aplicaciones web y móviles.",
     "categoria": "Herramientas",
-    "tags": [
-      "iconos gratis",
-      "descarga iconos",
-      "personalizar iconos",
-      "ui recursos",
-      "pack iconos"
-    ]
+    "tags": ["#RecursosUI", "#IconosGratis", "#PersonalizacionIconos", "#PackIconos", "#DescargasUI"]
   },
   {
     "id": 98,
     "nombre_web": "Loading.io",
     "empresa": "loading.io",
     "url": "https://loading.io/#",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Loaders y barras de progreso.",
+    "descripcion": "Crea loaders animados y barras de progreso personalizadas. Genera spinners CSS, GIFs y SVG sin código. Ajusta colores, velocidad y estilo. Accede a galería predefinida. Ideal para frontend developers que necesitan indicadores de carga atractivos sin escribir CSS complejo, con exportación lista para implementación inmediata en proyectos web.",
     "categoria": "Herramientas",
-    "tags": [
-      "loaders animados",
-      "spinners css",
-      "barras progreso",
-      "animaciones svg",
-      "ui feedback"
-    ]
+    "tags": ["#RecursosUI", "#LoadersAnimados", "#SpinnersCSS", "#BarrasProgreso", "#AnimacionesSVG"]
   },
   {
     "id": 99,
     "nombre_web": "LottieFiles (Loadings y animaciones)",
     "empresa": "LottieFiles",
     "url": "https://lottiefiles.com/free-animations/loading-bar",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Imágenes, iconos, .... Animaciones Lottie gratuitas.",
+    "descripcion": "Descarga animaciones Lottie gratuitas para interfaces modernas. Explora loaders, microinteracciones y efectos en JSON animado. Edita colores y velocidad online. Ideal para diseñadores UI y developers mobile que quieren animaciones fluidas y ligeras, con integración simple en iOS, Android y web sin impactar rendimiento.",
     "categoria": "Herramientas",
-    "tags": [
-      "animaciones lottie",
-      "lottie gratis",
-      "json animado",
-      "ui animaciones",
-      "descargas lottie"
-    ]
+    "tags": ["#RecursosUI", "#AnimacionesLottie", "#JSONAnimado", "#DescargasLottie", "#UIAnimaciones"]
   },
   {
     "id": 100,
     "nombre_web": "Free Public APIs",
     "empresa": "Free Public APIs",
     "url": "https://www.freepublicapis.com/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: APIs. Colección de APIs públicas para pruebas.",
+    "descripcion": "Explora una colección curada de APIs públicas gratuitas para desarrollo. Busca por categoría, prueba endpoints y accede a documentación. Ideal para desarrolladores que necesitan datos para prototipos, proyectos personales o testing, sin necesidad de autenticación compleja ni costos, con APIs de clima, finanzas, entretenimiento y más.",
     "categoria": "Herramientas",
-    "tags": [
-      "apis publicas",
-      "catalogo apis",
-      "pruebas desarrollo",
-      "servicios rest",
-      "ejemplos api"
-    ]
+    "tags": ["#APIsPublicas", "#ServiciosDesarrollo", "#PruebasSoftware", "#EndpointsREST", "#CatalogoAPIs"]
   },
   {
     "id": 101,
     "nombre_web": "JSON Viewer",
     "empresa": "JSON Viewer",
     "url": "https://jsonviewer.stack.hu/",
-    "descripcion": "Recurso en la categoría Herramientas. Subcategoría: Otros. Visualiza y navega estructuras JSON en el navegador.",
+    "descripcion": "Pega y visualiza estructuras JSON en formato de árbol navegable. Expande nodos, busca claves específicas y copia rutas de acceso. Formatea datos minificados para mejor legibilidad. Herramienta online sin instalación. Ideal para desarrolladores que necesitan inspeccionar respuestas de APIs, depurar estructuras complejas o comprender documentos JSON rápidamente, con validación de sintaxis integrada.",
     "categoria": "Herramientas",
-    "tags": [
-      "visor json",
-      "arbol datos",
-      "formato json",
-      "navegar estructura",
-      "validar json"
-    ]
+    "tags": ["#VisorJSON", "#NavegadorDatos", "#FormatoJSON", "#ValidadorEstructura", "#HerramientaDesarrollo"]
   },
   {
     "id": 102,
     "nombre_web": "DeepL Translator",
     "empresa": "DeepL",
     "url": "https://www.deepl.com/translator",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traductor de alta calidad con buenos matices de estilo.",
+    "descripcion": "Traduce textos y documentos con calidad superior y matices naturales. Accede a más de 30 idiomas con conservación de formato. Edita traducciones sugeridas y usa glosarios personalizados. Ideal para profesionales que requieren precisión y estilo en traducciones técnicas, creativas o corporativas, superando en fluidez a herramientas alternativas con resultados que parecen humanos.",
     "categoria": "Inglés",
-    "tags": [
-      "traductor avanzado",
-      "estilo natural",
-      "matices idioma",
-      "glosarios propios",
-      "traduccion precisa"
-    ]
+    "tags": ["#TraductorAvanzado", "#DiccionarioBilingue", "#MaticesIdioma", "#GlosariosPropios", "#TraduccionPrecisa"]
   },
   {
     "id": 103,
     "nombre_web": "Linguee",
     "empresa": "Linguee",
     "url": "https://www.linguee.es/",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Diccionario con ejemplos reales de uso.",
+    "descripcion": "Busca traducciones con ejemplos reales de contexto en textos paralelos. Escucha pronunciación y descubre expresiones idiomáticas. Diccionario bilingüe con corpus de documentos oficiales. Ideal para traductores, estudiantes y profesionales que necesitan ver cómo se usa realmente un término, diferenciando matices y encontrando la traducción más apropiada según contexto.",
     "categoria": "Inglés",
-    "tags": [
-      "diccionario bilingue",
-      "ejemplos reales",
-      "corpus paralelo",
-      "expresiones idiomaticas",
-      "traducciones comunes"
-    ]
+    "tags": ["#DiccionarioBilingue", "#CorpusParalelo", "#EjemplosReales", "#ExpresionesIdiomaticas", "#TraduccionesComunes"]
   },
   {
     "id": 104,
     "nombre_web": "Cambridge Dictionary · Translate",
     "empresa": "Cambridge Dictionary",
     "url": "https://dictionary.cambridge.org/es/translate/",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducciones con definiciones y pronunciación.",
+    "descripcion": "Traduce palabras con definiciones claras, pronunciación audio y ejemplos de uso. Accede a niveles de inglés (B1, C1) y sinónimos. Diccionario académico de referencia. Ideal para estudiantes de inglés que necesitan comprensión profunda, con audio de hablantes nativos y contextos gramaticales para aprender vocabulario correctamente y preparar exámenes oficiales.",
     "categoria": "Inglés",
-    "tags": [
-      "definiciones ingles",
-      "pronunciacion britanica",
-      "traducciones claras",
-      "ejemplos uso",
-      "sinonimos ingles"
-    ]
+    "tags": ["#DiccionarioBilingue", "#DefinicionesIngles", "#PronunciacionAudio", "#EjemplosUso", "#SinonimosIngles"]
   },
   {
     "id": 105,
     "nombre_web": "Google Translate",
     "empresa": "Google",
     "url": "https://translate.google.es/?hl=es",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Traducción rápida multilenguaje.",
+    "descripcion": "Traduce textos, documentos, sitios web y conversaciones en tiempo real. Usa cámara para traducir imágenes y escucha pronunciación. Soporta más de 100 idiomas. Ideal para viajeros, estudiantes y profesionales que necesitan comunicación instantánea sin conexión disponible, con historial y frases guardadas para uso frecuente.",
     "categoria": "Inglés",
-    "tags": [
-      "traductor online",
-      "texto voz",
-      "multilenguaje rapido",
-      "camara traduccion",
-      "frases comunes"
-    ]
+    "tags": ["#TraductorOnline", "#MultilenguajeRapido", "#TextoVoz", "#CamaraTraduccion", "#FrasesComunes"]
   },
   {
     "id": 106,
     "nombre_web": "Bing Translator",
     "empresa": "Bing",
     "url": "https://www.bing.com/translator",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Traductores. Alternativa de Microsoft para traducción.",
+    "descripcion": "Traduce texto y voz con diccionario integrado y frases útiles. Alternativa gratuita con múltiples idiomas. Guarda traducciones frecuentes. Interfaz limpia y sin distracciones. Ideal para usuarios que buscan una herramienta de traducción rápida sin publicidad, con opciones de escucha y ejemplos de uso en contextos cotidianos.",
     "categoria": "Inglés",
-    "tags": [
-      "traductor online",
-      "texto voz",
-      "diccionario integrado",
-      "frases utiles",
-      "idiomas multiples"
-    ]
+    "tags": ["#TraductorOnline", "#MultilenguajeRapido", "#DiccionarioIntegrado", "#FrasesUtiles", "#AudioTexto"]
   },
   {
     "id": 107,
     "nombre_web": "EnglishOn · Vocabularios Cambridge",
     "empresa": "EnglishOn",
     "url": "https://www.englishon.es/Vocabularios-temario-ingles-cambridge-gratis",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Vocabularios y temarios gratuitos orientados a Cambridge.",
+    "descripcion": "Estudia vocabulario organizado por niveles Cambridge (A1-C2). Accede a temarios gratuitos con listas temáticas y ejercicios. Prepara exámenes oficiales. Ideal para estudiantes que necesen aprender vocabulario estructurado, con enfoque en los requisitos de cada nivel y acceso a material de preparación sin coste.",
     "categoria": "Inglés",
-    "tags": [
-      "vocabulario cambridge",
-      "temarios gratis",
-      "niveles ingles",
-      "listas palabras",
-      "preparacion examenes"
-    ]
+    "tags": ["#VocabularioIngles", "#TemariosGratis", "#NivelesIdioma", "#ListasPalabras", "#PreparacionExamenes"]
   },
   {
     "id": 108,
     "nombre_web": "Mª Carmen's blog (Inglés)",
     "empresa": "Blogger",
     "url": "https://mcarmenblogingles.blogspot.com/p/libros-de.html?m=1",
-    "descripcion": "Recurso en la categoría Inglés. Subcategoría: Material. Listado de libros y recursos de inglés.",
+    "descripcion": "Descarga libros y recursos gratuitos para aprender inglés. Accede a lecturas graduadas, material de gramática y ejercicios. Blog educativo con contenido organizado. Ideal para estudiantes autodidactas que buscan material de lectura en inglés adaptado a su nivel, con recursos docentes y enlaces a libros digitales.",
     "categoria": "Inglés",
-    "tags": [
-      "libros ingles",
-      "recursos gratis",
-      "lecturas graduadas",
-      "material docente",
-      "descargas utiles"
-    ]
+    "tags": ["#VocabularioIngles", "#LibrosGratis", "#LecturasGraduadas", "#MaterialDocente", "#DescargasUtiles"]
   },
   {
     "id": 109,
     "nombre_web": "YouTube · ChatGPT (tutorial 2025)",
     "empresa": "YouTube",
     "url": "https://youtu.be/D2b-b-gQyzg?si=Xd8sjtCKjI3v2u2N",
-    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Tutorial completo de ChatGPT.",
+    "descripcion": "Mira un tutorial completo de ChatGPT actualizado a 2025. Aprende trucos avanzados, casos prácticos y nuevas funciones con una guía paso a paso. Ideal para usuarios que quieren aprovechar al máximo ChatGPT, con demostraciones visuales de prompts efectivos, automatizaciones y las últimas novedades de la plataforma.",
     "categoria": "ToDo",
-    "tags": [
-      "video tutorial",
-      "guia completa",
-      "novedades chatgpt",
-      "casos practicos",
-      "trucos utiles"
-    ]
+    "tags": ["#VideoTutorial", "#GuiaCompleta", "#ChatGPT2025", "#CasosPracticos", "#TrucosIA"]
   },
   {
     "id": 110,
     "nombre_web": "YouTube · Gemini Coder",
     "empresa": "YouTube",
     "url": "https://www.youtube.com/watch?v=5-cFSXztfsM",
-    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Demostración creando apps en segundos.",
+    "descripcion": "Observa una demostración creando aplicaciones en segundos con Gemini Coder. Aprende a generar código funcional desde prompts simples. Ideal para desarrolladores que quieren acelerar su workflow, viendo cómo la IA puede construir apps completas, con ejemplos reales y técnicas de prompting para desarrollo rápido.",
     "categoria": "ToDo",
-    "tags": [
-      "demostracion codigo",
-      "apps rapidas",
-      "aprendizaje guiado",
-      "casos practicos",
-      "paso a paso"
-    ]
+    "tags": ["#VideoTutorial", "#DemostracionCodigo", "#AppsRapidas", "#AprendizajeGuiado", "#GeminiCoder"]
   },
   {
     "id": 111,
     "nombre_web": "YouTube · Curso de Pandas (playlist)",
     "empresa": "YouTube",
     "url": "https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ",
-    "descripcion": "Recurso en la categoría ToDo. Subcategoría: Pendiente de revisar. Curso ordenado de Pandas.",
+    "descripcion": "Sigue un curso completo de Pandas en formato de playlist. Domina análisis de datos con Python viendo videos ordenados desde cero hasta avanzado. Ideal para aprendices de data science que prefieren aprender visualmente, con ejemplos prácticos y explicaciones paso a paso que puedes reproducir en tu propio entorno.",
     "categoria": "ToDo",
-    "tags": [
-      "curso completo",
-      "playlist pandas",
-      "tecnicas analitica",
-      "programacion visual",
-      "video tecnico"
-    ]
+    "tags": ["#PlaylistCurso", "#TutorialPandas", "#AnalisisDatos", "#ProgramacionPython", "#DataScience"]
   },
   {
     "id": 112,
     "nombre_web": "Naf Naf",
     "empresa": "Naf Naf",
     "url": "https://www.nafnaf.es",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
+    "descripcion": "Compra moda femenina actual con estilo juvenil y tendencias. Explora colecciones de ropa, accesorios y complementos. Disfruta de ofertas online y envío a domicilio. Ideal para mujeres que buscan looks frescos y actuales con calidad asequible, inspirados en la moda parisina y adaptados al día a día.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda mujer",
-      "coleccion actual",
-      "vestidos color",
-      "look femenino",
-      "compras online"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ColeccionActual", "#LookFemenino"]
   },
   {
     "id": 113,
     "nombre_web": "Surkana",
     "empresa": "Surkana",
     "url": "https://surkana.es",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Tienda orientada a mujer.",
+    "descripcion": "Descubre moda femenina con estilo bohemio y estampados vibrantes. Compra prendas únicas y coloridas online. Explora colecciones inspiradas en el Mediterráneo. Ideal para mujeres que buscan un estilo original, fresco y artesanal, con diseños exclusivos que destacan por su creatividad y personalidad en cada prenda.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "estampados vivos",
-      "estilo boho",
-      "ropa colorida",
-      "coleccion mujer",
-      "tienda online"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloBoho", "#EstampadosVivos"]
   },
   {
     "id": 114,
     "nombre_web": "SKFK",
     "empresa": "SKFK",
     "url": "https://www.skfk-ethical-fashion.com",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda ética.",
+    "descripcion": "Compra moda ética y sostenible para mujer. Elige prendas de producción justa con materiales ecológicos. Diseños atemporales y comprometidos. Ideal para consumidoras conscientes que priorizan la moda responsable, con transparencia en la cadena de producción y estilo que combina tendencia con valores sociales y medioambientales.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda etica",
-      "tejidos organicos",
-      "produccion justa",
-      "diseno sostenible",
-      "coleccion mujer"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ModaEtica", "#ProduccionJusta"]
   },
   {
     "id": 115,
     "nombre_web": "Xantik",
     "empresa": "Xantik",
     "url": "https://xantik.net/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Explora moda femenina con diseños únicos y estilo urbano. Compra prendas originales creadas por diseñadores emergentes. Descubre colecciones exclusivas online. Ideal para mujeres que buscan diferenciarse con ropa limitada, apoyando el talento local y encontrando piezas que no encontrarás en tiendas masivas.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "estilo urbano",
-      "ropa original",
-      "novedades mujer",
-      "compras web",
-      "tendencia local"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloUrbano", "#RopaOriginal"]
   },
   {
     "id": 116,
     "nombre_web": "Verdedoncella",
     "empresa": "Verdedoncella",
     "url": "https://verdedoncella.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Adquiere moda femenina con diseños exclusivos y producción artesanal. Compra prendas cuidadosamente elaboradas con materiales de calidad. Moda limitada y personalizada. Ideal para mujeres que valoran la originalidad y la artesanía, buscando piezas únicas que reflejen su personalidad con un toque de exclusividad en cada colección.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda artesana",
-      "diseños unicos",
-      "coleccion mujer",
-      "tienda online",
-      "prendas color"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DiseniosUnicos", "#ModaArtesana"]
   },
   {
     "id": 117,
     "nombre_web": "Lolina Shop",
     "empresa": "Lolina Shop",
     "url": "https://lolinashop.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra ropa femenina casual y cómoda para el día a día. Explora colecciones versátiles y accesibles online. Encuentra prendas básicas y tendencias actuales. Ideal para mujeres que buscan comodidad sin sacrificar estilo, con prendas fáciles de combinar y precios asequibles para renovar su armario constantemente.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda femenina",
-      "ropa actual",
-      "look casual",
-      "compras web",
-      "nueva temporada"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#RopaCasual", "#ModaFemenina"]
   },
   {
     "id": 118,
     "nombre_web": "Singular Barcelona",
     "empresa": "Singular Barcelona",
     "url": "https://singularbarcelona.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Descubre moda femenina de diseño local y producción limitada. Compra prendas únicas con sello barcelonés. Explora colecciones cuidadas con atención al detalle. Ideal para mujeres que buscan exclusividad y apoyo al diseño local, encontrando piezas especiales que conectan con la creatividad y estilo de Barcelona.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "diseño local",
-      "prendas unicas",
-      "moda creativa",
-      "tienda web",
-      "colecciones limitadas"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DisenioLocal", "#PrendasUnicas"]
   },
   {
     "id": 119,
     "nombre_web": "La gata loca",
     "empresa": "La Gata Loca",
     "url": "https://lagatalocaonline.com/es/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra moda femenina divertida y colorida con estilo desenfadado. Explora diseños originales y alegres online. Encuentra prendas que transmiten personalidad. Ideal para mujeres jóvenes que buscan un look fresco, atrevido y lleno de color, con propuestas que rompen con lo convencional en moda urbana.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "estilo divertido",
-      "prendas coloridas",
-      "moda femenina",
-      "tienda online",
-      "nueva temporada"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloDivertido", "#RopaColorida"]
   },
   {
     "id": 120,
     "nombre_web": "Waipai",
     "empresa": "Waipai",
     "url": "http://www.waipai.com",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra ropa femenina cómoda y fresca para el verano. Explora colecciones casual con estilo mediterráneo. Encuentra prendas ligeras y versátiles. Ideal para mujeres que buscan outfits relajados y ponibles en clima cálido, con diseños frescos y materiales transpirables para el día a día o vacaciones.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda femenina",
-      "prendas veraniegas",
-      "tienda online",
-      "estilo casual",
-      "nueva coleccion"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#PrendasVeraniegas", "#EstiloCasual"]
   },
   {
     "id": 121,
     "nombre_web": "Smile",
     "empresa": "Smile",
     "url": "https://lawebdesmile.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra moda femenina colorida y alegre online. Descubre colecciones frescas y modernas con diseños vibrantes que transmiten energía positiva. Explora prendas para el día a día con estilo desenfadado. Ideal para mujeres jóvenes que quieren expresar alegría a través de su vestuario, con piezas únicas y tendencias actuales a precios accesibles.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda alegre",
-      "ropa colorida",
-      "tienda online",
-      "look casual",
-      "novedades mujer"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#RopaAlegre", "#ModaColorida"]
   },
   {
     "id": 122,
     "nombre_web": "Visto luego existo",
     "empresa": "Visto Luego Existo",
     "url": "https://www.vistoluegoexisto.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Explora moda femenina con diseños originales y diferentes. Compra prendas que destacan por su creatividad, personalidad única y mensajes inspiradores. Descubre colecciones限量 y producción local. Perfecto para quienes buscan vestir de forma auténtica, alejada de lo convencional, con ropa que cuenta historias y genera conversación.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "diseño original",
-      "moda diferente",
-      "tienda online",
-      "look creativo",
-      "nueva temporada"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DisenioOriginal", "#RopaDiferente"]
   },
   {
     "id": 123,
     "nombre_web": "Padana",
     "empresa": "Padana",
     "url": "https://padana.es/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra moda femenina actualizada con las últimas tendencias de temporada. Descubre colecciones modernas para cada ocasión con envío rápido y devoluciones sencillas. Explora prendas versátiles y cómodas. Ideal para renovar tu armario constantemente con propuestas actuales, de fácil combinación y calidad ajustada para el día a día urbano.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda mujer",
-      "prendas actuales",
-      "tienda online",
-      "look casual",
-      "coleccion nueva"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#PrendasActuales", "#NuevaColeccion"]
   },
   {
     "id": 124,
     "nombre_web": "Desigual",
     "empresa": "Desigual",
     "url": "https://www.desigual.com/es_ES/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra ropa con los icónicos estampados y diseños creativos de Desigual. Explora colecciones para mujer, hombre y accesorios llenas de color y originalidad. Disfruta de moda atrevida con calidad garantizada y campañas inspiradoras. Ideal para quienes buscan expresar su individualidad con piezas únicas que rompen esquemas convencionales.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda colorida",
-      "estampados unicos",
-      "tienda online",
-      "coleccion mujer",
-      "look urbano"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstampadosUnicos", "#ModaColorida"]
   },
   {
     "id": 125,
     "nombre_web": "Ipanima",
     "empresa": "Ipanima",
     "url": "https://www.ipanima.fr/es/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Descubre moda francesa elegante y sofisticada para mujer. Compra prendas de calidad con envío a España. Explora diseños refinados con corte parisino y tejidos premium. Ideal para quienes buscan estilo europeo de alta gama, con piezas atemporales que aportan distinción y clase al vestuario profesional y social.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda francesa",
-      "coleccion mujer",
-      "tienda online",
-      "estilo elegante",
-      "prendas color"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ModaFrancesa", "#EstiloElegante"]
   },
   {
     "id": 126,
     "nombre_web": "Corsetería Singular",
     "empresa": "Singular",
     "url": "https://corseteriasingular.com/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa.",
+    "descripcion": "Compra lencería fina y tallas grandes online. Encuentra prendas íntimas de calidad con diseño español, ajuste perfecto y materiales premium. Ideal para mujeres que buscan comodidad, elegancia y soporte especializado en lencería, con asesoramiento personalizado y colecciones que realzan la figura sin sacrificar estilo.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "lenceria mujer",
-      "corseteria fina",
-      "tallas grandes",
-      "tienda online",
-      "ajuste perfecto"
-    ]
+    "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#LenceriaFina", "#TallasGrandes"]
   },
   {
     "id": 127,
     "nombre_web": "Pedro del Hierro",
     "empresa": "Pedro del Hierro",
     "url": "https://pedrodelhierro.com",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Ropa. Moda para hombre y mujer.",
+    "descripcion": "Explora moda premium española para hombre y mujer con elegancia atemporal. Compra prendas de diseño refinado, calidad superior y corte impecable. Ideal para profesionales que buscan sofisticación en su vestuario, con colecciones que equilibran classicismo y tendencias para el día a día ejecutivo y ocasiones especiales.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "moda elegante",
-      "prendas calidad",
-      "tienda online",
-      "coleccion hombre",
-      "coleccion mujer"
-    ]
+    "tags": ["#Moda", "#TiendaOnline", "#ComprasRopa"]
   },
   {
     "id": 128,
     "nombre_web": "Calzado · referencia",
     "empresa": "Google",
     "url": "https://www.google.es/",
-    "descripcion": "Recurso en la categoría Ropa y calzado. Subcategoría: Calzado. Enlace de referencia genérico (pendiente de recurso final).",
+    "descripcion": "Busca zapatos y calzado online a través de Google. Compara opciones de diferentes tiendas, encuentra las mejores ofertas y descubre nuevas marcas. Herramienta de referencia para explorar tendencias. Ideal como punto de partida para investigar calzado antes de comprar en tiendas especializadas, con acceso a imágenes y precios rápidamente.",
     "categoria": "Ropa y calzado",
-    "tags": [
-      "buscador calzado",
-      "compras zapatos",
-      "ofertas botas",
-      "tendencias sneakers",
-      "marcas deportivas"
-    ]
+    "tags": ["#ModaComplementos", "#BuscadorZapatos", "#TendenciasCalzado", "#ComprasDeportivas", "#MarcasSneakers"]
   },
   {
     "id": 129,
     "nombre_web": "Physics.org",
     "empresa": "Institute of Physics",
     "url": "https://www.physics.org/",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Portal de recursos de física.",
+    "descripcion": "Explora recursos educativos de física para estudiantes y profesores. Accede a experimentos interactivos, explicaciones conceptuales y noticias científicas actualizadas. Ideal para aprender y enseñar física de forma práctica, con contenido adaptado a diferentes niveles educativos y aplicaciones reales de la física en el mundo moderno.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "recursos fisica",
-      "divulgacion cientifica",
-      "articulos educacion",
-      "experimentos clase",
-      "temas fisica"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#FisicaGeneral", "#ExperimentosClase", "#DivulgacionCientifica"]
   },
   {
     "id": 130,
     "nombre_web": "HyperPhysics",
     "empresa": "Georgia State University",
     "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: IA. Conceptos de física explicados.",
+    "descripcion": "Consulta conceptos de física explicados gráficamente mediante mapas conceptuales. Navega por fórmulas detalladas, ejemplos y relaciones temáticas. Perfecto para estudiantes universitarios que necesitan repasar física de forma visual y estructurada, con acceso rápido a mecánica, termodinámica, electromagnetismo y óptica con profundidad académica.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "conceptos fisica",
-      "diagramas concepto",
-      "formulas basicas",
-      "temas avanzados",
-      "mapas teoria"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#MapasConceptuales", "#FormulasFisica", "#AprendizajeTecnico"]
   },
   {
     "id": 131,
     "nombre_web": "Chemistry LibreTexts (EN)",
     "empresa": "LibreTexts",
     "url": "https://chem.libretexts.org/",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Biblioteca de recursos de química.",
+    "descripcion": "Accede a una biblioteca completa de recursos de química en inglés. Lee temas avanzados desde fundamentos hasta química orgánica, con ejercicios resueltos, laboratorios virtuales y referencias académicas. Ideal para estudiantes universitarios que necesitan material de estudio gratuito, riguroso y actualizado en química, con posibilidad de descargar capítulos en PDF.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "biblioteca quimica",
-      "recursos docentes",
-      "laboratorio virtual",
-      "capitulos abiertos",
-      "problemas resueltos"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#QuimicaAvanzada", "#LaboratorioVirtual", "#ProblemasResueltos"]
   },
   {
     "id": 132,
     "nombre_web": "Royal Society of Chemistry (EN)",
     "empresa": "Royal Society of Chemistry",
     "url": "https://www.rsc.org/",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Inglés. Recursos y educación en química.",
+    "descripcion": "Explora recursos educativos y profesionales de química de la Royal Society. Accede a artículos científicos, actividades docentes para secundaria, publicaciones de investigación y noticias del sector. Perfecto para educadores y estudiantes de nivel avanzado que buscan material de calidad académica y actualizaciones sobre avances químicos globales.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "recursos quimica",
-      "educacion secundaria",
-      "revistas ciencia",
-      "experimentos aula",
-      "actividades docentes"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#EducacionSecundaria", "#RevistasCientificas", "#ActividadesDocentes"]
   },
   {
     "id": 133,
     "nombre_web": "Chemistry LibreTexts (EN) · Música",
     "empresa": "LibreTexts",
     "url": "https://chem.libretexts.org/",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Biblioteca de química (marcado en tu borrador dentro de Música).",
+    "descripcion": "Biblioteca de recursos avanzados de química en inglés (organizada en tu sistema bajo música). Accede a contenido educativo gratuito con laboratorios virtuales, ejercicios prácticos y teoría completa. Ideal para estudio autónomo universitario con material académico riguroso y ejemplos interactivos que facilitan la comprensión de conceptos complejos.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "biblioteca quimica",
-      "recursos docentes",
-      "laboratorio virtual",
-      "capitulos abiertos",
-      "problemas resueltos"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#QuimicaAvanzada", "#LaboratorioVirtual", "#ProblemasResueltos"]
   },
   {
     "id": 134,
     "nombre_web": "Royal Society of Chemistry (EN) · Música",
     "empresa": "Royal Society of Chemistry",
     "url": "https://www.rsc.org/",
-    "descripcion": "Recurso en la categoría Youtube - Pending. Subcategoría: Música. Repetido en borrador dentro de Música; se mantiene por fidelidad.",
+    "descripcion": "Recursos de química de la Royal Society (repetido en tu organización bajo música). Explora material educativo para niveles avanzados, publicaciones científicas y herramientas docentes. Perfecto para acceder a contenido de referencia internacional en química, con enfoque en investigación actual y mejores prácticas educativas del sector.",
     "categoria": "Youtube - Pending",
-    "tags": [
-      "recursos quimica",
-      "educacion secundaria",
-      "revistas ciencia",
-      "experimentos aula",
-      "actividades docentes"
-    ]
+    "tags": ["#RecursosEducacion", "#CienciaOnline", "#EducacionSecundaria", "#RevistasCientificas", "#ActividadesDocentes"]
   },
   {
     "id": 135,
     "nombre_web": "SEPE · Empléate",
     "empresa": "SEPE",
     "url": "https://www.empleate.gob.es/empleo/#/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Agrega ofertas de múltiples portales.",
+    "descripcion": "Busca ofertas de empleo agregadas de múltiples portales públicos. Postúlate online a vacantes del gobierno, organismos públicos y empresas colaboradoras. Ideal para encontrar trabajo estable con respaldo oficial, accediendo a convocatorias de empleo público y privado desde una única plataforma estatal gratuita y sin intermediarios.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "agregador ofertas",
-      "empleo publico",
-      "busqueda trabajo",
-      "perfiles variados",
-      "candidatura online"
-    ]
+    "tags": ["#EmpleoTech", "#PortalPublico", "#AgregadorOfertas", "#CandidaturaOnline", "#PerfilesVariados"]
   },
   {
     "id": 136,
     "nombre_web": "InfoJobs",
     "empresa": "InfoJobs",
     "url": "https://www.infojobs.net/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
+    "descripcion": "Busca y postúlate a miles de ofertas de empleo en España. Sube tu CV, recibe alertas personalizadas y aplica directamente con un clic. Explora perfiles de empresas y salarios. La plataforma líder para encontrar trabajo rápidamente en el mercado español, con la mayor base de datos de vacantes actualizadas diariamente.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "ofertas empleo",
-      "portal lider",
-      "curriculums rapidos",
-      "busqueda avanzada",
-      "alertas trabajo"
-    ]
+    "tags": ["#EmpleoTech", "#PortalPrivado", "#OfertasEmpleo", "#CurriculumOnline", "#AlertasTrabajo"]
   },
   {
     "id": 137,
     "nombre_web": "RemoteOK",
     "empresa": "Remote OK",
     "url": "https://remoteok.com",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
+    "descripcion": "Encuentra trabajo remoto en tecnología con salarios en USD publicados. Filtra por desarrollo, diseño, marketing digital y más. Aplica directamente a empresas globales. Ideal para profesionales que buscan libertad geográfica, negociar en dólares y trabajar desde cualquier lugar del mundo con las mejores startups internacionales.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "empleo remoto",
-      "tech jobs",
-      "salarios usd",
-      "empresas globales",
-      "filtrado rapido"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#SalariosUSD", "#EmpresasGlobales", "#TechJobs"]
   },
   {
     "id": 138,
     "nombre_web": "Remotive",
     "empresa": "Remotive",
     "url": "https://remotive.com",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto.",
+    "descripcion": "Descubre ofertas de trabajo remoto cuidadosamente curadas. Suscríbete a newsletter con nuevas vacantes diarias en tu bandeja. Únete a una comunidad activa de profesionales remotos. Perfecto para encontrar empleo flexible de calidad, evitando ofertas fraudulentas y conectando con empresas remote-first que valoran el trabajo distribuido.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "trabajo remoto",
-      "listados tech",
-      "comunidad remota",
-      "newsletter empleos",
-      "ofertas actualizadas"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#ComunidadRemota", "#NewsletterEmpleos", "#ListadosTech"]
   },
   {
     "id": 139,
     "nombre_web": "Wellfound",
     "empresa": "Wellfound",
     "url": "https://wellfound.com",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo en startups.",
+    "descripcion": "Postúlate a empleos en startups de tecnología con equity incluido. Conecta directamente con fundadores y recibe propuestas personalizadas. Explora cultura y salarios de startups. Ideal para buscar trabajo en empresas innovadoras en fase de crecimiento, donde tu impacto es directo y participas del éxito futuro con opciones sobre acciones.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "empleo startups",
-      "capital riesgo",
-      "perfiles tech",
-      "fundadores activos",
-      "candidatura directa"
-    ]
+    "tags": ["#EmpleoTech", "#StartupsTech", "#CapitalRiesgo", "#CandidaturaDirecta", "#FundadoresActivos"]
   },
   {
     "id": 140,
     "nombre_web": "FlexJobs",
     "empresa": "FlexJobs",
     "url": "https://www.flexjobs.com/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo remoto y flexible.",
+    "descripcion": "Accede a ofertas de trabajo remoto y flexible cuidadosamente validadas. Filtra por tiempo parcial, freelance o horario flexible con garantía de ser real. Con cuidadosa curación para evitar estafas. Perfecto para madres, cuidadores y quienes necesitan equilibrar vida personal y profesional con empleos de confianza y flexibilidad real.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "trabajo flexible",
-      "remote friendly",
-      "curacion ofertas",
-      "suscripcion paga",
-      "categorias varias"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#CuracionOfertas", "#CategoriasVariadas", "#RemoteFriendly"]
   },
   {
     "id": 141,
     "nombre_web": "We Work Remotely",
     "empresa": "We Work Remotely",
     "url": "https://weworkremotely.com/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Portal especializado en remoto.",
+    "descripcion": "Encuentra las mejores ofertas de trabajo remoto del mundo. Explora vacantes de empresas top como Amazon, GitHub y Stripe. Publicación diaria de empleos 100% remotos. Ideal para profesionales experimentados que buscan posiciones de impacto con sueldos competitivos sin restricciones geográficas en el sector tech.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "portal remoto",
-      "puestos tech",
-      "ofertas diarias",
-      "empresas top",
-      "filtrado categorias"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#OfertasDiarias", "#EmpresasTop", "#PortalRemoto"]
   },
   {
     "id": 142,
     "nombre_web": "Vacantes Remotas",
     "empresa": "Vacantes Remotas",
     "url": "https://www.vacantesremotas.com",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo.",
+    "descripcion": "Busca empleo remoto en español para LATAM y España. Postúlate rápidamente sin procesos de registro complejos. Recibe alertas de vacantes en tu idioma. Ideal para hablantes hispanos que buscan trabajo flexible con empresas globales, evitando barreras idiomáticas y conectando con oportunidades remote adaptadas al mercado hispano.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "empleo remoto",
-      "ofertas espanol",
-      "latam remoto",
-      "trabajos digitales",
-      "postulacion rapida"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#OfertasEspanol", "#LatamRemoto", "#PostulacionRapida"]
   },
   {
     "id": 143,
     "nombre_web": "Get on Board",
     "empresa": "Get on Board",
     "url": "https://www.getonbrd.com/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Empleo tech en LATAM y remoto.",
+    "descripcion": "Encuentra trabajo tech en LATAM con salarios transparentes desde el inicio. Aplica directamente a ofertas de desarrollo, diseño y producto sin intermediarios. Explora empresas de la región. Ideal para profesionales de habla hispana en tecnología que buscan oportunidades remotas o locales con empresas que valoran la transparencia y cultura latina.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "empleos latam",
-      "tecnologia remota",
-      "ofertas curadas",
-      "salarios abiertos",
-      "postulacion directa"
-    ]
+    "tags": ["#EmpleoTech", "#TrabajoRemoto", "#OfertasLatam", "#SalariosAbiertos", "#PostulacionDirecta"]
   },
   {
     "id": 144,
     "nombre_web": "Malt",
     "empresa": "Malt",
     "url": "https://www.malt.es/",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Marketplace para freelance.",
+    "descripcion": "Contrata o trabaja como freelance en proyectos digitales europeos. Crea tu perfil profesional, define tarifas transparentes y recibe pagos protegidos por escrow. Conecta con clientes de toda Europa. Ideal para profesionales independientes que buscan proyectos de calidad sin preocuparse por la facturación internacional ni la seguridad de cobro.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "freelance europa",
-      "proyectos empresa",
-      "tarifas visibles",
-      "contratos seguros",
-      "pagos protegidos"
-    ]
+    "tags": ["#EmpleoTech", "#FreelanceEuropa", "#ProyectosDigitales", "#PagosProtegidos", "#TarifasVisibles"]
   },
   {
     "id": 145,
     "nombre_web": "Pros Marketplace",
     "empresa": "Pros Marketplace",
     "url": "https://prosmarketplace.com/es",
-    "descripcion": "Recurso en la categoría Ofertas de trabajo. Subcategoría: Ofertas de trabajo. Plataforma para profesionales freelance.",
+    "descripcion": "Encuentra proyectos freelance como profesional verificado. Publica tu portafolio, demuestra expertise y recibe contrataciones directas sin competir en price dumping. Plataforma europea para expertos. Ideal para consultores y especialistas senior que quieren proyectos retadores con clientes que valoran la calidad sobre el precio más bajo.",
     "categoria": "Ofertas de trabajo",
-    "tags": [
-      "servicios freelance",
-      "profesionales verificados",
-      "proyectos puntuales",
-      "contratacion rapida",
-      "portafolio publico"
-    ]
+    "tags": ["#EmpleoTech", "#FreelanceEuropa", "#ProfesionalesVerificados", "#ContratacionRapida", "#PortafolioPublico"]
   }
- ]
+]
