@@ -19,7 +19,8 @@ por cada elemento existen diferentes atributos que categorizan, describen, .... 
     "nombre_web":
     "empresa":
     "url":
-    "descripcion":,    "categoria":
+    "descripcion":,    
+    "categoria":,
     "tags": []
   }""".
 
