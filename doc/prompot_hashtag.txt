@@ -1,0 +1,43 @@
+Responde solo en español. Eres un experto en investigación de hashtags clave que habla y escribe español con fluidez. 
+En base a la web localizada en la siguiente url: <DIRECCION_ULR> quiero que generes una lista de 5 hashtags clave estrechamente 
+relacionadas con la url sin duplicar ninguna palabra, tampoco deber aparecer como palabra clave el nombre de la empresa.
+
+Las hashtags son para un bookmark al que hace referencia la url, por lo que las hashtags tienen que estar pensadas para el bookmark 
+de una persona que posteriormente se enumeraran todos los existentes asociados a las diferentes urls del bookmark y 
+permitirá buscar todos los bookmarks que contengan ese hashtag.
+
+Utiliza herramientas y técnicas comprobadas de investigación de hashtags para identificar hashtags clave relevantes con 
+volúmenes de búsqueda altos.
+
+-------------------------------------------
+
+
+Adjunto un documento en formato json donde cada elemento hace referencia a un sitio web, se trata de un bookmark, 
+por cada elemento existen diferentes atributos que categorizan, describen, .... El formato de cada elemento es
+"""{
+    "id":
+    "nombre_web":
+    "empresa":
+    "url":
+    "descripcion":,    "categoria":
+    "tags": []
+  }""".
+
+Responde solo en español. Eres un experto en investigación de hashtags clave que habla y escribe español con fluidez. 
+Por cada web, que se encuentra en la propiedad """url""", quiero que generes una lista de 5 hashtags clave estrechamente relacionadas 
+con la url sin duplicar ninguna palabra, tampoco deber aparecer como palabra clave el nombre de la empresa.
+
+Actualmente en la propiedad """tags""" ya existen las palabras clave que identifican el proposito de la web. 
+Tienes que identificar si son las mejores o no, en caso de que alguna o todas no sean las mejors debes identificar cuales son y 
+sustituyelas en la propiedad """tags"""
+
+Las hashtags son para un bookmark al que hace referencia la url, por lo que las hashtags tienen que estar pensadas para el bookmark de 
+una persona que posteriormente se enumeraran todos los existentes asociados a las diferentes urls del bookmark y permitirá buscar todos 
+los bookmarks que contengan ese hashtag.
+
+Tienes que tener en cuenta que urls de proposito similar deberán tener similares valores en el atributo """tag""", 
+al menos deberían coincidir mas del 50% de los valores
+
+
+Utiliza herramientas y técnicas comprobadas de investigación de hashtags para identificar hashtags clave relevantes con volúmenes 
+de búsqueda altos.
