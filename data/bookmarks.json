@@ -392,8 +392,8 @@
     "empresa": "ForoPrompt",
     "url": "https://foroprompt.com/",
     "descripcion": "Conecta con una comunidad activa de ingenieros de prompts. Comparte, discute y mejora tus prompts para IA generativa. Accede a tutoriales, debates técnicos y casos de estudio. Aprende técnicas avanzadas de prompting de expertos. Ideal para profesionales y entusiastas que quieren dominar el arte de comunicarse con IA, resolver problemas específicos y colaborar en proyectos de generación de contenido, con feedback constructivo y recursos compartidos.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#ForoPrompts", "#DebatesTecnicos"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#ForoPrompts", "#Prompts"]
   },
   {
     "id": 45,
@@ -401,8 +401,8 @@
     "empresa": "PromptHero",
     "url": "https://prompthero.com/",
     "descripcion": "Explora un catálogo masivo de prompts probados con imágenes generadas. Busca por estilo, modelo o categoría. Copia prompts efectivos para Stable Diffusion, Midjourney y más. Encuentra inspiración visual para tus proyectos. Guarda colecciones y sigue creadores. Ideal para diseñadores, artistas AI y generadores de contenido que buscan referencias visuales y prompts funcionales, con resultados documentados y comunidad creativa.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GaleriaPrompts", "#InspiracionVisual"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GaleriaPrompts", "#Prompts"]
   },
   {
     "id": 46,
@@ -410,8 +410,8 @@
     "empresa": "PromptDen",
     "url": "https://promptden.com/",
     "descripcion": "Accede a un repositorio curado de prompts para múltiples modelos de IA. Navega por categorías, calificaciones y popularidad. Descarga prompts optimizados para diferentes casos de uso. Contribuye con tus propias creaciones. Ideal para desarrolladores y creativos que necesitan prompts de calidad probados, con sistema de votación y ejemplos claros para implementación rápida en proyectos personales o comerciales.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#RepositorioPrompts", "#EjemplosCurados"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#RepositorioPrompts", "#Prompts"]
   },
   {
     "id": 47,
@@ -419,8 +419,8 @@
     "empresa": "Workmind",
     "url": "https://workmind.ai/ai-prompt-library/",
     "descripcion": "Navega por una librería de prompts organizados por casos de uso empresarial. Encuentra prompts para marketing, ventas, análisis de datos y productividad. Cada prompt viene con instrucciones de implementación. Filtra por industria y objetivo. Ideal para profesionales que buscan soluciones IA listas para usar en entornos corporativos, con enfoque en ROI y eficiencia operativa, sin necesidad de experimentación previa.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#LibreriaNegocio", "#MejoresPracticas"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#Prompts", "#MejoresPracticas"]
   },
   {
     "id": 48,
@@ -428,8 +428,8 @@
     "empresa": "Prompt Library",
     "url": "https://promptlibrary.org/",
     "descripcion": "Consulta una biblioteca extensa de prompts para escritura, código y creatividad. Busca prompts específicos por tarea, con ejemplos de entrada/salida. Accede a guías de mejores prácticas. Colabora con la comunidad. Ideal para escritores, desarrolladores y productivos que quieren aprovechar IA para tareas específicas sin reinventar prompts, con documentación clara y casos de uso reales.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#BibliotecaPrompts", "#RecursosEscritura"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#BibliotecaPrompts", "#Prompts"]
   },
   {
     "id": 49,
@@ -437,8 +437,8 @@
     "empresa": "Aimind",
     "url": "https://www.aimind.so/prompt-generator?email=",
     "descripcion": "Genera prompts optimizados automáticamente para tus necesidades específicas. Describe tu objetivo y obtén prompts refinados para ChatGPT, Midjourney u otros modelos. Mejora prompts existentes con sugerencias automáticas. Ideal para usuarios que luchan con el prompting efectivo y quieren resultados profesionales sin conocimientos técnicos, con generación inteligente basada en objetivos claros.",
-    "categoria": "Prompts",
-    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GeneradorPrompts", "#SugerenciasCreativas"]
+    "categoria": "IA",
+    "tags": ["#PromptEngineering", "#RecursosIA", "#ComunidadCreativa", "#GeneradorPrompts", "#Prompts"]
   },
   {
     "id": 50,
@@ -972,33 +972,6 @@
     "tags": ["#VocabularioIngles", "#LibrosGratis", "#LecturasGraduadas", "#MaterialDocente", "#DescargasUtiles"]
   },
   {
-    "id": 109,
-    "nombre_web": "YouTube · ChatGPT (tutorial 2025)",
-    "empresa": "YouTube",
-    "url": "https://youtu.be/D2b-b-gQyzg?si=Xd8sjtCKjI3v2u2N",
-    "descripcion": "Mira un tutorial completo de ChatGPT actualizado a 2025. Aprende trucos avanzados, casos prácticos y nuevas funciones con una guía paso a paso. Ideal para usuarios que quieren aprovechar al máximo ChatGPT, con demostraciones visuales de prompts efectivos, automatizaciones y las últimas novedades de la plataforma.",
-    "categoria": "ToDo",
-    "tags": ["#VideoTutorial", "#GuiaCompleta", "#ChatGPT2025", "#CasosPracticos", "#TrucosIA"]
-  },
-  {
-    "id": 110,
-    "nombre_web": "YouTube · Gemini Coder",
-    "empresa": "YouTube",
-    "url": "https://www.youtube.com/watch?v=5-cFSXztfsM",
-    "descripcion": "Observa una demostración creando aplicaciones en segundos con Gemini Coder. Aprende a generar código funcional desde prompts simples. Ideal para desarrolladores que quieren acelerar su workflow, viendo cómo la IA puede construir apps completas, con ejemplos reales y técnicas de prompting para desarrollo rápido.",
-    "categoria": "ToDo",
-    "tags": ["#VideoTutorial", "#DemostracionCodigo", "#AppsRapidas", "#AprendizajeGuiado", "#GeminiCoder"]
-  },
-  {
-    "id": 111,
-    "nombre_web": "YouTube · Curso de Pandas (playlist)",
-    "empresa": "YouTube",
-    "url": "https://www.youtube.com/playlist?list=PLp0BA-8NZ4bgNDMxQojvn6eg71jaaRaYZ",
-    "descripcion": "Sigue un curso completo de Pandas en formato de playlist. Domina análisis de datos con Python viendo videos ordenados desde cero hasta avanzado. Ideal para aprendices de data science que prefieren aprender visualmente, con ejemplos prácticos y explicaciones paso a paso que puedes reproducir en tu propio entorno.",
-    "categoria": "ToDo",
-    "tags": ["#PlaylistCurso", "#TutorialPandas", "#AnalisisDatos", "#ProgramacionPython", "#DataScience"]
-  },
-  {
     "id": 112,
     "nombre_web": "Naf Naf",
     "empresa": "Naf Naf",
@@ -1157,7 +1130,7 @@
     "empresa": "Institute of Physics",
     "url": "https://www.physics.org/",
     "descripcion": "Explora recursos educativos de física para estudiantes y profesores. Accede a experimentos interactivos, explicaciones conceptuales y noticias científicas actualizadas. Ideal para aprender y enseñar física de forma práctica, con contenido adaptado a diferentes niveles educativos y aplicaciones reales de la física en el mundo moderno.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#FisicaGeneral", "#ExperimentosClase", "#DivulgacionCientifica"]
   },
   {
@@ -1166,7 +1139,7 @@
     "empresa": "Georgia State University",
     "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
     "descripcion": "Consulta conceptos de física explicados gráficamente mediante mapas conceptuales. Navega por fórmulas detalladas, ejemplos y relaciones temáticas. Perfecto para estudiantes universitarios que necesitan repasar física de forma visual y estructurada, con acceso rápido a mecánica, termodinámica, electromagnetismo y óptica con profundidad académica.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#MapasConceptuales", "#FormulasFisica", "#AprendizajeTecnico"]
   },
   {
@@ -1175,7 +1148,7 @@
     "empresa": "LibreTexts",
     "url": "https://chem.libretexts.org/",
     "descripcion": "Accede a una biblioteca completa de recursos de química en inglés. Lee temas avanzados desde fundamentos hasta química orgánica, con ejercicios resueltos, laboratorios virtuales y referencias académicas. Ideal para estudiantes universitarios que necesitan material de estudio gratuito, riguroso y actualizado en química, con posibilidad de descargar capítulos en PDF.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#QuimicaAvanzada", "#LaboratorioVirtual", "#ProblemasResueltos"]
   },
   {
@@ -1184,7 +1157,7 @@
     "empresa": "Royal Society of Chemistry",
     "url": "https://www.rsc.org/",
     "descripcion": "Explora recursos educativos y profesionales de química de la Royal Society. Accede a artículos científicos, actividades docentes para secundaria, publicaciones de investigación y noticias del sector. Perfecto para educadores y estudiantes de nivel avanzado que buscan material de calidad académica y actualizaciones sobre avances químicos globales.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#EducacionSecundaria", "#RevistasCientificas", "#ActividadesDocentes"]
   },
   {
@@ -1193,7 +1166,7 @@
     "empresa": "LibreTexts",
     "url": "https://chem.libretexts.org/",
     "descripcion": "Biblioteca de recursos avanzados de química en inglés (organizada en tu sistema bajo música). Accede a contenido educativo gratuito con laboratorios virtuales, ejercicios prácticos y teoría completa. Ideal para estudio autónomo universitario con material académico riguroso y ejemplos interactivos que facilitan la comprensión de conceptos complejos.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#QuimicaAvanzada", "#LaboratorioVirtual", "#ProblemasResueltos"]
   },
   {
@@ -1202,7 +1175,7 @@
     "empresa": "Royal Society of Chemistry",
     "url": "https://www.rsc.org/",
     "descripcion": "Recursos de química de la Royal Society (repetido en tu organización bajo música). Explora material educativo para niveles avanzados, publicaciones científicas y herramientas docentes. Perfecto para acceder a contenido de referencia internacional en química, con enfoque en investigación actual y mejores prácticas educativas del sector.",
-    "categoria": "Youtube - Pending",
+    "categoria": "Otros",
     "tags": ["#RecursosEducacion", "#CienciaOnline", "#EducacionSecundaria", "#RevistasCientificas", "#ActividadesDocentes"]
   },
   {
