@@ -167,8 +167,8 @@
     "empresa": "MiniMax",
     "url": "https://agent.minimax.io/",
     "descripcion": "Agente autónomo para desarrollo de aplicaciones. Crea apps web, analiza datos y automatiza flujos de trabajo complejos con coordenación multi-agente. Genera código, ejecuta pruebas y despliega proyectos. Ideal para desarrolladores que quieren acelerar el ciclo completo de desarrollo con IA autónoma y generación de aplicaciones funcionales.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#AgenteGeneralista", "#CreacionAplicaciones"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#AgenteGeneralista", "#CreacionAplicaciones"]
   },
   {
     "id": 20,
@@ -176,8 +176,8 @@
     "empresa": "Manus",
     "url": "https://manus.im/",
     "descripcion": "Agente autónomo avanzado para ejecución de tareas complejas. Coordina múltiples herramientas, navega web, ejecuta código y gestiona proyectos sin supervisión. Ideal para automatización de workflows empresariales, investigación intensiva y tareas que requieren planificación multi-paso con ejecución independiente.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#AgenteAutonomo", "#WorkflowComplejo"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#AgenteAutonomo", "#WorkflowComplejo"]
   },
   {
     "id": 21,
@@ -185,8 +185,8 @@
     "empresa": "Meitu",
     "url": "https://www.roboneo.com/home",
     "descripcion": "Genera y edita imágenes/videos por conversación. Accede a herramientas creativas con IA para crear contenido visual profesional sin conocimientos técnicos. Ideal para creadores de contenido, marketers y diseñadores que buscan agilizar su producción de multimedia mediante prompts intuitivos.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#EdicionImagen", "#VideoCreativo"]
+    "categoria": "IA",
+    "tags": ["#GeneracionVisual","#CreatividadDigital","#MultimediaIA", "#EdicionImagen", "#VideoCreativo"]
   },
   {
     "id": 22,
@@ -194,8 +194,8 @@
     "empresa": "GitHub",
     "url": "https://github.com/copilot",
     "descripcion": "Asistente de código AI integrado en VS Code y GitHub. Autocompleta, genera funciones, explica código y documenta proyectos. Acelera tu desarrollo con sugerencias contextualizadas de millones de repositorios. Ideal para programadores que quieren productividad máxima dentro de su entorno de trabajo habitual.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ParejaProgramacion", "#DocumentacionContextual"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#ParejaProgramacion", "#DocumentacionContextual"]
   },
   {
     "id": 23,
@@ -203,8 +203,8 @@
     "empresa": "Google",
     "url": "https://stitch.withgoogle.com",
     "descripcion": "Genera interfaces web y móviles desde prompts. Crea prototipos visuales funcionales con código listo para usar. Convierte descripciones textuales en componentes UI modernos. Ideal para diseñadores y desarrolladores frontend que necesitan acelerar la creación de prototipos y pasar rápido de la idea a la implementación visual.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#UIGenerativa", "#PrototiposRapidos"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#UIGenerativa", "#PrototiposRapidos"]
   },
   {
     "id": 24,
@@ -212,8 +212,8 @@
     "empresa": "Vercel",
     "url": "https://v0.app/",
     "descripcion": "Builder agent que transforma prompts en aplicaciones web desplegadas. Genera código React, estilos Tailwind y despliega instantáneamente en Vercel. Crea desde landing pages hasta apps interactivas. Ideal para desarrolladores y emprendedores que quieren lanzar ideas al instante sin configuración manual.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ConstructorInterfaces", "#DeployAutomatico"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#ConstructorInterfaces", "#DeployAutomatico"]
   },
   {
     "id": 25,
@@ -221,8 +221,8 @@
     "empresa": "StackBlitz",
     "url": "https://bolt.new/",
     "descripcion": "Construye proyectos completos y publícalos desde el navegador. Editor web potente con autocompletado inteligente y despliegue instantáneo. Desarrolla apps modernas sin instalaciones ni configuración. Ideal para prototipos rápidos, tutoriales y desarrollo colaborativo en tiempo real.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ProyectosCompletos", "#EditorWeb"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#ProyectosCompletos", "#EditorWeb"]
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "empresa": "Replit",
     "url": "https://replit.com/",
     "descripcion": "IDE online con agentes IA para crear apps y páginas web. Codifica, depura y despliega sin instalaciones. Colabora en tiempo real con tu equipo. Soporta múltiples lenguajes con infraestructura lista para usar. Ideal para educación, prototipos y desarrollo ágil en equipo sin configuración de entorno.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#IDEOnline", "#ColaboracionTiempoReal"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#IDEOnline", "#ColaboracionTiempoReal"]
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "empresa": "Google",
     "url": "https://aistudio.google.com/",
     "descripcion": "Consola oficial de Google para Gemini API. Genera claves API, prueba modelos, ajusta parámetros y experimenta con prompts. Accede a documentación, ejemplos de código y métricas de uso. Ideal para desarrolladores que integran Gemini en aplicaciones y necesitan un entorno de desarrollo controlado.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ConsolaAPI", "#PruebasGemini"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#ConsolaAPI", "#PruebasGemini"]
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "empresa": "Websim",
     "url": "https://websim.ai/",
     "descripcion": "Genera webs, juegos y prototipos con modelos de IA seleccionables. Crea experiencias interactivas desde simples prompts. Elige entre diferentes LLMs para variar creatividad y estilo. Ideal para diseñadores experimentales, desarrolladores de juegos y creadores que exploran nuevas formas de generación de contenido web dinámico.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#SitiosGenerativos", "#PrototiposWeb"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#SitiosGenerativos", "#PrototiposWeb"]
   },
   {
     "id": 29,
@@ -257,7 +257,7 @@
     "empresa": "Together AI",
     "url": "https://llamacoder.together.ai/",
     "descripcion": "Portal con modelos especializados en código como Qwen y DeepSeek. Prueba múltiples LLMs para generación de código, explicación de errores y autocompletado. Accede a una playground para comparar rendimiento. Ideal para desarrolladores que evalúan diferentes modelos de código sin necesidad de múltiples APIs.",
-    "categoria": "Programación",
+    "categoria": "IA",
     "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#ModelosCodigo", "#ExplicacionErrores"]
   },
   {
@@ -266,8 +266,8 @@
     "empresa": "Hugging Face",
     "url": "https://huggingface.co/spaces/enzostvs/deepsite",
     "descripcion": "Genera páginas HTML completamente funcionales con un solo prompt. Crea desde landing pages hasta forms interactivos con diseño moderno. Accede a la demo en Hugging Face Spaces. Ideal para desarrolladores frontend que necesitan prototipos HTML rápidos o quieren experimentar con generación de código web automatizada.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#HTMLGenerativo", "#SpacesHuggingFace"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#HTMLGenerativo", "#SpacesHuggingFace"]
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "empresa": "Google",
     "url": "https://studio.firebase.google.com/",
     "descripcion": "Editor y consola integrada para desarrollar apps con Firebase. Crea backends móviles, configura bases de datos, autenticación y hosting. Prueba funciones en tiempo real. Ideal para desarrolladores de apps móviles y web que usan Google Cloud y quieren un entorno de desarrollo unificado para backend sin servidor.",
-    "categoria": "Programación",
-    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#BackendMovil", "#HostingFirebase"]
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#AutocompletadoInteligente", "#BackendMovil", "#ViveCoding"]
   },
   {
     "id": 32,
@@ -284,8 +284,8 @@
     "empresa": "Justicio",
     "url": "https://justicio.es/",
     "descripcion": "Herramienta legal online para consultas jurídicas. Obtén respuestas sobre derecho español, genera documentos y accede a modelos de contratos. Resolve dudas legales básicas sin coste inicial. Ideal para autónomos, pymes y ciudadanos que necesitan asesoramiento legal accesible y rápido para cuestiones cotidianas.",
-    "categoria": "Legal",
-    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#ConsultoriaOnline", "#ModelosContratos", "#ServiciosLegales"]
+    "categoria": "IA",
+    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#Legal", "#ModelosContratos", "#ServiciosLegales"]
   },
   {
     "id": 33,
@@ -293,8 +293,8 @@
     "empresa": "Asesor.legal",
     "url": "https://asesor.legal/",
     "descripcion": "Asesor legal AI para consultas jurídicas básicas. Responde preguntas de derecho español con respuestas rápidas y documentación. Requiere pago para asesoramiento profundo. Ideal para usuarios que necesitan respuestas legales iniciales sin compromiso, con opción de contratar servicios premium para casos complejos.",
-    "categoria": "Legal",
-    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#ConsultoriaOnline", "#RespuestasRapidas", "#ServicioPremium"]
+    "categoria": "IA",
+    "tags": ["#AsesoriaLegal", "#DocumentosJuridicos", "#Legal", "#RespuestasRapidas", "#ServicioPremium"]
   },
   {
     "id": 34,
@@ -302,7 +302,7 @@
     "empresa": "Fliki",
     "url": "https://fliki.ai/",
     "descripcion": "Convierte texto en vídeo con voz AI. Crea contenido multimedia para redes sociales, marketing y educación. Selecciona voces realistas, añade imágenes, música y efectos. Publica en múltiples formatos. Ideal para creadores de contenido, marketers y educadores que producen vídeos de forma ágil sin grabación ni edición manual compleja.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#VideoTexto", "#NarradorVoz"]
   },
   {
@@ -311,7 +311,7 @@
     "empresa": "Piclumen",
     "url": "https://piclumen.com/app/",
     "descripcion": "Genera y edita imágenes con IA de forma profesional. Crea ilustraciones, fotorealismo y arte digital desde prompts. Ajusta estilos, parámetros y realiza ediciones avanzadas. Interfaz intuitiva con modelos de alta calidad. Ideal para diseñadores, marketers y creativos que necesitan imágenes únicas sin software complejo ni habilidades artísticas avanzadas.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#EdicionImagen", "#AjustesCreativos"]
   },
   {
@@ -320,7 +320,7 @@
     "empresa": "Lexica",
     "url": "https://lexica.art",
     "descripcion": "Buscador de prompts y generador de imágenes AI. Explora millones de imágenes generadas con sus prompts exactos. Copia, modifica y crea tu propio contenido visual. Aprende prompts efectivos para Stable Diffusion. Ideal para entusiastas de IA generativa que buscan inspiración y quieren dominar el arte del prompting visual.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#BuscadorPrompts", "#GaleriaEstilos"]
   },
   {
@@ -329,7 +329,7 @@
     "empresa": "Redpanda AI",
     "url": "https://redpandaai.com",
     "descripcion": "Herramientas avanzadas de edición de imagen y vídeo con IA. Mejora calidad, elimina fondos, genera contenido y aplica efectos profesionales. Procesamiento rápido con resultados de alta calidad. Ideal para creadores de contenido, marketers y fotógrafos que necesitan editar multimedia eficientemente sin software tradicional complejo.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#HerramientasVisuales", "#EdicionRapida"]
   },
   {
@@ -338,7 +338,7 @@
     "empresa": "Blinkshot",
     "url": "https://www.blinkshot.io/",
     "descripcion": "Captura y mejora screenshots con IA. Genera mockups profesionales, edita capturas de pantalla y crea renders atractivos para presentaciones. Perfecto para diseñadores UI, desarrolladores y product managers que necesitan comunicar ideas visuales de forma impactante sin herramientas de diseño avanzadas.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#CapturasWeb", "#MockupsUI"]
   },
   {
@@ -347,7 +347,7 @@
     "empresa": "Krita AI Diffusion",
     "url": "https://kritaaidiffusion.com/es",
     "descripcion": "Plugin de IA para Krita que añade difusión generativa. Crea y edita arte digital con Stable Diffusion dentro del software de pintura. Genera variaciones, outpainting y mejoras de calidad. Ideal para artistas digitales que usan Krita y quieren integrar IA generativa en su flujo de trabajo creativo sin cambiar de herramienta.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#DifusionImagen", "#PluginsArte"]
   },
   {
@@ -356,7 +356,7 @@
     "empresa": "Freepik",
     "url": "https://www.freepik.com/pikaso/ai-image-generator",
     "descripcion": "Generador de imágenes AI integrado en Freepik. Crea ilustraciones, fotos y vectores desde texto. Accede a millones de recursos para combinar y editar. Interfaz simple con resultados comerciales. Ideal para diseñadores y marketers que ya usan Freepik y quieren generar imágenes personalizadas sin salir de la plataforma.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#GeneradorImagen", "#BancoRecursos"]
   },
   {
@@ -365,7 +365,7 @@
     "empresa": "Google",
     "url": "https://labs.google/fx/es/tools/image-fx",
     "descripcion": "Genera imágenes con IA desde textos descriptivos en la plataforma experimental de Google. Experimenta con prompts creativos, ajusta parámetros y obtiene resultados visuales únicos en segundos. Accede a modelos avanzados de generación visual con controles intuitivos. Ideal para diseñadores, creativos y entusiastas que exploran el potencial de la IA artística sin necesidad de habilidades técnicas. Interfaz gratuita y directa para transformar ideas en imágenes de calidad, con acceso limitado según región.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#GoogleImagenes", "#ExperimentosCreativos"]
   },
   {
@@ -374,7 +374,7 @@
     "empresa": "Hailuo AI",
     "url": "https://hailuoai.video",
     "descripcion": "Crea videos profesionales con IA a partir de simples descripciones textuales. Genera animaciones, clips publicitarios y contenido audiovisual sin cámaras ni edición compleja. Ajusta estilos, duración y calidad. Accede a modelos especializados en video generativo. Ideal para marketers, creadores de contenido y educadores que necesitan producir videos rápidamente para redes sociales, presentaciones o proyectos creativos, reduciendo costos y tiempo de producción significativamente.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#VideoGenerativo", "#AnimacionesIA"]
   },
   {
@@ -383,7 +383,7 @@
     "empresa": "Leonardo AI",
     "url": "https://app.leonardo.ai/",
     "descripcion": "Genera imágenes de alta calidad con IA y controles avanzados. Ajusta dimensiones, estilos, seed y parámetros técnicos para resultados precisos. Crea desde arte conceptual hasta fotografía AI. Accede a modelos entrenados, inpainting y outpainting. Ideal para profesionales del diseño, ilustradores y estudios creativos que requieren personalización profunda y consistencia visual en proyectos comerciales, con capacidad de entrenar modelos propios.",
-    "categoria": "Imágenes & Videos",
+    "categoria": "IA",
     "tags": ["#GeneracionVisual", "#CreatividadDigital", "#MultimediaIA", "#ControlModelo", "#TexturasRealistas"]
   },
   {
@@ -446,7 +446,7 @@
     "empresa": "ElevenLabs",
     "url": "https://try.elevenlabs.io/shmdm7umt6gg",
     "descripcion": "Crea voz sintética realista con Text-to-Speech de última generación. Genera narraciones, diálogos y audio para videos. Clona voces con muestras cortas. Ajusta emociones, acentos y estilo. Accede a voces pre-entrenadas en múltiples idiomas. Ideal para creadores de contenido, podcasters y desarrolladores que necesitan voz AI de calidad humana para proyectos multimedia, con API para escalado.",
-    "categoria": "Voz & Música",
+    "categoria": "IA",
     "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#TextoVoz", "#ClonacionVocal"]
   },
   {
@@ -455,7 +455,7 @@
     "empresa": "Suno",
     "url": "https://suno.com/",
     "descripcion": "Compon música original con IA a partir de texto. Describe género, estilo, instrumentación y obtén canciones completas. Genera melodías, armonías y letras personalizadas. Exporta en formatos profesionales. Ideal para músicos, productores y creadores de contenido que necesitan música de fondo sin royalties, ideas creativas o tracks completos sin conocimientos musicales avanzados, con licencia comercial.",
-    "categoria": "Voz & Música",
+    "categoria": "IA",
     "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#MusicaTexto", "#CancionesIA"]
   },
   {
@@ -464,7 +464,7 @@
     "empresa": "Google",
     "url": "https://labs.google/fx/es/tools/music-fx",
     "descripcion": "Experimenta con la generación musical AI de Google. Crea pistas y loops desde descripciones textuales. Explora combinaciones sonoras únicas. Accede a herramientas de DJ AI para mezclas. Interfaz intuitiva con resultados inmediatos. Ideal para músicos, productores y entusiastas que exploran creación sonora con IA, sin necesidad de equipo caro ni habilidades de producción avanzadas.",
-    "categoria": "Voz & Música",
+    "categoria": "IA",
     "tags": ["#AudioIA", "#SintesisDigital", "#GeneracionSonido", "#MusicaExperimental", "#PistasSinteticas"]
   },
   {
@@ -626,8 +626,8 @@
     "empresa": "Python Software Foundation",
     "url": "https://www.python.org/",
     "descripcion": "Descarga Python, accede a documentación oficial y tutoriales. Explora la librería estándar, PEPs y guías de instalación. Únete a la comunidad global de desarrolladores. Ideal para programadores de todos los niveles que necesitan la fuente autorizada del lenguaje, con recursos actualizados, notas de versión y enlaces a paquetes oficiales.",
-    "categoria": "Programación",
-    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#ComunidadDesarrollo", "#PaquetesPip"]
+    "categoria": "Formación",
+    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#ComunidadDesarrollo", "#Programación"]
   },
   {
     "id": 71,
@@ -635,8 +635,8 @@
     "empresa": "Real Python",
     "url": "https://realpython.com/",
     "descripcion": "Domina Python con tutoriales prácticos y artículos profundos. Aprende desde fundamentos hasta frameworks avanzados con ejemplos ejecutables. Accede a cursos, quizzes y guías de proyectos reales. Ideal para desarrolladores que quieren aprender Python de forma efectiva, con contenido actualizado, mejores prácticas y enfoque en aplicaciones profesionales.",
-    "categoria": "Programación",
-    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#TutorialesPracticos", "#EjerciciosGuiados"]
+    "categoria": "Formación",
+    "tags": ["#LenguajePython", "#DocumentacionOficial", "#DescargasLenguaje", "#TutorialesPracticos", "#Programación"]
   },
   {
     "id": 72,
@@ -644,8 +644,8 @@
     "empresa": "Mozilla",
     "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
     "descripcion": "Consulta la guía definitiva de JavaScript de Mozilla. Explora referencias completas de APIs, sintaxis y ejemplos prácticos. Aprende conceptos modernos y compatibilidad navegadores. Ideal para desarrolladores web que necesitan documentación oficial, confiable y actualizada sobre JS, con tutoriales desde básico hasta avanzado y ejemplos interactivos.",
-    "categoria": "Programación",
-    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#EjemplosCodigo", "#APIsNavegador"]
+    "categoria": "Formación",
+    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#Programación", "#APIsNavegador"]
   },
   {
     "id": 73,
@@ -653,8 +653,8 @@
     "empresa": "JavaScript.info",
     "url": "https://javascript.info/",
     "descripcion": "Aprende JavaScript moderno con un tutorial estructurado y claro. Domina conceptos desde cero hasta patrones avanzados con ejercicios interactivos. Accede a explicaciones visuales y código ejecutable. Ideal para principiantes y desarrolladores que quieren una base sólida en JS actual, con enfoque en web moderna y mejores prácticas del lenguaje.",
-    "categoria": "Programación",
-    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#FundamentosLenguaje", "#WebModerna"]
+    "categoria": "Formación",
+    "tags": ["#LenguajeJavaScript", "#GuiaDesarrollo", "#ReferenciasWeb", "#FundamentosLenguaje", "#Programación"]
   },
   {
     "id": 74,
@@ -662,8 +662,8 @@
     "empresa": "LenguajeCSS",
     "url": "https://lenguajecss.com/",
     "descripcion": "Domina CSS con guías prácticas y trucos profesionales. Aprende Flexbox, Grid, animaciones y selectores avanzados con ejemplos visuales. Accede a snippets reutilizables y soluciones comunes. Ideal para frontend developers que quieren perfeccionar estilos web, con explicaciones claras, demos interactivas y técnicas para diseños responsive modernos.",
-    "categoria": "Programación",
-    "tags": ["#EstilosCSS", "#GuiaMaquetacion", "#TrucosDiseno", "#FlexboxGrid", "#SelectoresAvanzados"]
+    "categoria": "Formación",
+    "tags": ["#EstilosCSS", "#GuiaMaquetacion", "#TrucosDiseno", "#FlexboxGrid", "#Programación"]
   },
   {
     "id": 75,
@@ -671,8 +671,8 @@
     "empresa": "GoalKicker",
     "url": "https://books.goalkicker.com/",
     "descripcion": "Descarga libros técnicos gratuitos por tecnología. Accede a apuntes concisos, ejemplos de código y referencias rápidas para múltiples lenguajes y frameworks. Ideal para desarrolladores que necesitan consultas rápidas offline, con contenido condensado y práctico sin relleno, perfecto para repasar conceptos y tener documentación completa sin conexión.",
-    "categoria": "Programación",
-    "tags": ["#LibrosTecnicos", "#ReferenciaRapida", "#DescargasPDF", "#ApuntesProfesionales", "#ResumenesTecnologia"]
+    "categoria": "Formación",
+    "tags": ["#LibrosTecnicos", "#ReferenciaRapida", "#Programación", "#ApuntesProfesionales", "#ResumenesTecnologia"]
   },
   {
     "id": 76,
@@ -914,7 +914,7 @@
     "empresa": "DeepL",
     "url": "https://www.deepl.com/translator",
     "descripcion": "Traduce textos y documentos con calidad superior y matices naturales. Accede a más de 30 idiomas con conservación de formato. Edita traducciones sugeridas y usa glosarios personalizados. Ideal para profesionales que requieren precisión y estilo en traducciones técnicas, creativas o corporativas, superando en fluidez a herramientas alternativas con resultados que parecen humanos.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#TraductorAvanzado", "#DiccionarioBilingue", "#MaticesIdioma", "#GlosariosPropios", "#TraduccionPrecisa"]
   },
   {
@@ -923,7 +923,7 @@
     "empresa": "Linguee",
     "url": "https://www.linguee.es/",
     "descripcion": "Busca traducciones con ejemplos reales de contexto en textos paralelos. Escucha pronunciación y descubre expresiones idiomáticas. Diccionario bilingüe con corpus de documentos oficiales. Ideal para traductores, estudiantes y profesionales que necesitan ver cómo se usa realmente un término, diferenciando matices y encontrando la traducción más apropiada según contexto.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#DiccionarioBilingue", "#CorpusParalelo", "#EjemplosReales", "#ExpresionesIdiomaticas", "#TraduccionesComunes"]
   },
   {
@@ -932,7 +932,7 @@
     "empresa": "Cambridge Dictionary",
     "url": "https://dictionary.cambridge.org/es/translate/",
     "descripcion": "Traduce palabras con definiciones claras, pronunciación audio y ejemplos de uso. Accede a niveles de inglés (B1, C1) y sinónimos. Diccionario académico de referencia. Ideal para estudiantes de inglés que necesitan comprensión profunda, con audio de hablantes nativos y contextos gramaticales para aprender vocabulario correctamente y preparar exámenes oficiales.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#DiccionarioBilingue", "#DefinicionesIngles", "#PronunciacionAudio", "#EjemplosUso", "#SinonimosIngles"]
   },
   {
@@ -941,7 +941,7 @@
     "empresa": "Google",
     "url": "https://translate.google.es/?hl=es",
     "descripcion": "Traduce textos, documentos, sitios web y conversaciones en tiempo real. Usa cámara para traducir imágenes y escucha pronunciación. Soporta más de 100 idiomas. Ideal para viajeros, estudiantes y profesionales que necesitan comunicación instantánea sin conexión disponible, con historial y frases guardadas para uso frecuente.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#TraductorOnline", "#MultilenguajeRapido", "#TextoVoz", "#CamaraTraduccion", "#FrasesComunes"]
   },
   {
@@ -950,7 +950,7 @@
     "empresa": "Bing",
     "url": "https://www.bing.com/translator",
     "descripcion": "Traduce texto y voz con diccionario integrado y frases útiles. Alternativa gratuita con múltiples idiomas. Guarda traducciones frecuentes. Interfaz limpia y sin distracciones. Ideal para usuarios que buscan una herramienta de traducción rápida sin publicidad, con opciones de escucha y ejemplos de uso en contextos cotidianos.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#TraductorOnline", "#MultilenguajeRapido", "#DiccionarioIntegrado", "#FrasesUtiles", "#AudioTexto"]
   },
   {
@@ -959,7 +959,7 @@
     "empresa": "EnglishOn",
     "url": "https://www.englishon.es/Vocabularios-temario-ingles-cambridge-gratis",
     "descripcion": "Estudia vocabulario organizado por niveles Cambridge (A1-C2). Accede a temarios gratuitos con listas temáticas y ejercicios. Prepara exámenes oficiales. Ideal para estudiantes que necesen aprender vocabulario estructurado, con enfoque en los requisitos de cada nivel y acceso a material de preparación sin coste.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#VocabularioIngles", "#TemariosGratis", "#NivelesIdioma", "#ListasPalabras", "#PreparacionExamenes"]
   },
   {
@@ -968,7 +968,7 @@
     "empresa": "Blogger",
     "url": "https://mcarmenblogingles.blogspot.com/p/libros-de.html?m=1",
     "descripcion": "Descarga libros y recursos gratuitos para aprender inglés. Accede a lecturas graduadas, material de gramática y ejercicios. Blog educativo con contenido organizado. Ideal para estudiantes autodidactas que buscan material de lectura en inglés adaptado a su nivel, con recursos docentes y enlaces a libros digitales.",
-    "categoria": "Inglés",
+    "categoria": "Formación",
     "tags": ["#VocabularioIngles", "#LibrosGratis", "#LecturasGraduadas", "#MaterialDocente", "#DescargasUtiles"]
   },
   {
@@ -1004,7 +1004,7 @@
     "empresa": "Naf Naf",
     "url": "https://www.nafnaf.es",
     "descripcion": "Compra moda femenina actual con estilo juvenil y tendencias. Explora colecciones de ropa, accesorios y complementos. Disfruta de ofertas online y envío a domicilio. Ideal para mujeres que buscan looks frescos y actuales con calidad asequible, inspirados en la moda parisina y adaptados al día a día.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ColeccionActual", "#LookFemenino"]
   },
   {
@@ -1013,7 +1013,7 @@
     "empresa": "Surkana",
     "url": "https://surkana.es",
     "descripcion": "Descubre moda femenina con estilo bohemio y estampados vibrantes. Compra prendas únicas y coloridas online. Explora colecciones inspiradas en el Mediterráneo. Ideal para mujeres que buscan un estilo original, fresco y artesanal, con diseños exclusivos que destacan por su creatividad y personalidad en cada prenda.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloBoho", "#EstampadosVivos"]
   },
   {
@@ -1022,7 +1022,7 @@
     "empresa": "SKFK",
     "url": "https://www.skfk-ethical-fashion.com",
     "descripcion": "Compra moda ética y sostenible para mujer. Elige prendas de producción justa con materiales ecológicos. Diseños atemporales y comprometidos. Ideal para consumidoras conscientes que priorizan la moda responsable, con transparencia en la cadena de producción y estilo que combina tendencia con valores sociales y medioambientales.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ModaEtica", "#ProduccionJusta"]
   },
   {
@@ -1031,7 +1031,7 @@
     "empresa": "Xantik",
     "url": "https://xantik.net/",
     "descripcion": "Explora moda femenina con diseños únicos y estilo urbano. Compra prendas originales creadas por diseñadores emergentes. Descubre colecciones exclusivas online. Ideal para mujeres que buscan diferenciarse con ropa limitada, apoyando el talento local y encontrando piezas que no encontrarás en tiendas masivas.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloUrbano", "#RopaOriginal"]
   },
   {
@@ -1040,7 +1040,7 @@
     "empresa": "Verdedoncella",
     "url": "https://verdedoncella.com/",
     "descripcion": "Adquiere moda femenina con diseños exclusivos y producción artesanal. Compra prendas cuidadosamente elaboradas con materiales de calidad. Moda limitada y personalizada. Ideal para mujeres que valoran la originalidad y la artesanía, buscando piezas únicas que reflejen su personalidad con un toque de exclusividad en cada colección.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DiseniosUnicos", "#ModaArtesana"]
   },
   {
@@ -1049,7 +1049,7 @@
     "empresa": "Lolina Shop",
     "url": "https://lolinashop.com/",
     "descripcion": "Compra ropa femenina casual y cómoda para el día a día. Explora colecciones versátiles y accesibles online. Encuentra prendas básicas y tendencias actuales. Ideal para mujeres que buscan comodidad sin sacrificar estilo, con prendas fáciles de combinar y precios asequibles para renovar su armario constantemente.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#RopaCasual", "#ModaFemenina"]
   },
   {
@@ -1058,7 +1058,7 @@
     "empresa": "Singular Barcelona",
     "url": "https://singularbarcelona.com/",
     "descripcion": "Descubre moda femenina de diseño local y producción limitada. Compra prendas únicas con sello barcelonés. Explora colecciones cuidadas con atención al detalle. Ideal para mujeres que buscan exclusividad y apoyo al diseño local, encontrando piezas especiales que conectan con la creatividad y estilo de Barcelona.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DisenioLocal", "#PrendasUnicas"]
   },
   {
@@ -1067,7 +1067,7 @@
     "empresa": "La Gata Loca",
     "url": "https://lagatalocaonline.com/es/",
     "descripcion": "Compra moda femenina divertida y colorida con estilo desenfadado. Explora diseños originales y alegres online. Encuentra prendas que transmiten personalidad. Ideal para mujeres jóvenes que buscan un look fresco, atrevido y lleno de color, con propuestas que rompen con lo convencional en moda urbana.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstiloDivertido", "#RopaColorida"]
   },
   {
@@ -1076,7 +1076,7 @@
     "empresa": "Waipai",
     "url": "http://www.waipai.com",
     "descripcion": "Compra ropa femenina cómoda y fresca para el verano. Explora colecciones casual con estilo mediterráneo. Encuentra prendas ligeras y versátiles. Ideal para mujeres que buscan outfits relajados y ponibles en clima cálido, con diseños frescos y materiales transpirables para el día a día o vacaciones.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#PrendasVeraniegas", "#EstiloCasual"]
   },
   {
@@ -1085,7 +1085,7 @@
     "empresa": "Smile",
     "url": "https://lawebdesmile.com/",
     "descripcion": "Compra moda femenina colorida y alegre online. Descubre colecciones frescas y modernas con diseños vibrantes que transmiten energía positiva. Explora prendas para el día a día con estilo desenfadado. Ideal para mujeres jóvenes que quieren expresar alegría a través de su vestuario, con piezas únicas y tendencias actuales a precios accesibles.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#RopaAlegre", "#ModaColorida"]
   },
   {
@@ -1094,7 +1094,7 @@
     "empresa": "Visto Luego Existo",
     "url": "https://www.vistoluegoexisto.com/",
     "descripcion": "Explora moda femenina con diseños originales y diferentes. Compra prendas que destacan por su creatividad, personalidad única y mensajes inspiradores. Descubre colecciones限量 y producción local. Perfecto para quienes buscan vestir de forma auténtica, alejada de lo convencional, con ropa que cuenta historias y genera conversación.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#DisenioOriginal", "#RopaDiferente"]
   },
   {
@@ -1103,7 +1103,7 @@
     "empresa": "Padana",
     "url": "https://padana.es/",
     "descripcion": "Compra moda femenina actualizada con las últimas tendencias de temporada. Descubre colecciones modernas para cada ocasión con envío rápido y devoluciones sencillas. Explora prendas versátiles y cómodas. Ideal para renovar tu armario constantemente con propuestas actuales, de fácil combinación y calidad ajustada para el día a día urbano.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#PrendasActuales", "#NuevaColeccion"]
   },
   {
@@ -1112,7 +1112,7 @@
     "empresa": "Desigual",
     "url": "https://www.desigual.com/es_ES/",
     "descripcion": "Compra ropa con los icónicos estampados y diseños creativos de Desigual. Explora colecciones para mujer, hombre y accesorios llenas de color y originalidad. Disfruta de moda atrevida con calidad garantizada y campañas inspiradoras. Ideal para quienes buscan expresar su individualidad con piezas únicas que rompen esquemas convencionales.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#EstampadosUnicos", "#ModaColorida"]
   },
   {
@@ -1121,7 +1121,7 @@
     "empresa": "Ipanima",
     "url": "https://www.ipanima.fr/es/",
     "descripcion": "Descubre moda francesa elegante y sofisticada para mujer. Compra prendas de calidad con envío a España. Explora diseños refinados con corte parisino y tejidos premium. Ideal para quienes buscan estilo europeo de alta gama, con piezas atemporales que aportan distinción y clase al vestuario profesional y social.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#ModaFrancesa", "#EstiloElegante"]
   },
   {
@@ -1130,7 +1130,7 @@
     "empresa": "Singular",
     "url": "https://corseteriasingular.com/",
     "descripcion": "Compra lencería fina y tallas grandes online. Encuentra prendas íntimas de calidad con diseño español, ajuste perfecto y materiales premium. Ideal para mujeres que buscan comodidad, elegancia y soporte especializado en lencería, con asesoramiento personalizado y colecciones que realzan la figura sin sacrificar estilo.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaMujer", "#TiendaOnline", "#ComprasRopa", "#LenceriaFina", "#TallasGrandes"]
   },
   {
@@ -1139,7 +1139,7 @@
     "empresa": "Pedro del Hierro",
     "url": "https://pedrodelhierro.com",
     "descripcion": "Explora moda premium española para hombre y mujer con elegancia atemporal. Compra prendas de diseño refinado, calidad superior y corte impecable. Ideal para profesionales que buscan sofisticación en su vestuario, con colecciones que equilibran classicismo y tendencias para el día a día ejecutivo y ocasiones especiales.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#Moda", "#TiendaOnline", "#ComprasRopa"]
   },
   {
@@ -1148,7 +1148,7 @@
     "empresa": "Google",
     "url": "https://www.google.es/",
     "descripcion": "Busca zapatos y calzado online a través de Google. Compara opciones de diferentes tiendas, encuentra las mejores ofertas y descubre nuevas marcas. Herramienta de referencia para explorar tendencias. Ideal como punto de partida para investigar calzado antes de comprar en tiendas especializadas, con acceso a imágenes y precios rápidamente.",
-    "categoria": "Ropa y calzado",
+    "categoria": "Moda & Compras",
     "tags": ["#ModaComplementos", "#BuscadorZapatos", "#TendenciasCalzado", "#ComprasDeportivas", "#MarcasSneakers"]
   },
   {

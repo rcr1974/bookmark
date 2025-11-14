@@ -2,14 +2,14 @@
 {
     "default": "FolderIcon",
     "Todos": "FolderIcon",
-    "Artikel": "ArticleIcon",
-    "Inspirasi": "InspirationIcon",
+    "Herramientas": "ArticleIcon",
+    "Moda & Compras": "InspirationIcon",
     "Resources": "ResourcesIcon",
     "Tools": "ToolsIcon",
     "Video": "VideoIcon",
     "Portfolio": "PortfolioIcon",
     "Quotes": "QuotesIcon",
-    "Inteligencia Artificial": "BrainIcon",
+    "IA": "BrainIcon",
     "Programación": "CodeIcon",
     "Herramientas Web": "ToolsIcon",
     "Formación": "ResourcesIcon"
