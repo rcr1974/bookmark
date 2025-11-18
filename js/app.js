@@ -7,12 +7,12 @@ document.addEventListener('DOMContentLoaded', () => {
     let categoryIconMapping = {};
 
     const categoryColors = {
-        'Inspirasi': 'bg-blue-500 text-white', 'Artikel': 'bg-green-500 text-white',
-        'Inteligencia Artificial': 'bg-purple-500 text-white', 'Programación': 'bg-pink-500 text-white',
-        'Herramientas Web': 'bg-yellow-500 text-gray-900', 'Formación': 'bg-indigo-500 text-white',
-        'Resources': 'bg-gray-500 text-white', 'Tools': 'bg-red-500 text-white',
-        'Video': 'bg-orange-500 text-white', 'Portfolio': 'bg-teal-500 text-white',
-        'Quotes': 'bg-cyan-500 text-white',
+        'IA': 'bg-blue-500 text-white', 'Artikel': 'bg-green-500 text-white',
+        'Formación': 'bg-purple-500 text-white', 'Programación': 'bg-pink-500 text-white',
+        'Herramientas': 'bg-yellow-500 text-gray-900', 'Formación': 'bg-indigo-500 text-white',
+        'Moda & Compras': 'bg-gray-500 text-white', 'Tools': 'bg-red-500 text-white',
+        'Ofertas de trabajo': 'bg-orange-500 text-white', 'Portfolio': 'bg-teal-500 text-white',
+        'Otros': 'bg-cyan-500 text-white',
     };
 
     const getInitials = (name) => name.charAt(0).toUpperCase();

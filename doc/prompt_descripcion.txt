@@ -27,7 +27,7 @@ Cuando termines de realizar esta acción por cada uno de los elementos del docum
 
 Basándote en esta URL: https://duckduckgo.com/?ia=chat&duckai=1
 
-Lee el contenido completo y genera una meta descripción (150-160 caracteres) que comunique 
+Lee el contenido completo y genera una meta descripción (100 palabras como máximo) que comunique 
 claramente qué puede hacer un usuario en este sitio web.
 
 La descripción debe ser directa, persuasiva y enfocada en acciones/beneficios.

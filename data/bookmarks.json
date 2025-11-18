@@ -561,10 +561,10 @@
     "id": 63,
     "nombre_web": "Hugging Face",
     "empresa": "Hugging Face",
-    "url": "https://huggingface.co/",
+    "url": "https://huggingface.co/chat",
     "descripcion": "Explora el mayor repositorio de modelos de IA del mundo. Descarga modelos pre-entrenados, datasets y crea demos interactivas en Spaces. Colabora con la comunidad ML, comparte tus proyectos y accede a herramientas de implementación. Ideal para investigadores y desarrolladores que buscan state-of-the-art en NLP, visión y audio con recursos abiertos.",
-    "categoria": "Otros",
-    "tags": ["#PlataformaModelos", "#DatasetsAbiertos", "#SpacesDemos", "#ComunidadML", "#RepositoriosIA"]
+    "categoria": "IA",
+    "tags": ["#PlataformaModelos", "#DatasetsAbiertos", "#ChatBotIA", "#ComunidadML", "#RepositoriosIA"]
   },
   {
     "id": 64,
@@ -1276,5 +1276,284 @@
     "descripcion": "Encuentra proyectos freelance como profesional verificado. Publica tu portafolio, demuestra expertise y recibe contrataciones directas sin competir en price dumping. Plataforma europea para expertos. Ideal para consultores y especialistas senior que quieren proyectos retadores con clientes que valoran la calidad sobre el precio más bajo.",
     "categoria": "Ofertas de trabajo",
     "tags": ["#EmpleoTech", "#FreelanceEuropa", "#ProfesionalesVerificados", "#ContratacionRapida", "#PortafolioPublico"]
+  },
+  {
+    "id": 146,
+    "nombre_web": "Gente Pez",
+    "empresa": "Gente Pez",
+    "url": "https://gentepez.com/",
+    "descripcion": "Descarga gratis libros en español en PDF y EPUB. Explora clásicos y novedades editoriales sin registro, amplía tu biblioteca digital y disfruta lectura en cualquier dispositivo",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook"]
+  },
+  {
+    "id": 147,
+    "nombre_web": "Mundo audio libros",
+    "empresa": "Mundo audio libros",
+    "url": "https://mundoaudiolibros.com/",
+    "descripcion": "Encuentra y descarga audiolibros en español sin registro. Disfruta de colecciones variadas —desde ficción hasta desarrollo personal— con narración profesional en todos los dispositivos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook", "#AudioLibro"]
+  },
+  {
+    "id": 148,
+    "nombre_web": "Ebookelo",
+    "empresa": "Ebookelo",
+    "url": "https://ww2.ebookelo.com/",
+    "descripcion": "Descarga gratis libros en español en formatos PDF y EPUB. Explora miles de títulos: clásicos, bestsellers y novedades editoriales para ampliar tu biblioteca digital.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook"]
+  },
+  {
+    "id": 149,
+    "nombre_web": "Lectulandia",
+    "empresa": "Lectulandia",
+    "url": "https://lectulandia.dev/",
+    "descripcion": "Descarga gratis libros en español en formatos PDF y EPUB. Explora miles de títulos: clásicos, bestsellers y novedades editoriales para ampliar tu biblioteca digital.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook"]
+  },
+  {
+    "id": 150,
+    "nombre_web": "Lectuepublibre",
+    "empresa": "Lectuepublibre",
+    "url": "https://lectuepublibre3.com/",
+    "descripcion": "Descarga gratis libros en español en formatos PDF y EPUB. Explora miles de títulos: clásicos, bestsellers y novedades editoriales para ampliar tu biblioteca digital.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook"]
+  }, 
+  {
+    "id": 151,
+    "nombre_web": "bt4gprx",
+    "empresa": "bt4gprx",
+    "url": "https://bt4gprx.com/",
+    "descripcion": "Plataforma para localizar torrents verificados: accede a contenido variado como cine, música y software, con descargas rápidas y sin complicaciones.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook", "#Torrents", "#BuscadorTorrents"]
+  },
+  {
+    "id": 152,
+    "nombre_web": "Pedia torrent",
+    "empresa": "Pedia torrent",
+    "url": "https://pediatorrent.com/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 153,
+    "nombre_web": "Movies dvdr",
+    "empresa": "Movies dvdr",
+    "url": "https://www.moviesdvdr.co/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 154,
+    "nombre_web": "Elite torrent",
+    "empresa": "elitetorrent",
+    "url": "https://www.elitetorrent.com/principal/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 155,
+    "nombre_web": "Sin sitio",
+    "empresa": "sinsitio",
+    "url": "https://sinsitio.site/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 156,
+    "nombre_web": "Marciano torrent",
+    "empresa": "marcianotorrent",
+    "url": "https://marcianotorrent.net/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 157,
+    "nombre_web": "Wolfmax4k",
+    "empresa": "wolfmax4k",
+    "url": "https://wolfmax4k.com/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 158,
+    "nombre_web": "Wolfmax4k",
+    "empresa": "wolfmax4k",
+    "url": "https://wolfmax4k.com/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 159,
+    "nombre_web": "Grantorrent",
+    "empresa": "grantorrent",
+    "url": "https://grantorrent.wtf/inicio",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+   {
+    "id": 160,
+    "nombre_web": "Grantorrent",
+    "empresa": "grantorrent",
+    "url": "https://grantorrent.quest/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 161,
+    "nombre_web": "Pasateatorrent",
+    "empresa": "pasateatorrent",
+    "url": "https://pasateatorrent.org/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 162,
+    "nombre_web": "Dixva",
+    "empresa": "dixva",
+    "url": "https://dixva.com/",
+    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
+  },
+  {
+    "id": 163,
+    "nombre_web": "Zdescargas",
+    "empresa": "zdescargas",
+    "url": "https://www.zdescargas.org/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Torrents"]
+  },
+  {
+    "id": 164,
+    "nombre_web": "Awdescargas",
+    "empresa": "awdescargas",
+    "url": "https://awdescargas.com/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Torrents"]
+  },
+  {
+    "id": 165,
+    "nombre_web": "Mrprogramas",
+    "empresa": "mrprogramas",
+    "url": "https://mrprogramas.com/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Torrents"]
+  },
+  {
+    "id": 166,
+    "nombre_web": "Karanpc",
+    "empresa": "karanpc",
+    "url": "https://karanpc.com/posts/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Torrents"]
+  },
+  {
+    "id": 167,
+    "nombre_web": "Programas full crack",
+    "empresa": "programasfullcrack",
+    "url": "https://programasfullcrack.com/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Torrents"]
+  },
+  {
+    "id": 168,
+    "nombre_web": "Fcportables",
+    "empresa": "fcportables",
+    "url": "https://www.fcportables.com/",
+    "descripcion": "Descarga gratis programas “full”, cursos multimedia, juegos y más para tu PC. Explora una biblioteca actualizada, categorías claras y contenidos en español para ahorrar tiempo y encontrar lo que necesitas en un clic. Mantente al día con novedades de tecnología y utilidades esenciales. Ideal para usuarios que buscan acceso rápido y directo a software y recursos",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Programas", "#Portables"]
+  },
+  {
+    "id": 169,
+    "nombre_web": "dlxbgame",
+    "empresa": "dlxbgame",
+    "url": "https://dlxbgame.com/",
+    "descripcion": "Descarga juegos de Xbox y Xbox 360 al instante: ISOs para consolas y JTAG/RGH, con enlaces directos (Google Drive) y torrents. Explora títulos por región (PAL, NTSC-U, NTSC-J) y Xbox Live Arcade. Velocidades rápidas, formatos listos para usar y catálogo actualizado para que juegues sin complicaciones.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Juegos", "#xbox360"]
+  },
+  {
+    "id": 170,
+    "nombre_web": "myrient",
+    "empresa": "myrient",
+    "url": "https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/",
+    "descripcion": "Descarga juegos de Xbox y Xbox 360 al instante: ISOs para consolas y JTAG/RGH, con enlaces directos (Google Drive) y torrents. Explora títulos por región (PAL, NTSC-U, NTSC-J) y Xbox Live Arcade. Velocidades rápidas, formatos listos para usar y catálogo actualizado para que juegues sin complicaciones.",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Juegos", "#xbox360"]
+  },
+  {
+    "id": 171,
+    "nombre_web": "aptoide",
+    "empresa": "aptoide",
+    "url": "https://es.aptoide.com/group/applications",
+    "descripcion": "Descarga e instala millones de apps y juegos gratis, incluso versiones antiguas o regionales, sin restricciones geográficas. Crea tu propia tienda personalizada, explora categorías, listas de tendencias y promociones con cashback. Disfruta de seguridad avanzada (detección de malware y verificación comunitaria) y una interfaz similar a Google Play para una experiencia fluida en Android y Android TV",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Android", "#Apps"]
+  },
+  {
+    "id": 172,
+    "nombre_web": "Meta AI",
+    "empresa": "Meta",
+    "url": "https://meta.ai/",
+    "descripcion": "Descubre Meta AI, el asistente inteligente gratuito de Meta que conversa vía texto o voz, genera y edita imágenes, videos y documentos con LLaMA 4. Integra IA en Facebook, Instagram, WhatsApp y Ray-Ban Stories para respuestas contextuales, recomendaciones personalizadas y contenido creativo al instante. Ideal para usuarios, creadores y emprendedores que buscan eficacia diaria sin necesidad de conocimientos",
+    "categoria": "IA",
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual"]
+  },
+  {
+    "id": 173,
+    "nombre_web": "dyad",
+    "empresa": "dyad",
+    "url": "https://www.dyad.sh/",
+    "descripcion": "Desarrolla tu app AI localmente, sin escribir una línea de código: Dyad convierte comandos de chat en apps completas (UI, API, base de datos) usando tus modelos favoritos. Funciona en macOS, Windows y Linux, integra Supabase automáticamente, y ofrece plantillas comunitarias y control total del código. Privacidad, cero vendor-lock-in, rendimiento instantáneo y sin costes de nube o suscripción",
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#Local", "#CreacionAplicaciones"]
+  },
+  {
+    "id": 174,
+    "nombre_web": "Rovo dev",
+    "empresa": "Atlassian",
+    "url": "https://www.atlassian.com/software/rovo-dev",
+    "descripcion": "Desarrolla tu app AI localmente, sin escribir una línea de código: Dyad convierte comandos de chat en apps completas (UI, API, base de datos) usando tus modelos favoritos. Funciona en macOS, Windows y Linux, integra Supabase automáticamente, y ofrece plantillas comunitarias y control total del código. Privacidad, cero vendor-lock-in, rendimiento instantáneo y sin costes de nube o suscripción",
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#DesarrolloAsistido", "#ViveCoding", "#Agente"]
+  },
+  {
+    "id": 175,
+    "nombre_web": "z.ai",
+    "empresa": "Zhipu AI",
+    "url": "https://chat.z.ai/",
+    "descripcion": "Conéctate con un chat inteligente diseñado para ayudarte: responde preguntas, redacta textos, traduce y genera soluciones creativas en segundos. Disfruta de una interfaz sencilla, velocidad y precisión para mejorar tu día a día. Ideal para profesionales, estudiantes y creadores que buscan eficiencia y resultados inmediatos.",
+    "categoria": "IA",
+    "tags": ["#ChatBotIA", "#ModeloLenguaje", "#AsistenteVirtual"]
+  },
+  {
+    "id": 176,
+    "nombre_web": "z.ai",
+    "empresa": "Zhipu AI",
+    "url": "https://aidetectorwriter.com/es/generador-de-prompts-de-ia/",
+    "descripcion": "Crea prompts efectivos para IA en segundos: genera ideas claras y optimizadas para ChatGPT, Bard y otros modelos. Mejora la calidad de tus respuestas, ahorra tiempo y potencia tu creatividad con un generador intuitivo y gratuito. Ideal para redactores, marketers y desarrolladores que buscan resultados precisos y profesionales.",
+    "categoria": "IA",
+    "tags": ["#Prompt", "#GeneradorPropmts", "#promptengineering", "#herramientasdigitales"]
   }
 ]
