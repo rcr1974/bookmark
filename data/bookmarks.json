@@ -612,15 +612,6 @@
     "tags": ["#ServiciosNube", "#APIInferencia", "#RendimientoAlto", "#ModelosCerebras", "#AceleracionIA"]
   },
   {
-    "id": 69,
-    "nombre_web": "Groq (API/Chat)",
-    "empresa": "Groq, Inc.",
-    "url": "https://chat.groq.com/",
-    "descripcion": "Genera API keys y ejecuta modelos con latencia mínima en la nube Groq. Accede a Llama, Mixtral y otros modelos optimizados para velocidad. Prueba en chat o integra via API económica. Ideal para startups y desarrolladores que priorizan velocidad de respuesta, con costos competitivos y rendimiento superior para aplicaciones en tiempo real.",
-    "categoria": "Otros",
-    "tags": ["#APIUnificada", "#InferenciaRapida", "#LatenciaMinima", "#TokensEconomicos", "#GeneracionClaves"]
-  },
-  {
     "id": 70,
     "nombre_web": "Python.org",
     "empresa": "Python Software Foundation",
@@ -1555,5 +1546,14 @@
     "descripcion": "Crea prompts efectivos para IA en segundos: genera ideas claras y optimizadas para ChatGPT, Bard y otros modelos. Mejora la calidad de tus respuestas, ahorra tiempo y potencia tu creatividad con un generador intuitivo y gratuito. Ideal para redactores, marketers y desarrolladores que buscan resultados precisos y profesionales.",
     "categoria": "IA",
     "tags": ["#Prompt", "#GeneradorPropmts", "#promptengineering", "#herramientasdigitales"]
+  },
+  {
+    "id": 177,
+    "nombre_web": "Biblioteca Secreta",
+    "empresa": "Biblioteca Secreta",
+    "url": "http://bibliotecasecreta.nl",
+    "descripcion": "Descarga gratis libros en español en PDF y EPUB. Explora clásicos y novedades editoriales sin registro, amplía tu biblioteca digital y disfruta lectura en cualquier dispositivo",
+    "categoria": "Descargas",
+    "tags": ["#Download", "#Ebook", "#Telegram"]
   }
 ]
