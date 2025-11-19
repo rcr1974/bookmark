@@ -1,0 +1,295 @@
+:root {
+    --bg-sidebar: #1a1a2e;
+    --bg-main-start: #1a1a2e;
+    --bg-main-end: #16213e;
+    --card-bg: rgba(255, 255, 255, 0.05);
+    --card-hover: rgba(255, 255, 255, 0.1);
+    --text-primary: #ffffff;
+    --text-secondary: #aeb0b7;
+    --accent-color: #4ecca3;
+    --active-category: rgba(78, 204, 163, 0.2);
+}
+
+.text-accent {
+    color: var(--accent-color);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+    /* Body background acts as a fallback */
+    background-color: var(--bg-main-end);
+    color: var(--text-primary);
+    min-height: 100vh;
+}
+
+/* Sidebar Styles */
+#sidebar-wrapper {
+    height: 100vh; /* Fixed height for flex column to work */
+    margin-left: -16rem;
+    transition: margin 0.25s ease-out;
+    background-color: var(--bg-sidebar) !important;
+    width: 16rem;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--text-secondary) !important;
+    flex-shrink: 0;
+}
+
+#sidebar-wrapper .list-group-item {
+    padding: 0.75rem 1.25rem;
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: none;
+    border-radius: 0.5rem;
+    margin-bottom: 0.25rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    font-size: 0.95rem;
+}
+
+#sidebar-wrapper .list-group-item:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+}
+
+#sidebar-wrapper .list-group-item.active {
+    background-color: var(--active-category);
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+#sidebar-wrapper .list-group-item i {
+    width: 25px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+/* Content Wrapper */
+#page-content-wrapper {
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0; 
+    transition: margin 0.25s ease-out;
+    min-height: 100vh;
+    /* Gradient Background: Dark on Right, Blueish on Left (near sidebar) 
+    background: linear-gradient(to left, #1a1a2e 0%, #1a1a2e 50%, #2d4a6d 100%);*/
+    background: linear-gradient(90deg, #16213e 0%, #1a1a2e 40%, #2d4a6d 100%);
+}
+
+/* Desktop view logic for sidebar */
+@media (min-width: 992px) {
+    #sidebar-wrapper {
+        margin-left: 0;
+    }
+    #page-content-wrapper {
+        margin-left: 16rem;
+        width: calc(100% - 16rem);
+    }
+}
+
+/* Toggled state for mobile */
+body.sb-sidenav-toggled #sidebar-wrapper {
+    margin-left: 0;
+}
+
+/* Navbar */
+.navbar h1 {
+    font-size: 2.5rem;
+}
+
+/* Search Input & Icons visibility fix */
+.search-container .form-control:focus,
+.input-group .form-control:focus {
+    box-shadow: none;
+    border-color: var(--accent-color);
+}
+
+.input-group-text {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.input-group-text i {
+    color: var(--text-secondary);
+}
+
+/* Bookmark Cards */
+.bookmark-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.bookmark-card:hover {
+    background: var(--card-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.bookmark-card .logo-container {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    color: var(--accent-color);
+    flex-shrink: 0;
+    position: relative;
+}
+
+.bookmark-card .logo-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    border-radius: 4px;
+    z-index: 2;
+    position: relative;
+}
+
+/* Fallback Icon Logic */
+.logo-fallback {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    display: none;
+}
+
+.logo-container.error .logo-img {
+    display: none;
+}
+.logo-container.error .logo-fallback {
+    display: block;
+}
+
+.bookmark-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.2rem;
+    text-decoration: none;
+}
+
+.bookmark-title:hover {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.bookmark-company {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+}
+
+.bookmark-desc {
+    font-size: 0.9rem;
+    color: #d1d5db;
+    line-height: 1.5;
+}
+
+/* Badges */
+.category-badge {
+    background-color: #3b82f6;
+    color: white;
+    font-size: 0.75rem;
+    padding: 0.25em 0.8em;
+    border-radius: 20px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.tag-badge {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 15px;
+    padding: 2px 8px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+}
+
+.tag-badge:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+    border-color: white;
+}
+
+/* Browser Tags View */
+.browser-tags-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    min-height: 60vh;
+}
+
+.footer-cat-btn {
+    color: var(--text-secondary);
+    border-color: rgba(255,255,255,0.1);
+    padding: 0.5rem 1rem;
+    transition: all 0.3s;
+}
+
+.footer-cat-btn:hover {
+    background-color: var(--accent-color);
+    color: #1a1a2e;
+    border-color: var(--accent-color);
+    transform: translateY(-2px);
+}
+
+.animate-fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (min-width: 768px) {
+    .border-end-md {
+        border-right: 1px solid rgba(255,255,255,0.1) !important;
+    }
+}
+
+/* Custom Scrollbar for sidebar list */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #3a3a50;
+    border-radius: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #4a4a60;
+}
