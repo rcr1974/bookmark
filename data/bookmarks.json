@@ -1582,6 +1582,14 @@
     "descripcion": "Proporcionan una colección de herramientas de búsqueda OSINT gratuitas en su sitio web, diseñadas para simplificar la recopilación de información de fuentes públicas como redes sociales, registros de dominios y documentos públicos.",
     "categoria": "Herramientas",
     "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
+  },
+  {
+    "id": 180,
+    "nombre_web": "Facecheck",
+    "empresa": "Facecheck",
+    "url": "https://facecheck.id/es",
+    "descripcion": "Es un motor de búsqueda avanzado de reconocimiento facial que utiliza inteligencia artificial (IA) para realizar búsquedas inversas de imágenes de rostros en internet",
+    "categoria": "Herramientas",
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
   }
-  
 ]
