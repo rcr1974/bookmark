@@ -1555,5 +1555,23 @@
     "descripcion": "Descarga gratis libros en español en PDF y EPUB. Explora clásicos y novedades editoriales sin registro, amplía tu biblioteca digital y disfruta lectura en cualquier dispositivo",
     "categoria": "Descargas",
     "tags": ["#Download", "#Ebook", "#Telegram"]
+  },
+  {
+    "id": 178,
+    "nombre_web": "Intelligence X",
+    "empresa": "Intelligence X",
+    "url": "https://intelx.io/",
+    "descripcion": "Herramienta para buscar información existente en internet de una persona, email, ...",
+    "categoria": "Herramientas",
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet"]
+  }, 
+  {
+    "id": 179,
+    "nombre_web": "Osintcombine",
+    "empresa": "Osintcombine",
+    "url": "https://www.osintcombine.com/tools",
+    "descripcion": "Recopila información de toda la red utilizando herramientas de inteligencia de código abierto gratuitas y colecciones de marcadores.",
+    "categoria": "Herramientas",
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet"]
   }
 ]
