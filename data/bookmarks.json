@@ -1563,7 +1563,7 @@
     "url": "https://intelx.io/",
     "descripcion": "Herramienta para buscar información existente en internet de una persona, email, ...",
     "categoria": "Herramientas",
-    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet"]
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
   }, 
   {
     "id": 179,
@@ -1572,6 +1572,16 @@
     "url": "https://www.osintcombine.com/tools",
     "descripcion": "Recopila información de toda la red utilizando herramientas de inteligencia de código abierto gratuitas y colecciones de marcadores.",
     "categoria": "Herramientas",
-    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet"]
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
+  },
+  {
+    "id": 179,
+    "nombre_web": "Inteltechniques",
+    "empresa": "Inteltechniques",
+    "url": "https://inteltechniques.com/tools/index.html",
+    "descripcion": "Proporcionan una colección de herramientas de búsqueda OSINT gratuitas en su sitio web, diseñadas para simplificar la recopilación de información de fuentes públicas como redes sociales, registros de dominios y documentos públicos.",
+    "categoria": "Herramientas",
+    "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
   }
+  
 ]
