@@ -1591,5 +1591,77 @@
     "descripcion": "Es un motor de búsqueda avanzado de reconocimiento facial que utiliza inteligencia artificial (IA) para realizar búsquedas inversas de imágenes de rostros en internet",
     "categoria": "Herramientas",
     "tags": ["#cv", "#InformacionPersonal", "#InformacionInternet", "#OSINT"]
+  },
+  {
+    "id": 181,
+    "nombre_web": "Tinywow",
+    "empresa": "Tinywow",
+    "url": "https://tinywow.com/",
+    "descripcion": "Simplifica tus tareas digitales en TinyWow: más de 200 herramientas online gratuitas —PDF, imagen, video y texto con IA— para convertir, editar, firmar, comprimir, redactar y generar contenido sin instalar nada. Solo subes tu archivo, eliges acción y descargas el resultado. Sin límites, sin registro y con privacidad garantizada.",
+    "categoria": "Herramientas",
+    "tags": ["#Tools", "#EdiciónPDF", "#ConversorOnline", "#OnLineTools"]
+  },
+  {
+    "id": 182,
+    "nombre_web": "Temp-mail",
+    "empresa": "Temp-mail",
+    "url": "https://temp-mail.org/es/",
+    "descripcion": "Usa Temp‑Mail para crear correos temporales en web, móvil o extensión de navegador. Recibe correos, adjuntos y códigos de verificación, sin registro, sin spam, sin comprometer tu identidad. Los mensajes se eliminan tras un tiempo predefinido y puedes renovar la dirección con un clic. Una solución rápida y anónima para registros, pruebas y descargas seguras.",
+    "categoria": "Herramientas",
+    "tags": ["#Mail", "#MailTemporal", "#CorreoDesechable"]
+  },
+  {
+    "id": 183,
+    "nombre_web": "Removebg",
+    "empresa": "Removebg",
+    "url": "https://www.remove.bg/",
+    "descripcion": "Transforma tus imágenes en segundos: remove.bg elimina el fondo automáticamente con tecnología avanzada. Sube tu foto, descarga el resultado y úsalo en diseños, productos o contenido digital. Sin registro, sin complicaciones, con calidad profesional y soporte para múltiples formatos. Perfecto para creativos, empresas y usuarios que buscan rapidez y precisión.",
+    "categoria": "Herramientas",
+    "tags": ["#QuitarFondo", "#EdiciónImagen", "#RemoveBackground"]
+  },
+  {
+    "id": 184,
+    "nombre_web": "Removebg",
+    "empresa": "Removebg",
+    "url": "https://www.remove.bg/",
+    "descripcion": "Con cleanup.pictures, limpia tus fotos en segundos. Elimina objetos, texto y distracciones para obtener imágenes nítidas y atractivas. Herramienta online gratuita, rápida y segura, ideal para presentaciones, publicaciones y proyectos visuales. Ahorra tiempo y mejora tu contenido sin software complejo.",
+    "categoria": "Herramientas",
+    "tags": ["#EliminarObjetos", "#EdiciónImagen", "#RetoqueImagen"]
+  },
+  {
+    "id": 185,
+    "nombre_web": "Distrosea",
+    "empresa": "Distrosea",
+    "url": "https://distrosea.com/es/",
+    "descripcion": "Prueba decenas de distribuciones de Linux en tu navegador, sin instalar ni configurar nada. Con DistroSea puedes explorar Ubuntu, Fedora, Debian y más, en solo segundos. Ideal para decidir qué distro usar, aprender Linux o experimentar entornos sin riesgos. Accede, prueba y cierra cuando quieras — todo gratuito y sin registros.",
+    "categoria": "Herramientas",
+    "tags": ["#Linux", "#LinuxOnline ", "#EntornoVirtual", "#DistribucionesLinux"]
+  },
+  {
+    "id": 186,
+    "nombre_web": "Bjedu",
+    "empresa": "Bjedu",
+    "url": "https://em.bjedu.tech/",
+    "descripcion": "Accede a em.bjedu.tech: una plataforma educativa interactiva para aprender programación, tecnología y competencias digitales. Cursos prácticos, recursos gratuitos y entornos de desarrollo en línea para estudiantes y profesionales. Aprende a tu ritmo, mejora tus habilidades y obtén certificaciones reconocidas. Todo desde tu navegador, sin instalaciones.",
+    "categoria": "Herramientas",
+    "tags": ["#Email", "#EducaciónDigital", "#EmailCentroEducacional", "#EmailTemporal"]
+  },
+  {
+    "id": 187,
+    "nombre_web": "Retrogamesnexus",
+    "empresa": "Retrogamesnexus",
+    "url": "https://retrogamesnexus.com/",
+    "descripcion": "RetroGamesNexus te permite jugar juegos retro online al instante. Explora un catálogo enorme de clásicos, desde plataformas legendarias hasta arcades inolvidables. Sin instalación, sin registro, solo diversión directa en tu navegador. Ideal para fans del gaming y coleccionistas digitales.",
+    "categoria": "Otros",
+    "tags": ["#JuegosOnLine", "#EmulaciónGaming", "#ArcadeClásico", "#ConsolasVintage"]
+  },
+  {
+    "id": 187,
+    "nombre_web": "CVora",
+    "empresa": "CVora",
+    "url": "https://www.cvora.net/",
+    "descripcion": "Diseña tu currículum profesional en minutos con CVora.net. Plantillas modernas, personalización sencilla y descarga en PDF para destacar en cualquier proceso de selección. Sin complicaciones, sin software adicional, todo online y gratuito. Ideal para estudiantes, profesionales y candidatos que buscan causar una gran impresión.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum"]
   }
 ]
