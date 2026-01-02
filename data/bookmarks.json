@@ -1377,28 +1377,10 @@
     "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
   },
   {
-    "id": 158,
-    "nombre_web": "Wolfmax4k",
-    "empresa": "wolfmax4k",
-    "url": "https://wolfmax4k.com/",
-    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
-    "categoria": "Descargas",
-    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
-  },
-  {
     "id": 159,
     "nombre_web": "Grantorrent",
     "empresa": "grantorrent",
     "url": "https://grantorrent.wtf/inicio",
-    "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
-    "categoria": "Descargas",
-    "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
-  },
-   {
-    "id": 160,
-    "nombre_web": "Grantorrent",
-    "empresa": "grantorrent",
-    "url": "https://grantorrent.quest/",
     "descripcion": "Busca y descarga torrents de películas, series, música y software de forma rápida y segura. Accede a enlaces verificados y disfruta contenido gratuito sin registro.",
     "categoria": "Descargas",
     "tags": ["#Download", "#Pelis", "#Series", "#Torrents"]
@@ -1656,12 +1638,22 @@
     "tags": ["#JuegosOnLine", "#EmulaciónGaming", "#ArcadeClásico", "#ConsolasVintage"]
   },
   {
-    "id": 187,
+    "id": 188,
     "nombre_web": "CVora",
     "empresa": "CVora",
     "url": "https://www.cvora.net/",
     "descripcion": "Diseña tu currículum profesional en minutos con CVora.net. Plantillas modernas, personalización sencilla y descarga en PDF para destacar en cualquier proceso de selección. Sin complicaciones, sin software adicional, todo online y gratuito. Ideal para estudiantes, profesionales y candidatos que buscan causar una gran impresión.",
     "categoria": "Ofertas de trabajo",
     "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum"]
+  },
+ {
+    "id": 189,
+    "nombre_web": "Gam",
+    "empresa": "Gam",
+    "url": "https://gam.onl/",
+    "descripcion": "Gam te permite jugar juegos retro online al instante. Explora un catálogo enorme de clásicos, desde plataformas legendarias hasta arcades inolvidables. Sin instalación, sin registro, solo diversión directa en tu navegador. Ideal para fans del gaming y coleccionistas digitales.",
+    "categoria": "Otros",
+    "tags": ["#JuegosOnLine", "#EmulaciónGaming", "#ArcadeClásico", "#ConsolasVintage"]
   }
+  
 ]
