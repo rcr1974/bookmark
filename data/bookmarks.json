@@ -1646,7 +1646,7 @@
     "categoria": "Ofertas de trabajo",
     "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum"]
   },
- {
+  {
     "id": 189,
     "nombre_web": "Gam",
     "empresa": "Gam",
@@ -1654,6 +1654,27 @@
     "descripcion": "Gam te permite jugar juegos retro online al instante. Explora un catálogo enorme de clásicos, desde plataformas legendarias hasta arcades inolvidables. Sin instalación, sin registro, solo diversión directa en tu navegador. Ideal para fans del gaming y coleccionistas digitales.",
     "categoria": "Otros",
     "tags": ["#JuegosOnLine", "#EmulaciónGaming", "#ArcadeClásico", "#ConsolasVintage"]
+  },
+  {
+    "id": 190,
+    "nombre_web": "Kickresume",
+    "empresa": "Kickresume",
+    "url": "https://www.kickresume.com/es/",
+    "descripcion": "Crea un currículum profesional o una carta de presentación impactante en segundos usando nuestra avanzada IA. Elige entre más de 1,500 plantillas validadas por reclutadores, optimiza tu perfil para sistemas ATS y accede a ejemplos reales de éxito. ¡Diseña tu futuro profesional, destaca entre la competencia y consigue más entrevistas hoy mismo de forma fácil y gratuita!",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum"]
+  },
+  {
+    "id": 191,
+    "nombre_web": "OutletExclusivo",
+    "empresa": "Outlet Exclusivo",
+    "url": "https://outletexclusivo.es/",
+    "descripcion": "Accede a una amplia gama de productos de marca con rebajas permanentes y garantías de autenticidad. Los usuarios pueden navegar por categorías especializadas, encontrar tallas difíciles y recibir sus pedidos con total comodidad en casa. Optimiza tu presupuesto sin renunciar al diseño ni a la calidad. ¡Regístrate hoy, explora nuestras novedades y empieza a ahorrar de verdad!",
+    "categoria": "Moda & Compras",
+    "tags": ["#Outlet", "#Descuentos", "#Ofertas"]
   }
+
+
+  
   
 ]
