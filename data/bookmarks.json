@@ -1699,9 +1699,19 @@
     "descripcion": "Aprovecha una colección organizada de prompts expertos para impulsar tus proyectos con IA. Filtra por temática, accede a ideas de alta calidad y reutiliza tus mejores prompts desde “My Prompts”. Todo diseñado para ayudarte a trabajar más rápido, con más claridad y mejores resultados",
     "categoria": "IA",
     "tags": ["#Prompt", "#GeneradorPropmts", "#promptengineering"]
+  },
+  {
+    "id": 195,
+    "nombre_web": "Repositorio de skills",
+    "empresa": "Skills",
+    "url": "https://skills.sh/",
+    "descripcion": "Skills.sh es el ecosistema abierto para ampliar las capacidades de tus agentes de IA: busca skills verificados, consulta rankings y añádelos instantáneamente vía npx skills add. Equipa a tu agente con mejores prácticas, flujos de trabajo y documentación especializada sin repetir prompts. Ideal para desarrolladores que buscan consistencia, velocidad y resultados más fiables.",
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#Skills", "#ViveCoding", "#Agentes", "#WorkflowComplejo"]
   }
 
 
-  
+
+
   
 ]
