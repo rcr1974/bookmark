@@ -1672,6 +1672,33 @@
     "descripcion": "Accede a una amplia gama de productos de marca con rebajas permanentes y garantías de autenticidad. Los usuarios pueden navegar por categorías especializadas, encontrar tallas difíciles y recibir sus pedidos con total comodidad en casa. Optimiza tu presupuesto sin renunciar al diseño ni a la calidad. ¡Regístrate hoy, explora nuestras novedades y empieza a ahorrar de verdad!",
     "categoria": "Moda & Compras",
     "tags": ["#Outlet", "#Descuentos", "#Ofertas"]
+  },
+  {
+    "id": 192,
+    "nombre_web": "Anthropic Skills",
+    "empresa": "Anthropic",
+    "url": "https://github.com/anthropics/skills",
+    "descripcion": "Todo para empezar con Skills: ejemplos, especificación y plantilla. Instala el marketplace, invoca “usa la skill X” y deja que Claude ejecute tareas complejas de forma fiable (documentos, análisis, branding, QA). Crea Skills propias con YAML + Markdown y compártelas con tu equipo o en proyectos",
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#Skills", "#ViveCoding", "#Agentes", "#WorkflowComplejo"]
+  },
+  {
+    "id": 193,
+    "nombre_web": "Agent Skills",
+    "empresa": "agentskills",
+    "url": "https://agentskills.io/",
+    "descripcion": "Como crear un skill",
+    "categoria": "IA",
+    "tags": ["#CodigoIA", "#Skills", "#ViveCoding", "#Agentes", "#WorkflowComplejo"]
+  },
+  {
+    "id": 194,
+    "nombre_web": "Libreria de prompts",
+    "empresa": "promptly",
+    "url": "https://www.promptly.fyi/library",
+    "descripcion": "Aprovecha una colección organizada de prompts expertos para impulsar tus proyectos con IA. Filtra por temática, accede a ideas de alta calidad y reutiliza tus mejores prompts desde “My Prompts”. Todo diseñado para ayudarte a trabajar más rápido, con más claridad y mejores resultados",
+    "categoria": "IA",
+    "tags": ["#Prompt", "#GeneradorPropmts", "#promptengineering"]
   }
 
 
