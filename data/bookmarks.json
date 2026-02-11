@@ -1708,7 +1708,35 @@
     "descripcion": "Skills.sh es el ecosistema abierto para ampliar las capacidades de tus agentes de IA: busca skills verificados, consulta rankings y añádelos instantáneamente vía npx skills add. Equipa a tu agente con mejores prácticas, flujos de trabajo y documentación especializada sin repetir prompts. Ideal para desarrolladores que buscan consistencia, velocidad y resultados más fiables.",
     "categoria": "IA",
     "tags": ["#CodigoIA", "#Skills", "#ViveCoding", "#Agentes", "#WorkflowComplejo"]
+  },
+  {
+    "id": 196,
+    "nombre_web": "Enhancv",
+    "empresa": "Enhancv",
+    "url": "https://enhancv.com/",
+    "descripcion": "Diseña un currículum atractivo y personalizado con herramientas intuitivas, plantillas flexibles y funciones impulsadas por IA. Mejora tu texto, evita errores, adapta tu CV a cada puesto y destaca con un diseño profesional probado por reclutadores y compatible con ATS.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum"]
+  },
+  {
+    "id": 197,
+    "nombre_web": "Tealhq",
+    "empresa": "Tealhq",
+    "url": "https://tealhq.com/",
+    "descripcion": "TealHQ te ayuda a encontrar trabajo más rápido con un creador de currículums impulsado por IA, un rastreador de ofertas, análisis de palabras clave, cartas de presentación automatizadas y herramientas para organizar todo tu proceso de búsqueda. Ahorra tiempo, mejora tu candidatura y avanza con datos y recomendaciones inteligentes.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum", "#seguimientodecandidaturas", "#analisisdelempleo", "#cartaspersonalizadas"]
+  },
+  {
+    "id": 198,
+    "nombre_web": "Cvgood",
+    "empresa": "Cvgood",
+    "url": "https://cvgood.dev/",
+    "descripcion": "Optimiza tu CV en segundos con IA: sube tu archivo, pega la oferta y obtén un currículum perfectamente adaptado, con palabras clave relevantes, formato profesional y total compatibilidad ATS. Aumenta tus posibilidades de ser seleccionado con un CV más claro, legible y alineado con los requisitos del puesto, todo de forma rápida y automática.",
+    "categoria": "Ofertas de trabajo",
+    "tags": ["#cv", "#CurriculumOnline", "#DiseñoCurriculum", "#optimizacioncv "]
   }
+
 
 
 
